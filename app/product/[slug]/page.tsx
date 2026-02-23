@@ -67,7 +67,7 @@ export default function ProductDetailPage() {
   const breadcrumbs = [
     { label: "Home", href: "/" },
     { label: "Shop", href: "/shop" },
-    { label: product.category, href: `/category/${product.categorySlug}` },
+    { label: product.category, href: `/shop?category=${product.categorySlug}` },
     { label: product.name },
   ];
 
@@ -131,7 +131,7 @@ export default function ProductDetailPage() {
           <div className="lg:w-1/2">
             {/* Category */}
             <Link
-              href={`/category/${product.categorySlug}`}
+              href={`/shop?category=${product.categorySlug}`}
               className="mb-2 inline-block text-xs font-semibold uppercase tracking-widest text-primary hover:underline"
             >
               {product.category}

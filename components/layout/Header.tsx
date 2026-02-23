@@ -134,7 +134,8 @@ export default function Header() {
             </button>
 
             {/* Account — hidden below sm */}
-            <button
+            <Link
+              href="/account"
               aria-label="Account"
               className="group relative hidden flex-col items-center gap-0.5 px-2 text-slate-500 transition-colors hover:text-primary sm:flex"
             >
@@ -142,7 +143,7 @@ export default function Header() {
                 person
               </span>
               <span className="hidden text-[10px] font-medium md:block">Account</span>
-            </button>
+            </Link>
 
             {/* Sign In — hidden below md */}
             <Link

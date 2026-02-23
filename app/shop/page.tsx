@@ -13,7 +13,8 @@
 
 "use client";
 
-import { useState, useMemo, useEffect, useCallback } from "react";
+import { useState, useMemo, useEffect, useCallback, Suspense } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import PageShell from "@/components/layout/PageShell";
@@ -27,11 +28,6 @@ import {
 import type { Product } from "@/lib/types";
 
 const ITEMS_PER_PAGE = 9;
-
-const breadcrumbs = [
-  { label: "Home", href: "/" },
-  { label: "Shop" },
-];
 
 /* ── Star helper ────────────────────────────────────────────────────────── */
 function Stars({ rating }: { rating: number }) {
@@ -56,13 +52,37 @@ function Stars({ rating }: { rating: number }) {
 
 /* ═══════════════════════════════════════════════════════════════════════════ */
 
-export default function ShopPage() {
+function ShopContent() {
+  const searchParams = useSearchParams();
+  const router = useRouter();
+
   /* ── State ────────────────────────────────────────────────────────────── */
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const categoryFromUrl = searchParams.get("category");
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(categoryFromUrl);
   const [selectedPriceRange, setSelectedPriceRange] = useState<number | null>(null);
   const [sortBy, setSortBy] = useState("relevance");
   const [page, setPage] = useState(1);
   const [filterDrawerOpen, setFilterDrawerOpen] = useState(false);
+
+  /* Sync state when URL query param changes (e.g. clicking a category link) */
+  useEffect(() => {
+    setSelectedCategory(categoryFromUrl);
+  }, [categoryFromUrl]);
+
+  /* Update the URL when category filter changes internally */
+  const handleCategoryChange = useCallback(
+    (slug: string | null) => {
+      setSelectedCategory(slug);
+      const params = new URLSearchParams(searchParams.toString());
+      if (slug) {
+        params.set("category", slug);
+      } else {
+        params.delete("category");
+      }
+      router.replace(`/shop${params.toString() ? `?${params.toString()}` : ""}`, { scroll: false });
+    },
+    [searchParams, router],
+  );
 
   // Lock body scroll while filter drawer is open
   useEffect(() => {
@@ -116,6 +136,16 @@ export default function ShopPage() {
   /* Reset to page 1 when filters change */
   useEffect(() => setPage(1), [selectedCategory, selectedPriceRange, sortBy]);
 
+  /* ── Breadcrumbs (dynamic based on active category) ──────────────── */
+  const activeCat = SIDEBAR_CATEGORIES.find(
+    (c) => new URL(c.href, "http://x").searchParams.get("category") === selectedCategory,
+  );
+  const breadcrumbs = [
+    { label: "Home", href: "/" },
+    { label: "Shop", href: "/shop" },
+    ...(activeCat ? [{ label: activeCat.name }] : []),
+  ];
+
   /* ── Filter sidebar content (shared between desktop & drawer) ─────── */
   const filterContent = (
     <>
@@ -127,7 +157,7 @@ export default function ShopPage() {
         <ul className="space-y-1">
           <li>
             <button
-              onClick={() => setSelectedCategory(null)}
+              onClick={() => handleCategoryChange(null)}
               className={`w-full rounded-lg px-3 py-2 text-left text-sm transition-colors ${
                 !selectedCategory
                   ? "bg-primary/10 font-semibold text-primary"
@@ -137,23 +167,26 @@ export default function ShopPage() {
               All Categories
             </button>
           </li>
-          {SIDEBAR_CATEGORIES.map((cat) => (
-            <li key={cat.id}>
-              <button
-                onClick={() => setSelectedCategory(cat.href.split("/").pop()!)}
-                className={`flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors ${
-                  selectedCategory === cat.href.split("/").pop()
-                    ? "bg-primary/10 font-semibold text-primary"
-                    : "text-slate-600 hover:bg-slate-50"
-                }`}
-              >
-                <span className="material-symbols-outlined text-base text-slate-400" aria-hidden="true">
-                  {cat.icon}
-                </span>
-                {cat.name}
-              </button>
-            </li>
-          ))}
+          {SIDEBAR_CATEGORIES.map((cat) => {
+            const slug = new URL(cat.href, "http://x").searchParams.get("category") ?? "";
+            return (
+              <li key={cat.id}>
+                <button
+                  onClick={() => handleCategoryChange(slug)}
+                  className={`flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors ${
+                    selectedCategory === slug
+                      ? "bg-primary/10 font-semibold text-primary"
+                      : "text-slate-600 hover:bg-slate-50"
+                  }`}
+                >
+                  <span className="material-symbols-outlined text-base text-slate-400" aria-hidden="true">
+                    {cat.icon}
+                  </span>
+                  {cat.name}
+                </button>
+              </li>
+            );
+          })}
         </ul>
       </div>
 
@@ -274,7 +307,7 @@ export default function ShopPage() {
                 </p>
                 <button
                   onClick={() => {
-                    setSelectedCategory(null);
+                    handleCategoryChange(null);
                     setSelectedPriceRange(null);
                   }}
                   className="mt-3 text-sm font-semibold text-primary hover:underline"
@@ -432,5 +465,14 @@ export default function ShopPage() {
         </div>
       </aside>
     </PageShell>
+  );
+}
+
+/* Wrap in Suspense for useSearchParams SSR compatibility */
+export default function ShopPage() {
+  return (
+    <Suspense>
+      <ShopContent />
+    </Suspense>
   );
 }

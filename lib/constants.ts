@@ -36,7 +36,7 @@ export const UTILITY_RIGHT_LINKS: NavLink[] = [
 ];
 
 export const SUB_NAV_LINKS: NavLink[] = [
-  { label: "All Categories", href: "/categories" },
+  { label: "All Categories", href: "/shop" },
   { label: "Featured", href: "/featured" },
   { label: "New Arrivals", href: "/new-arrivals" },
   { label: "Top Ranking", href: "/top-ranking" },
@@ -50,18 +50,18 @@ export const SUB_NAV_LINKS: NavLink[] = [
    ═══════════════════════════════════════════════════════════════════════════ */
 
 export const SIDEBAR_CATEGORIES: SidebarCategory[] = [
-  { id: "cat-apparel", name: "Apparel & Fashion", icon: "checkroom", href: "/category/apparel" },
-  { id: "cat-electronics", name: "Electronics", icon: "devices", href: "/category/electronics" },
-  { id: "cat-home", name: "Home & Garden", icon: "cottage", href: "/category/home-garden" },
-  { id: "cat-beauty", name: "Beauty & Health", icon: "spa", href: "/category/beauty" },
-  { id: "cat-sports", name: "Sports & Outdoors", icon: "fitness_center", href: "/category/sports" },
-  { id: "cat-shoes", name: "Shoes & Accessories", icon: "steps", href: "/category/shoes" },
-  { id: "cat-bags", name: "Bags & Luggage", icon: "luggage", href: "/category/bags" },
-  { id: "cat-jewelry", name: "Jewelry & Watches", icon: "watch", href: "/category/jewelry" },
-  { id: "cat-toys", name: "Toys & Kids", icon: "toys", href: "/category/toys" },
-  { id: "cat-auto", name: "Automotive", icon: "directions_car", href: "/category/automotive" },
-  { id: "cat-office", name: "Office Supplies", icon: "edit_note", href: "/category/office" },
-  { id: "cat-pets", name: "Pet Supplies", icon: "pets", href: "/category/pets" },
+  { id: "cat-apparel", name: "Apparel & Fashion", icon: "checkroom", href: "/shop?category=apparel" },
+  { id: "cat-electronics", name: "Electronics", icon: "devices", href: "/shop?category=electronics" },
+  { id: "cat-home", name: "Home & Garden", icon: "cottage", href: "/shop?category=home-garden" },
+  { id: "cat-beauty", name: "Beauty & Health", icon: "spa", href: "/shop?category=beauty" },
+  { id: "cat-sports", name: "Sports & Outdoors", icon: "fitness_center", href: "/shop?category=sports" },
+  { id: "cat-shoes", name: "Shoes & Accessories", icon: "steps", href: "/shop?category=shoes" },
+  { id: "cat-bags", name: "Bags & Luggage", icon: "luggage", href: "/shop?category=bags" },
+  { id: "cat-jewelry", name: "Jewelry & Watches", icon: "watch", href: "/shop?category=jewelry" },
+  { id: "cat-toys", name: "Toys & Kids", icon: "toys", href: "/shop?category=toys" },
+  { id: "cat-auto", name: "Automotive", icon: "directions_car", href: "/shop?category=automotive" },
+  { id: "cat-office", name: "Office Supplies", icon: "edit_note", href: "/shop?category=office" },
+  { id: "cat-pets", name: "Pet Supplies", icon: "pets", href: "/shop?category=pets" },
 ];
 
 /* ═══════════════════════════════════════════════════════════════════════════
@@ -69,18 +69,18 @@ export const SIDEBAR_CATEGORIES: SidebarCategory[] = [
    ═══════════════════════════════════════════════════════════════════════════ */
 
 export const CATEGORY_GRID: CategoryCard[] = [
-  { id: "cg-apparel", name: "Apparel & Fashion", icon: "checkroom", bgColor: "bg-pink-50", iconColor: "text-pink-500", subcategories: ["T-Shirts", "Dresses", "Jackets"], href: "/category/apparel" },
-  { id: "cg-electronics", name: "Consumer Electronics", icon: "devices", bgColor: "bg-blue-50", iconColor: "text-blue-500", subcategories: ["Smartphones", "Laptops", "Headphones"], href: "/category/electronics" },
-  { id: "cg-sports", name: "Sports & Outdoors", icon: "fitness_center", bgColor: "bg-orange-50", iconColor: "text-orange-500", subcategories: ["Running", "Camping", "Fitness"], href: "/category/sports" },
-  { id: "cg-beauty", name: "Beauty & Health", icon: "spa", bgColor: "bg-purple-50", iconColor: "text-purple-500", subcategories: ["Skincare", "Makeup", "Wellness"], href: "/category/beauty" },
-  { id: "cg-jewelry", name: "Jewelry & Watches", icon: "watch", bgColor: "bg-amber-50", iconColor: "text-amber-600", subcategories: ["Rings", "Necklaces", "Smartwatches"], href: "/category/jewelry" },
-  { id: "cg-home", name: "Home & Garden", icon: "cottage", bgColor: "bg-green-50", iconColor: "text-green-600", subcategories: ["Furniture", "Decor", "Kitchen"], href: "/category/home-garden" },
-  { id: "cg-shoes", name: "Shoes & Accessories", icon: "steps", bgColor: "bg-red-50", iconColor: "text-red-500", subcategories: ["Sneakers", "Boots", "Sandals"], href: "/category/shoes" },
-  { id: "cg-bags", name: "Bags & Luggage", icon: "luggage", bgColor: "bg-teal-50", iconColor: "text-teal-500", subcategories: ["Backpacks", "Handbags", "Travel"], href: "/category/bags" },
-  { id: "cg-toys", name: "Toys & Kids", icon: "toys", bgColor: "bg-sky-50", iconColor: "text-sky-500", subcategories: ["Dolls", "Building Sets", "Games"], href: "/category/toys" },
-  { id: "cg-auto", name: "Automotive", icon: "directions_car", bgColor: "bg-slate-100", iconColor: "text-slate-600", subcategories: ["Parts", "Accessories", "Tools"], href: "/category/automotive" },
-  { id: "cg-pets", name: "Pet Supplies", icon: "pets", bgColor: "bg-lime-50", iconColor: "text-lime-600", subcategories: ["Food", "Toys", "Grooming"], href: "/category/pets" },
-  { id: "cg-office", name: "Office & School", icon: "edit_note", bgColor: "bg-indigo-50", iconColor: "text-indigo-500", subcategories: ["Stationery", "Printers", "Desks"], href: "/category/office" },
+  { id: "cg-apparel", name: "Apparel & Fashion", icon: "checkroom", bgColor: "bg-pink-50", iconColor: "text-pink-500", subcategories: ["T-Shirts", "Dresses", "Jackets"], href: "/shop?category=apparel" },
+  { id: "cg-electronics", name: "Consumer Electronics", icon: "devices", bgColor: "bg-blue-50", iconColor: "text-blue-500", subcategories: ["Smartphones", "Laptops", "Headphones"], href: "/shop?category=electronics" },
+  { id: "cg-sports", name: "Sports & Outdoors", icon: "fitness_center", bgColor: "bg-orange-50", iconColor: "text-orange-500", subcategories: ["Running", "Camping", "Fitness"], href: "/shop?category=sports" },
+  { id: "cg-beauty", name: "Beauty & Health", icon: "spa", bgColor: "bg-purple-50", iconColor: "text-purple-500", subcategories: ["Skincare", "Makeup", "Wellness"], href: "/shop?category=beauty" },
+  { id: "cg-jewelry", name: "Jewelry & Watches", icon: "watch", bgColor: "bg-amber-50", iconColor: "text-amber-600", subcategories: ["Rings", "Necklaces", "Smartwatches"], href: "/shop?category=jewelry" },
+  { id: "cg-home", name: "Home & Garden", icon: "cottage", bgColor: "bg-green-50", iconColor: "text-green-600", subcategories: ["Furniture", "Decor", "Kitchen"], href: "/shop?category=home-garden" },
+  { id: "cg-shoes", name: "Shoes & Accessories", icon: "steps", bgColor: "bg-red-50", iconColor: "text-red-500", subcategories: ["Sneakers", "Boots", "Sandals"], href: "/shop?category=shoes" },
+  { id: "cg-bags", name: "Bags & Luggage", icon: "luggage", bgColor: "bg-teal-50", iconColor: "text-teal-500", subcategories: ["Backpacks", "Handbags", "Travel"], href: "/shop?category=bags" },
+  { id: "cg-toys", name: "Toys & Kids", icon: "toys", bgColor: "bg-sky-50", iconColor: "text-sky-500", subcategories: ["Dolls", "Building Sets", "Games"], href: "/shop?category=toys" },
+  { id: "cg-auto", name: "Automotive", icon: "directions_car", bgColor: "bg-slate-100", iconColor: "text-slate-600", subcategories: ["Parts", "Accessories", "Tools"], href: "/shop?category=automotive" },
+  { id: "cg-pets", name: "Pet Supplies", icon: "pets", bgColor: "bg-lime-50", iconColor: "text-lime-600", subcategories: ["Food", "Toys", "Grooming"], href: "/shop?category=pets" },
+  { id: "cg-office", name: "Office & School", icon: "edit_note", bgColor: "bg-indigo-50", iconColor: "text-indigo-500", subcategories: ["Stationery", "Printers", "Desks"], href: "/shop?category=office" },
 ];
 
 /* ═══════════════════════════════════════════════════════════════════════════

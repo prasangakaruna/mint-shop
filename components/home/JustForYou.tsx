@@ -16,7 +16,7 @@ export default function JustForYou() {
       <SectionHeader
         title="Just for You"
         linkText="See More"
-        href="/recommendations"
+        href="/shop"
       />
 
       <div className="grid grid-cols-2 gap-2.5 sm:grid-cols-3 sm:gap-5 md:grid-cols-4 lg:grid-cols-5">

@@ -51,7 +51,7 @@ export interface CategoryCard {
 /* ── Products ───────────────────────────────────────────────────────────── */
 
 /** Allowed badge labels for product tags. */
-export type ProductTag = "Hot" | "New" | "Top Ranked" | "Best Seller";
+export type ProductTag = "Hot" | "New" | "Top Ranked" | "Best Seller" | "Gift" | "Organic" | "Fresh";
 
 /** A product displayed in the "Top Ranking" section. */
 export interface TrendingProduct {

@@ -13,7 +13,7 @@ import { CATEGORY_GRID } from "@/lib/constants";
 export default function CategoriesGrid() {
   return (
     <section className="mx-auto max-w-[1400px] px-3 pb-8 sm:px-4 sm:pb-10 lg:px-8">
-      <SectionHeader title="Categories for You" href="/categories" />
+      <SectionHeader title="Categories for You" href="/shop" />
 
       <div className="grid grid-cols-3 gap-2.5 sm:grid-cols-3 sm:gap-4 md:grid-cols-4 lg:grid-cols-6">
         {CATEGORY_GRID.map((cat) => (

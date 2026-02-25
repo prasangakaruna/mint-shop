@@ -42,7 +42,7 @@ export default function CtaBanner() {
             Register for Free
           </Link>
           <Link
-            href="/contact"
+            href="/shop"
             className="rounded-lg border border-white/30 bg-white/10 px-6 py-3 text-xs font-bold text-white backdrop-blur transition-all hover:bg-white/20 sm:rounded-xl sm:px-8 sm:py-3.5 sm:text-sm"
           >
             Contact Sales

@@ -20,6 +20,9 @@ const TAG_STYLES: Record<ProductTag, string> = {
   New: "bg-primary text-slate-900",
   "Top Ranked": "bg-amber-500 text-white",
   "Best Seller": "bg-amber-500 text-white",
+  Gift: "bg-rose-500 text-white",
+  Organic: "bg-green-500 text-white",
+  Fresh: "bg-blue-500 text-white",
 };
 
 /* ── Compact variant (Top Ranking) ──────────────────────────────────────── */

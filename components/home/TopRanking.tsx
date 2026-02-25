@@ -13,7 +13,7 @@ import { TRENDING_PRODUCTS, RANKING_TABS } from "@/lib/constants";
 export default function TopRanking() {
   return (
     <section className="mx-auto max-w-[1400px] px-3 pt-8 pb-8 sm:px-4 sm:pt-10 sm:pb-10 lg:px-8">
-      <SectionHeader title="Top Ranking" href="/top-ranking">
+      <SectionHeader title="Top Ranking" href="/shop?sort=orders">
         {/* Tab buttons */}
         <div className="flex gap-1" role="tablist" aria-label="Ranking filters">
           {RANKING_TABS.map((tab, i) => (

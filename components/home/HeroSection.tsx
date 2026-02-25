@@ -116,7 +116,7 @@ export default function HeroSection() {
                 Exclusive rewards, early access &amp; free shipping.
               </p>
               <Link
-                href="/mint-club"
+                href="/shop?filter=mint-club"
                 className="inline-flex items-center gap-1 text-xs font-bold text-white hover:underline"
               >
                 Join Free
@@ -139,7 +139,7 @@ export default function HeroSection() {
                 Ends in 08:42:15. Grab before they&apos;re gone.
               </p>
               <Link
-                href="/deals"
+                href="/shop?filter=deals"
                 className="inline-flex items-center gap-1 text-xs font-bold text-white hover:underline"
               >
                 Shop Deals

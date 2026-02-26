@@ -13,13 +13,15 @@
 
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import PageShell from "@/components/layout/PageShell";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
-import { SHOP_PRODUCTS, MOCK_REVIEWS } from "@/lib/constants";
+import { MOCK_REVIEWS } from "@/lib/constants";
+import { getProductBySlug, getAllProducts } from "@/lib/products";
+import type { Product } from "@/lib/types";
 
 /* ── Star helper ────────────────────────────────────────────────────────── */
 function Stars({ rating, size = "text-sm" }: { rating: number; size?: string }) {
@@ -46,21 +48,55 @@ export default function ProductDetailPage() {
   const params = useParams();
   const slug = params.slug as string;
 
-  const product = SHOP_PRODUCTS.find((p) => p.slug === slug) ?? SHOP_PRODUCTS[0];
-
+  const [product, setProduct] = useState<Product | null>(null);
+  const [allProducts, setAllProducts] = useState<Product[]>([]);
+  const [loading, setLoading] = useState(true);
   const [selectedImage, setSelectedImage] = useState(0);
   const [quantity, setQuantity] = useState(1);
   const [activeTab, setActiveTab] = useState<"description" | "specs" | "reviews">("description");
 
-  const relatedProducts = useMemo(
-    () => SHOP_PRODUCTS.filter((p) => p.id !== product.id && p.categorySlug === product.categorySlug).slice(0, 4),
-    [product]
-  );
+  useEffect(() => {
+    async function loadProduct() {
+      setLoading(true);
+      try {
+        const [foundProduct, products] = await Promise.all([
+          getProductBySlug(slug),
+          getAllProducts()
+        ]);
+        setProduct(foundProduct);
+        setAllProducts(products);
+      } catch (error) {
+        console.error("Error loading product:", error);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadProduct();
+  }, [slug]);
+
+  const relatedProducts = useMemo(() => {
+    if (!product) return [];
+    return allProducts.filter((p) => p.id !== product.id && p.categorySlug === product.categorySlug).slice(0, 4);
+  }, [product, allProducts]);
 
   // Fall back to other products if same category is sparse
   const related = relatedProducts.length >= 2
     ? relatedProducts
-    : SHOP_PRODUCTS.filter((p) => p.id !== product.id).slice(0, 4);
+    : allProducts.filter((p) => p.id !== product?.id).slice(0, 4);
+
+  if (loading || !product) {
+    return (
+      <PageShell>
+        <section className="mx-auto max-w-[1400px] px-3 py-4 sm:px-4 sm:py-6 lg:px-8">
+          <div className="flex items-center justify-center py-20">
+            <span className="material-symbols-outlined text-5xl text-slate-300 animate-spin" aria-hidden="true">
+              refresh
+            </span>
+          </div>
+        </section>
+      </PageShell>
+    );
+  }
 
   const discount = Math.round((1 - product.price / product.originalPrice) * 100);
 

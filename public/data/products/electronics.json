@@ -1,0 +1,1341 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Wireless Earbuds Pro Max",
+    "slug": "wireless-earbuds-pro-max",
+    "price": 29.9,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Premium wireless earbuds with active noise cancellation, 36-hour battery life, and crystal-clear sound quality. IPX5 waterproof rated for workouts. Ergonomic design ensures all-day comfort with memory foam ear tips included.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=4040707754",
+      "https://loremflickr.com/800/800/smartphone?random=4040707755",
+      "https://loremflickr.com/800/800/laptop?random=4040707756",
+      "https://loremflickr.com/800/800/headphones?random=4040707757"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.8,
+    "reviewCount": 2341,
+    "orders": "5,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Battery Life": "36 hours (with case)",
+      "Connectivity": "Bluetooth 5.3",
+      "Water Resistance": "IPX5",
+      "Driver Size": "12mm",
+      "Weight": "5.2g per earbud",
+      "Noise Cancellation": "Active (ANC)"
+    },
+    "highlights": [
+      "Active Noise Cancellation with transparency mode",
+      "36-hour total battery life with wireless charging case",
+      "IPX5 waterproof — perfect for workouts",
+      "Touch controls for music, calls & voice assistant",
+      "Premium memory foam ear tips (3 sizes included)"
+    ]
+  },
+  {
+    "id": "prod-2",
+    "name": "Smart Fitness Watch Ultra",
+    "slug": "smart-fitness-watch-ultra",
+    "price": 45,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Advanced fitness tracking with heart rate, SpO2, sleep analysis, and 100+ workout modes. Always-on AMOLED display with 7-day battery life. GPS built-in for outdoor activities.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=3029507567",
+      "https://loremflickr.com/800/800/smartphone?random=3029507568",
+      "https://loremflickr.com/800/800/laptop?random=3029507569",
+      "https://loremflickr.com/800/800/headphones?random=3029507570"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.9,
+    "reviewCount": 1856,
+    "orders": "3,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Display": "1.43\" AMOLED",
+      "Battery Life": "7 days typical",
+      "Water Resistance": "5 ATM",
+      "Sensors": "HR, SpO2, Accelerometer, Gyroscope",
+      "GPS": "Built-in (GPS + GLONASS)",
+      "Compatibility": "iOS 14+ / Android 8+"
+    },
+    "highlights": [
+      "Always-on AMOLED display",
+      "100+ sport modes with auto-detection",
+      "Built-in GPS for outdoor tracking",
+      "7-day battery life",
+      "Sleep & stress monitoring"
+    ]
+  },
+  {
+    "id": "prod-7",
+    "name": "Smart Fitness Tracker Band",
+    "slug": "smart-fitness-tracker-band",
+    "price": 45,
+    "originalPrice": 79,
+    "currency": "USD",
+    "description": "Slim and lightweight fitness band with continuous heart rate monitoring, step tracking, sleep analysis, and smartphone notifications. 14-day battery life.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=1238001417",
+      "https://loremflickr.com/800/800/smartphone?random=1238001418",
+      "https://loremflickr.com/800/800/laptop?random=1238001419",
+      "https://loremflickr.com/800/800/headphones?random=1238001420"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 4521,
+    "orders": "5,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Display": "0.96\" AMOLED",
+      "Battery Life": "14 days",
+      "Water Resistance": "5 ATM",
+      "Weight": "22g (without strap)",
+      "Sensors": "PPG heart rate, 3-axis accelerometer",
+      "Compatibility": "iOS 12+ / Android 7+"
+    },
+    "highlights": [
+      "Ultra-slim and comfortable design",
+      "14-day battery on a single charge",
+      "24/7 heart rate & sleep monitoring",
+      "Smartphone notifications & call alerts",
+      "50m water resistance"
+    ]
+  },
+  {
+    "id": "prod-12",
+    "name": "Wireless Charging Pad 15W",
+    "slug": "wireless-charging-pad-15w",
+    "price": 18.99,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Qi-certified 15W fast wireless charger with intelligent cooling fan. Compatible with all Qi-enabled devices. LED indicator with sleep-friendly design.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=272447670",
+      "https://loremflickr.com/800/800/smartphone?random=272447671",
+      "https://loremflickr.com/800/800/laptop?random=272447672",
+      "https://loremflickr.com/800/800/headphones?random=272447673"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 2789,
+    "orders": "6,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Max Power": "15W (Samsung) / 7.5W (iPhone)",
+      "Input": "USB-C (5V/2A, 9V/2A)",
+      "Certification": "Qi, FCC, CE",
+      "Cooling Fan": "Built-in intelligent fan",
+      "Compatibility": "All Qi-enabled devices"
+    },
+    "highlights": [
+      "15W fast wireless charging",
+      "Built-in cooling fan prevents overheating",
+      "Sleep-friendly LED indicator",
+      "Case-friendly (up to 5mm)",
+      "Qi-certified safety protection"
+    ]
+  },
+  {
+    "id": "prod-22",
+    "name": "Smart Home Security Camera",
+    "slug": "smart-home-security-camera",
+    "price": 39.99,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "1080p HD WiFi security camera with night vision, motion detection, and two-way audio. Works with Alexa and Google Assistant. Free cloud storage for 7 days. Perfect for home and office security.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=9219776258",
+      "https://loremflickr.com/800/800/smartphone?random=9219776259",
+      "https://loremflickr.com/800/800/laptop?random=9219776260",
+      "https://loremflickr.com/800/800/headphones?random=9219776261"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 3421,
+    "orders": "8,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Resolution": "1080p Full HD",
+      "Night Vision": "Up to 30ft",
+      "Field of View": "110° wide angle",
+      "Connectivity": "WiFi 2.4GHz",
+      "Storage": "Cloud + MicroSD slot"
+    },
+    "highlights": [
+      "1080p HD video quality",
+      "Infrared night vision",
+      "Motion detection alerts",
+      "Two-way audio communication",
+      "Works with smart home systems"
+    ]
+  },
+  {
+    "id": "prod-33",
+    "name": "Bluetooth Speaker Portable",
+    "slug": "bluetooth-speaker-portable",
+    "price": 19.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Compact portable Bluetooth speaker with 360° sound, 12-hour battery life, and IPX7 waterproof rating. Perfect for outdoor adventures, parties, or home use. Rich bass and clear highs.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=1257918786",
+      "https://loremflickr.com/800/800/smartphone?random=1257918787",
+      "https://loremflickr.com/800/800/laptop?random=1257918788",
+      "https://loremflickr.com/800/800/headphones?random=1257918789"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 5234,
+    "orders": "14,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Best Seller"
+    ],
+    "specifications": {
+      "Battery Life": "12 hours",
+      "Waterproof": "IPX7 (submersible)",
+      "Range": "33ft Bluetooth range",
+      "Driver": "5W output",
+      "Weight": "1.1 lbs"
+    },
+    "highlights": [
+      "360° surround sound",
+      "12-hour battery life",
+      "IPX7 waterproof",
+      "Rich bass performance",
+      "Compact portable design"
+    ]
+  },
+  {
+    "id": "prod-38",
+    "name": "Gaming Laptop 15.6\"",
+    "slug": "gaming-laptop-15-6",
+    "price": 899.99,
+    "originalPrice": 1299.99,
+    "currency": "USD",
+    "description": "High-performance gaming laptop with 15.6\" display, powerful processor, dedicated graphics card, and fast SSD storage. Perfect for gaming, streaming, and creative work.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=392673141",
+      "https://loremflickr.com/800/800/smartphone?random=392673142",
+      "https://loremflickr.com/800/800/laptop?random=392673143",
+      "https://loremflickr.com/800/800/headphones?random=392673144"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.8,
+    "reviewCount": 1234,
+    "orders": "2,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Best Seller"
+    ],
+    "specifications": {
+      "Display": "15.6\" FHD 144Hz",
+      "Processor": "Intel Core i7",
+      "Graphics": "NVIDIA RTX 4060",
+      "RAM": "16GB DDR5",
+      "Storage": "512GB SSD"
+    },
+    "highlights": [
+      "High-performance gaming",
+      "144Hz refresh rate display",
+      "Dedicated graphics card",
+      "Fast SSD storage",
+      "Premium build quality"
+    ]
+  },
+  {
+    "id": "prod-39",
+    "name": "Wireless Charging Pad",
+    "slug": "wireless-charging-pad",
+    "price": 14.99,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. LED indicator, non-slip surface, and overcharge protection. Perfect for smartphones and earbuds.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=4057603376",
+      "https://loremflickr.com/800/800/smartphone?random=4057603377",
+      "https://loremflickr.com/800/800/laptop?random=4057603378",
+      "https://loremflickr.com/800/800/headphones?random=4057603379"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.5,
+    "reviewCount": 3456,
+    "orders": "9,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Output": "15W fast charging",
+      "Compatibility": "Qi-enabled devices",
+      "LED Indicator": "Yes",
+      "Protection": "Overcharge, overheat",
+      "Cable": "USB-C included"
+    },
+    "highlights": [
+      "Fast wireless charging",
+      "Universal Qi compatibility",
+      "LED charging indicator",
+      "Safety protection features",
+      "Non-slip surface"
+    ]
+  },
+  {
+    "id": "prod-81",
+    "name": "Smartphone 128GB",
+    "slug": "smartphone-128gb",
+    "price": 299.99,
+    "originalPrice": 449.99,
+    "currency": "USD",
+    "description": "Latest generation smartphone with 6.5\" display, triple camera system, 128GB storage, and 5G connectivity. Powerful processor, long battery life, and premium design. Available in multiple colors.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=2620422048",
+      "https://loremflickr.com/800/800/smartphone?random=2620422049",
+      "https://loremflickr.com/800/800/laptop?random=2620422050",
+      "https://loremflickr.com/800/800/headphones?random=2620422051"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 5234,
+    "orders": "18,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Best Seller"
+    ],
+    "specifications": {
+      "Display": "6.5\" Full HD+",
+      "Storage": "128GB (expandable)",
+      "RAM": "6GB",
+      "Camera": "Triple camera (48MP main)",
+      "Connectivity": "5G, WiFi 6, Bluetooth 5.2"
+    },
+    "highlights": [
+      "Large 6.5\" display",
+      "Triple camera system",
+      "5G connectivity",
+      "128GB storage",
+      "Long battery life"
+    ]
+  },
+  {
+    "id": "prod-82",
+    "name": "Tablet 10.1\" Android",
+    "slug": "tablet-10-1-android",
+    "price": 149.99,
+    "originalPrice": 229.99,
+    "currency": "USD",
+    "description": "10.1\" Android tablet with Full HD display, 64GB storage, quad-core processor, and dual cameras. Perfect for entertainment, work, and education. Includes stylus support.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=1391399599",
+      "https://loremflickr.com/800/800/smartphone?random=1391399600",
+      "https://loremflickr.com/800/800/laptop?random=1391399601",
+      "https://loremflickr.com/800/800/headphones?random=1391399602"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 3456,
+    "orders": "12,300+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Display": "10.1\" Full HD",
+      "Storage": "64GB (expandable)",
+      "RAM": "4GB",
+      "Processor": "Quad-core",
+      "Battery": "6000mAh"
+    },
+    "highlights": [
+      "Large 10.1\" display",
+      "Full HD resolution",
+      "Stylus support",
+      "Long battery life",
+      "Perfect for multitasking"
+    ]
+  },
+  {
+    "id": "prod-83",
+    "name": "4K Monitor 27\"",
+    "slug": "4k-monitor-27",
+    "price": 249.99,
+    "originalPrice": 399.99,
+    "currency": "USD",
+    "description": "27\" 4K UHD monitor with IPS panel, HDR support, and 60Hz refresh rate. Perfect for gaming, design work, and productivity. Multiple connectivity options including HDMI and USB-C.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=935274634",
+      "https://loremflickr.com/800/800/smartphone?random=935274635",
+      "https://loremflickr.com/800/800/laptop?random=935274636",
+      "https://loremflickr.com/800/800/headphones?random=935274637"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Size": "27 inches",
+      "Resolution": "4K UHD (3840x2160)",
+      "Panel": "IPS",
+      "Refresh Rate": "60Hz",
+      "Connectivity": "HDMI, DisplayPort, USB-C"
+    },
+    "highlights": [
+      "4K UHD resolution",
+      "IPS panel for accurate colors",
+      "HDR support",
+      "Multiple connectivity options",
+      "Perfect for work and gaming"
+    ]
+  },
+  {
+    "id": "prod-84",
+    "name": "Mechanical Keyboard RGB",
+    "slug": "mechanical-keyboard-rgb",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "currency": "USD",
+    "description": "Full-size mechanical keyboard with RGB backlighting, Cherry MX switches, and aluminum frame. Perfect for gaming and typing. Customizable RGB lighting and programmable keys.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=1711352303",
+      "https://loremflickr.com/800/800/smartphone?random=1711352304",
+      "https://loremflickr.com/800/800/laptop?random=1711352305",
+      "https://loremflickr.com/800/800/headphones?random=1711352306"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "15,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Layout": "Full-size (104 keys)",
+      "Switches": "Cherry MX (Blue/Brown/Red)",
+      "Backlighting": "RGB customizable",
+      "Frame": "Aluminum",
+      "Connectivity": "USB-C wired"
+    },
+    "highlights": [
+      "Mechanical switches",
+      "RGB backlighting",
+      "Aluminum frame",
+      "Programmable keys",
+      "Perfect for gaming"
+    ]
+  },
+  {
+    "id": "prod-85",
+    "name": "Webcam HD 1080p",
+    "slug": "webcam-hd-1080p",
+    "price": 39.99,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "HD 1080p webcam with autofocus, built-in microphone, and privacy shutter. Perfect for video calls, streaming, and online meetings. Universal clip mount fits any monitor.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=2596345636",
+      "https://loremflickr.com/800/800/smartphone?random=2596345637",
+      "https://loremflickr.com/800/800/laptop?random=2596345638",
+      "https://loremflickr.com/800/800/headphones?random=2596345639"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 5234,
+    "orders": "19,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Resolution": "1080p Full HD",
+      "Frame Rate": "30fps",
+      "Autofocus": "Yes",
+      "Microphone": "Built-in dual microphones",
+      "Mount": "Universal clip"
+    },
+    "highlights": [
+      "1080p HD video",
+      "Autofocus technology",
+      "Built-in microphone",
+      "Privacy shutter",
+      "Universal compatibility"
+    ]
+  },
+  {
+    "id": "prod-86",
+    "name": "WiFi Router AC3000",
+    "slug": "wifi-router-ac3000",
+    "price": 89.99,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "High-speed WiFi 6 router with AC3000 speeds, dual-band, and MU-MIMO technology. Covers up to 2,500 sq ft. Perfect for streaming, gaming, and multiple devices. Easy setup with app.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=522804575",
+      "https://loremflickr.com/800/800/smartphone?random=522804576",
+      "https://loremflickr.com/800/800/laptop?random=522804577",
+      "https://loremflickr.com/800/800/headphones?random=522804578"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 3456,
+    "orders": "11,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Speed": "AC3000 (3000 Mbps)",
+      "Bands": "Dual-band (2.4GHz + 5GHz)",
+      "Technology": "WiFi 6, MU-MIMO",
+      "Coverage": "Up to 2,500 sq ft",
+      "Ports": "4 Gigabit Ethernet"
+    },
+    "highlights": [
+      "AC3000 high-speed WiFi",
+      "WiFi 6 technology",
+      "MU-MIMO for multiple devices",
+      "Wide coverage area",
+      "Easy app setup"
+    ]
+  },
+  {
+    "id": "prod-87",
+    "name": "External SSD 1TB",
+    "slug": "external-ssd-1tb",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "currency": "USD",
+    "description": "Portable 1TB external SSD with USB-C connectivity and fast read/write speeds. Shock-resistant, compact design, and perfect for backups, file transfers, and expanding storage.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=339744598",
+      "https://loremflickr.com/800/800/smartphone?random=339744599",
+      "https://loremflickr.com/800/800/laptop?random=339744600",
+      "https://loremflickr.com/800/800/headphones?random=339744601"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.8,
+    "reviewCount": 4123,
+    "orders": "14,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Capacity": "1TB",
+      "Interface": "USB-C (USB 3.2)",
+      "Speed": "Up to 1050 MB/s read",
+      "Dimensions": "3.5\" x 2.3\" x 0.4\"",
+      "Weight": "1.8 oz"
+    },
+    "highlights": [
+      "1TB storage capacity",
+      "Fast USB-C transfer speeds",
+      "Shock-resistant design",
+      "Compact and portable",
+      "Perfect for backups"
+    ]
+  },
+  {
+    "id": "prod-88",
+    "name": "Smart TV 55\" 4K",
+    "slug": "smart-tv-55-4k",
+    "price": 399.99,
+    "originalPrice": 599.99,
+    "currency": "USD",
+    "description": "55\" 4K UHD Smart TV with HDR, built-in streaming apps, and voice control. Perfect for entertainment with vibrant colors and crisp details. Multiple HDMI ports.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=1064403251",
+      "https://loremflickr.com/800/800/smartphone?random=1064403252",
+      "https://loremflickr.com/800/800/laptop?random=1064403253",
+      "https://loremflickr.com/800/800/headphones?random=1064403254"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Best Seller"
+    ],
+    "specifications": {
+      "Size": "55 inches",
+      "Resolution": "4K UHD (3840x2160)",
+      "HDR": "HDR10, Dolby Vision",
+      "Smart Platform": "Built-in streaming",
+      "Connectivity": "HDMI, USB, WiFi, Ethernet"
+    },
+    "highlights": [
+      "55\" 4K UHD display",
+      "HDR support",
+      "Built-in streaming apps",
+      "Voice control",
+      "Multiple connectivity options"
+    ]
+  },
+  {
+    "id": "prod-89",
+    "name": "Gaming Mouse RGB",
+    "slug": "gaming-mouse-rgb",
+    "price": 34.99,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "High-precision gaming mouse with RGB lighting, 12,000 DPI sensor, and programmable buttons. Ergonomic design, customizable RGB zones, and perfect for gaming and productivity.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=3768337123",
+      "https://loremflickr.com/800/800/smartphone?random=3768337124",
+      "https://loremflickr.com/800/800/laptop?random=3768337125",
+      "https://loremflickr.com/800/800/headphones?random=3768337126"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 5234,
+    "orders": "18,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "DPI": "Up to 12,000 DPI",
+      "Sensor": "Optical precision",
+      "Buttons": "8 programmable",
+      "Lighting": "RGB customizable",
+      "Connectivity": "USB wired"
+    },
+    "highlights": [
+      "High-precision sensor",
+      "12,000 DPI",
+      "RGB customizable lighting",
+      "Programmable buttons",
+      "Ergonomic design"
+    ]
+  },
+  {
+    "id": "prod-90",
+    "name": "USB-C Hub 7-in-1",
+    "slug": "usb-c-hub-7-in-1",
+    "price": 24.99,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0 ports, SD card reader, and power delivery. Perfect for laptops and tablets. Compact design and supports 4K video output.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=2040491040",
+      "https://loremflickr.com/800/800/smartphone?random=2040491041",
+      "https://loremflickr.com/800/800/laptop?random=2040491042",
+      "https://loremflickr.com/800/800/headphones?random=2040491043"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.5,
+    "reviewCount": 4567,
+    "orders": "16,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Ports": "HDMI, 3x USB 3.0, SD/TF card reader, USB-C PD",
+      "HDMI": "4K@30Hz output",
+      "USB 3.0": "5Gbps transfer speed",
+      "Power Delivery": "100W pass-through",
+      "Compatibility": "USB-C devices"
+    },
+    "highlights": [
+      "7-in-1 multi-port hub",
+      "4K HDMI output",
+      "Fast USB 3.0 ports",
+      "SD card reader",
+      "Power delivery support"
+    ]
+  },
+  {
+    "id": "prod-91",
+    "name": "Smart Speaker Voice Assistant",
+    "slug": "smart-speaker-voice-assistant",
+    "price": 49.99,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Smart speaker with built-in voice assistant, 360° sound, and smart home control. Stream music, control devices, and get answers hands-free. Compatible with multiple streaming services.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=2127263653",
+      "https://loremflickr.com/800/800/smartphone?random=2127263654",
+      "https://loremflickr.com/800/800/laptop?random=2127263655",
+      "https://loremflickr.com/800/800/headphones?random=2127263656"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 3456,
+    "orders": "13,200+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Audio": "360° surround sound",
+      "Voice Assistant": "Built-in",
+      "Connectivity": "WiFi, Bluetooth",
+      "Smart Home": "Compatible devices",
+      "Streaming": "Multiple services"
+    },
+    "highlights": [
+      "Voice assistant built-in",
+      "360° surround sound",
+      "Smart home control",
+      "Hands-free operation",
+      "Multiple streaming services"
+    ]
+  },
+  {
+    "id": "prod-92",
+    "name": "Power Bank 20000mAh",
+    "slug": "power-bank-20000mah",
+    "price": 19.99,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "High-capacity 20000mAh power bank with fast charging, dual USB ports, and LED indicator. Can charge multiple devices simultaneously. Compact design with safety protection.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=6469924149",
+      "https://loremflickr.com/800/800/smartphone?random=6469924150",
+      "https://loremflickr.com/800/800/laptop?random=6469924151",
+      "https://loremflickr.com/800/800/headphones?random=6469924152"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 5234,
+    "orders": "21,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Best Seller"
+    ],
+    "specifications": {
+      "Capacity": "20000mAh",
+      "Output": "Dual USB (5V/2.4A each)",
+      "Input": "USB-C (fast charging)",
+      "LED": "Battery level indicator",
+      "Safety": "Overcharge, overheat protection"
+    },
+    "highlights": [
+      "20000mAh high capacity",
+      "Fast charging support",
+      "Dual USB ports",
+      "LED battery indicator",
+      "Safety protection features"
+    ]
+  },
+  {
+    "id": "prod-93",
+    "name": "USB Flash Drive 256GB",
+    "slug": "usb-flash-drive-256gb",
+    "price": 16.99,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "High-speed 256GB USB 3.0 flash drive with compact design and keychain loop. Fast transfer speeds, durable construction, and perfect for storing files, photos, and videos.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=664505809",
+      "https://loremflickr.com/800/800/smartphone?random=664505810",
+      "https://loremflickr.com/800/800/laptop?random=664505811",
+      "https://loremflickr.com/800/800/headphones?random=664505812"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.5,
+    "reviewCount": 3456,
+    "orders": "12,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Capacity": "256GB",
+      "Interface": "USB 3.0",
+      "Speed": "Up to 100 MB/s read",
+      "Design": "Compact with keychain loop",
+      "Compatibility": "USB 2.0/3.0 compatible"
+    },
+    "highlights": [
+      "256GB storage capacity",
+      "USB 3.0 fast speeds",
+      "Compact design",
+      "Keychain loop included",
+      "Durable construction"
+    ]
+  },
+  {
+    "id": "prod-94",
+    "name": "Smartwatch Fitness Pro",
+    "slug": "smartwatch-fitness-pro",
+    "price": 129.99,
+    "originalPrice": 199.99,
+    "currency": "USD",
+    "description": "Advanced fitness smartwatch with GPS, heart rate monitor, sleep tracking, and 50+ sport modes. Water-resistant, 7-day battery, and smartphone notifications. Perfect for active lifestyle.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=2617277513",
+      "https://loremflickr.com/800/800/smartphone?random=2617277514",
+      "https://loremflickr.com/800/800/laptop?random=2617277515",
+      "https://loremflickr.com/800/800/headphones?random=2617277516"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.8,
+    "reviewCount": 4123,
+    "orders": "15,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Best Seller"
+    ],
+    "specifications": {
+      "Display": "1.4\" AMOLED color",
+      "Battery": "7 days typical use",
+      "GPS": "Built-in",
+      "Water Resistance": "5ATM",
+      "Sensors": "Heart rate, SpO2, sleep"
+    },
+    "highlights": [
+      "Advanced fitness tracking",
+      "Built-in GPS",
+      "50+ sport modes",
+      "7-day battery life",
+      "Water-resistant design"
+    ]
+  },
+  {
+    "id": "prod-95",
+    "name": "Noise Cancelling Headphones",
+    "slug": "noise-cancelling-headphones",
+    "price": 89.99,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "Premium over-ear noise cancelling headphones with 30-hour battery, quick charge, and Hi-Fi sound quality. Comfortable design, foldable, and perfect for travel and daily use.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=5676806489",
+      "https://loremflickr.com/800/800/smartphone?random=5676806490",
+      "https://loremflickr.com/800/800/laptop?random=5676806491",
+      "https://loremflickr.com/800/800/headphones?random=5676806492"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 5234,
+    "orders": "17,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Type": "Over-ear",
+      "Noise Cancelling": "Active ANC",
+      "Battery": "30 hours (ANC on)",
+      "Quick Charge": "10 min = 3 hours",
+      "Connectivity": "Bluetooth 5.0, wired"
+    },
+    "highlights": [
+      "Active noise cancelling",
+      "30-hour battery life",
+      "Hi-Fi sound quality",
+      "Quick charge support",
+      "Comfortable foldable design"
+    ]
+  },
+  {
+    "id": "prod-96",
+    "name": "Action Camera 4K",
+    "slug": "action-camera-4k",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "currency": "USD",
+    "description": "Waterproof 4K action camera with image stabilization, WiFi connectivity, and multiple mounting options. Perfect for sports, adventures, and vlogging. Includes waterproof case.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=6015829730",
+      "https://loremflickr.com/800/800/smartphone?random=6015829731",
+      "https://loremflickr.com/800/800/laptop?random=6015829732",
+      "https://loremflickr.com/800/800/headphones?random=6015829733"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "9,400+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Video": "4K@30fps, 1080p@60fps",
+      "Stabilization": "Electronic image stabilization",
+      "Waterproof": "40m with case",
+      "Connectivity": "WiFi, Bluetooth",
+      "Battery": "Rechargeable (included)"
+    },
+    "highlights": [
+      "4K video recording",
+      "Image stabilization",
+      "Waterproof design",
+      "WiFi connectivity",
+      "Multiple mounting options"
+    ]
+  },
+  {
+    "id": "prod-97",
+    "name": "Printer All-in-One",
+    "slug": "printer-all-in-one",
+    "price": 99.99,
+    "originalPrice": 169.99,
+    "currency": "USD",
+    "description": "All-in-one inkjet printer with print, scan, copy, and fax functions. WiFi connectivity, mobile printing, and automatic document feeder. Perfect for home and small office.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=114542355",
+      "https://loremflickr.com/800/800/smartphone?random=114542356",
+      "https://loremflickr.com/800/800/laptop?random=114542357",
+      "https://loremflickr.com/800/800/headphones?random=114542358"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "orders": "7,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Functions": "Print, Scan, Copy, Fax",
+      "Connectivity": "WiFi, USB",
+      "Mobile Printing": "Yes",
+      "ADF": "Automatic document feeder",
+      "Paper Size": "Up to 8.5\" x 11\""
+    },
+    "highlights": [
+      "All-in-one functionality",
+      "WiFi connectivity",
+      "Mobile printing support",
+      "Automatic document feeder",
+      "Perfect for home office"
+    ]
+  },
+  {
+    "id": "prod-108",
+    "name": "Wireless Charging Pad",
+    "slug": "wireless-charging-pad",
+    "price": 19.99,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Fast wireless charging pad compatible with Qi-enabled devices. LED indicator shows charging status. Sleek design with non-slip surface. Supports up to 15W fast charging.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=4057603376",
+      "https://loremflickr.com/800/800/smartphone?random=4057603377",
+      "https://loremflickr.com/800/800/laptop?random=4057603378",
+      "https://loremflickr.com/800/800/headphones?random=4057603379"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 3456,
+    "orders": "12,300+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Charging Speed": "Up to 15W",
+      "Compatibility": "Qi-enabled devices",
+      "LED Indicator": "Yes",
+      "Input": "USB-C (cable included)",
+      "Safety": "Overcharge protection"
+    },
+    "highlights": [
+      "Fast 15W wireless charging",
+      "Qi-compatible",
+      "LED charging indicator",
+      "Non-slip surface",
+      "Safe overcharge protection"
+    ]
+  },
+  {
+    "id": "prod-109",
+    "name": "Bluetooth Speaker Portable",
+    "slug": "bluetooth-speaker-portable",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Portable Bluetooth speaker with 360-degree sound and 12-hour battery life. IPX7 waterproof rating. Perfect for outdoor adventures, parties, or home use.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=1257918786",
+      "https://loremflickr.com/800/800/smartphone?random=1257918787",
+      "https://loremflickr.com/800/800/laptop?random=1257918788",
+      "https://loremflickr.com/800/800/headphones?random=1257918789"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "15,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Battery Life": "12 hours",
+      "Waterproof": "IPX7",
+      "Connectivity": "Bluetooth 5.0",
+      "Sound": "360-degree",
+      "Weight": "1.2 lbs"
+    },
+    "highlights": [
+      "360-degree sound output",
+      "12-hour battery life",
+      "IPX7 waterproof rating",
+      "Bluetooth 5.0 connectivity",
+      "Portable and durable"
+    ]
+  },
+  {
+    "id": "prod-110",
+    "name": "USB-C Hub Multiport",
+    "slug": "usb-c-hub-multiport",
+    "price": 28,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0 ports, SD card reader, and power delivery. Perfect for laptops and tablets. Compact design for easy portability.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=2303148761",
+      "https://loremflickr.com/800/800/smartphone?random=2303148762",
+      "https://loremflickr.com/800/800/laptop?random=2303148763",
+      "https://loremflickr.com/800/800/headphones?random=2303148764"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.5,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Ports": "HDMI, 3x USB 3.0, SD/TF card, USB-C PD",
+      "HDMI Output": "4K@30Hz",
+      "Data Transfer": "USB 3.0 speeds",
+      "Power Delivery": "Up to 100W",
+      "Compatibility": "USB-C devices"
+    },
+    "highlights": [
+      "7-in-1 multiport design",
+      "4K HDMI output",
+      "Fast USB 3.0 transfer",
+      "Power delivery support",
+      "Compact portable design"
+    ]
+  },
+  {
+    "id": "prod-111",
+    "name": "Smart Ring Fitness",
+    "slug": "smart-ring-fitness",
+    "price": 89,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "Advanced fitness tracking smart ring with heart rate, sleep, and activity monitoring. Waterproof design with 7-day battery. Syncs with smartphone app.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=6195578651",
+      "https://loremflickr.com/800/800/smartphone?random=6195578652",
+      "https://loremflickr.com/800/800/laptop?random=6195578653",
+      "https://loremflickr.com/800/800/headphones?random=6195578654"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.8,
+    "reviewCount": 1234,
+    "orders": "3,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Battery Life": "7 days",
+      "Waterproof": "IP68",
+      "Sensors": "Heart rate, SpO2, temperature",
+      "Connectivity": "Bluetooth 5.0",
+      "Sizes": "6 – 13 (US ring sizes)"
+    },
+    "highlights": [
+      "Advanced health tracking",
+      "7-day battery life",
+      "IP68 waterproof",
+      "Comfortable 24/7 wear",
+      "Smartphone app sync"
+    ]
+  },
+  {
+    "id": "prod-112",
+    "name": "Tablet Stand Adjustable",
+    "slug": "tablet-stand-adjustable",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Adjustable tablet stand with multiple viewing angles. Compatible with tablets and phones. Foldable design for easy storage. Non-slip base for stability.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=4389632497",
+      "https://loremflickr.com/800/800/smartphone?random=4389632498",
+      "https://loremflickr.com/800/800/laptop?random=4389632499",
+      "https://loremflickr.com/800/800/headphones?random=4389632500"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Adjustable Angles": "Multiple positions",
+      "Compatibility": "Tablets and phones",
+      "Material": "Aluminum alloy",
+      "Foldable": "Yes",
+      "Weight": "0.5 lbs"
+    },
+    "highlights": [
+      "Multiple viewing angles",
+      "Universal compatibility",
+      "Foldable portable design",
+      "Stable non-slip base",
+      "Durable aluminum construction"
+    ]
+  },
+  {
+    "id": "prod-113",
+    "name": "LED Strip Lights RGB",
+    "slug": "led-strip-lights-rgb",
+    "price": 18.99,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "16.4ft RGB LED strip lights with remote control and app control. 16 million colors with music sync mode. Waterproof IP65 rating. Perfect for room decoration.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=2199532810",
+      "https://loremflickr.com/800/800/smartphone?random=2199532811",
+      "https://loremflickr.com/800/800/laptop?random=2199532812",
+      "https://loremflickr.com/800/800/headphones?random=2199532813"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 5432,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Length": "16.4 feet",
+      "Colors": "16 million RGB",
+      "Control": "Remote + App",
+      "Waterproof": "IP65",
+      "Power": "12V adapter included"
+    },
+    "highlights": [
+      "16 million color options",
+      "Remote and app control",
+      "Music sync mode",
+      "IP65 waterproof",
+      "Easy installation"
+    ]
+  },
+  {
+    "id": "prod-114",
+    "name": "Webcam HD 1080p",
+    "slug": "webcam-hd-1080p",
+    "price": 45,
+    "originalPrice": 79.99,
+    "currency": "USD",
+    "description": "HD 1080p webcam with built-in microphone and auto-focus. Perfect for video calls, streaming, and online meetings. Universal clip fits all monitors and laptops.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=2596345636",
+      "https://loremflickr.com/800/800/smartphone?random=2596345637",
+      "https://loremflickr.com/800/800/laptop?random=2596345638",
+      "https://loremflickr.com/800/800/headphones?random=2596345639"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.5,
+    "reviewCount": 3210,
+    "orders": "11,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Resolution": "1080p @ 30fps",
+      "Auto Focus": "Yes",
+      "Microphone": "Built-in noise reduction",
+      "Compatibility": "USB plug-and-play",
+      "Mount": "Universal clip"
+    },
+    "highlights": [
+      "HD 1080p video quality",
+      "Auto-focus technology",
+      "Built-in microphone",
+      "Universal compatibility",
+      "Easy setup"
+    ]
+  },
+  {
+    "id": "prod-115",
+    "name": "Mechanical Keyboard RGB",
+    "slug": "mechanical-keyboard-rgb",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "currency": "USD",
+    "description": "RGB mechanical keyboard with customizable backlighting and tactile switches. Full-size layout with number pad. Perfect for gaming and typing.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=1711352303",
+      "https://loremflickr.com/800/800/smartphone?random=1711352304",
+      "https://loremflickr.com/800/800/laptop?random=1711352305",
+      "https://loremflickr.com/800/800/headphones?random=1711352306"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Switches": "Mechanical tactile",
+      "Backlighting": "RGB customizable",
+      "Layout": "Full-size with numpad",
+      "Connectivity": "USB wired",
+      "Keycaps": "Double-shot ABS"
+    },
+    "highlights": [
+      "Mechanical tactile switches",
+      "RGB customizable lighting",
+      "Full-size layout",
+      "Durable construction",
+      "Perfect for gaming"
+    ]
+  },
+  {
+    "id": "prod-116",
+    "name": "Power Bank 20000mAh",
+    "slug": "power-bank-20000mah",
+    "price": 32,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "High-capacity 20000mAh power bank with fast charging support. Dual USB ports and USB-C input. LED battery indicator. Perfect for travel and daily use.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=6469924149",
+      "https://loremflickr.com/800/800/smartphone?random=6469924150",
+      "https://loremflickr.com/800/800/laptop?random=6469924151",
+      "https://loremflickr.com/800/800/headphones?random=6469924152"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.6,
+    "reviewCount": 4567,
+    "orders": "16,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Capacity": "20000mAh",
+      "Output": "Dual USB ports",
+      "Input": "USB-C",
+      "Fast Charge": "Yes",
+      "LED Indicator": "4-level display"
+    },
+    "highlights": [
+      "High 20000mAh capacity",
+      "Fast charging support",
+      "Dual USB output ports",
+      "LED battery indicator",
+      "Compact travel-friendly"
+    ]
+  },
+  {
+    "id": "prod-117",
+    "name": "Smart Doorbell Camera",
+    "slug": "smart-doorbell-camera",
+    "price": 89,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "WiFi smart doorbell camera with 1080p video, two-way audio, and motion detection. Night vision and cloud storage. Works with smartphone app for remote access.",
+    "images": [
+      "https://loremflickr.com/800/800/electronics?random=1828458215",
+      "https://loremflickr.com/800/800/smartphone?random=1828458216",
+      "https://loremflickr.com/800/800/laptop?random=1828458217",
+      "https://loremflickr.com/800/800/headphones?random=1828458218"
+    ],
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "5,400+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Resolution": "1080p HD",
+      "Night Vision": "Yes",
+      "Motion Detection": "Yes",
+      "Connectivity": "WiFi 2.4GHz",
+      "Storage": "Cloud (subscription)"
+    },
+    "highlights": [
+      "1080p HD video quality",
+      "Two-way audio communication",
+      "Motion detection alerts",
+      "Night vision capability",
+      "Smartphone app control"
+    ]
+  }
+]

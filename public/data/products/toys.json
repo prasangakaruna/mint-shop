@@ -1,0 +1,496 @@
+[
+  {
+    "id": "prod-29",
+    "name": "Educational Building Blocks",
+    "slug": "educational-building-blocks",
+    "price": 19.99,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Premium wooden building blocks set with 100 pieces in various shapes and colors. Safe for children, promotes creativity and motor skills. Made from sustainable wood with non-toxic paint.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=3993594829",
+      "https://loremflickr.com/800/800/children?random=3993594830",
+      "https://loremflickr.com/800/800/play?random=3993594831",
+      "https://loremflickr.com/800/800/games?random=3993594832"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.9,
+    "reviewCount": 3456,
+    "orders": "9,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Pieces": "100 wooden blocks",
+      "Material": "Sustainable wood",
+      "Paint": "Non-toxic, child-safe",
+      "Age Range": "3+ years",
+      "Storage": "Canvas bag included"
+    },
+    "highlights": [
+      "100 premium wooden blocks",
+      "Safe non-toxic materials",
+      "Promotes creativity",
+      "Develops motor skills",
+      "Sustainable materials"
+    ]
+  },
+  {
+    "id": "prod-50",
+    "name": "Remote Control Car",
+    "slug": "remote-control-car",
+    "price": 34.99,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "High-speed remote control car with 2.4GHz controller, LED lights, and rechargeable battery. Durable construction, smooth handling, and 30-minute playtime. Perfect for kids and hobbyists.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=3736999509",
+      "https://loremflickr.com/800/800/children?random=3736999510",
+      "https://loremflickr.com/800/800/play?random=3736999511",
+      "https://loremflickr.com/800/800/games?random=3736999512"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "6,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Scale": "1:18 scale",
+      "Controller": "2.4GHz remote",
+      "Battery": "Rechargeable (included)",
+      "Playtime": "30 minutes",
+      "Age Range": "6+ years"
+    },
+    "highlights": [
+      "High-speed performance",
+      "2.4GHz interference-free control",
+      "LED lights for visibility",
+      "Rechargeable battery",
+      "Durable construction"
+    ]
+  },
+  {
+    "id": "prod-51",
+    "name": "Puzzle Set 1000 Pieces",
+    "slug": "puzzle-set-1000-pieces",
+    "price": 14.99,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Premium 1000-piece jigsaw puzzle with beautiful artwork. High-quality thick pieces that fit perfectly. Multiple designs available. Great for family time and relaxation.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=2012735985",
+      "https://loremflickr.com/800/800/children?random=2012735986",
+      "https://loremflickr.com/800/800/play?random=2012735987",
+      "https://loremflickr.com/800/800/games?random=2012735988"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "4,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Pieces": "1000 pieces",
+      "Size": "27\" x 20\" when completed",
+      "Material": "Premium cardboard",
+      "Thickness": "2mm thick pieces",
+      "Age Range": "12+ years"
+    },
+    "highlights": [
+      "1000 premium pieces",
+      "Beautiful artwork designs",
+      "Thick durable pieces",
+      "Perfect fit guarantee",
+      "Great family activity"
+    ]
+  },
+  {
+    "id": "prod-178",
+    "name": "Building Blocks Set",
+    "slug": "building-blocks-set",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "100-piece building blocks set in assorted colors. Compatible with major brands. Perfect for creative play and motor skills development. Storage bag included.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=285243044",
+      "https://loremflickr.com/800/800/children?random=285243045",
+      "https://loremflickr.com/800/800/play?random=285243046",
+      "https://loremflickr.com/800/800/games?random=285243047"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Pieces": "100 blocks",
+      "Colors": "Assorted",
+      "Compatibility": "Major brands",
+      "Age": "3+ years",
+      "Storage": "Bag included"
+    },
+    "highlights": [
+      "100-piece set",
+      "Assorted colors",
+      "Compatible with major brands",
+      "Develops motor skills",
+      "Storage bag included"
+    ]
+  },
+  {
+    "id": "prod-179",
+    "name": "Remote Control Car",
+    "slug": "remote-control-car",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "RC car with 2.4GHz remote control. Forward, backward, left, and right movement. LED lights. Perfect for indoor and outdoor play. Batteries included.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=3736999509",
+      "https://loremflickr.com/800/800/children?random=3736999510",
+      "https://loremflickr.com/800/800/play?random=3736999511",
+      "https://loremflickr.com/800/800/games?random=3736999512"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Control": "2.4GHz remote",
+      "Movement": "4 directions",
+      "Lights": "LED lights",
+      "Batteries": "Included",
+      "Age": "6+ years"
+    },
+    "highlights": [
+      "2.4GHz remote control",
+      "4-direction movement",
+      "LED lights",
+      "Indoor and outdoor use",
+      "Batteries included"
+    ]
+  },
+  {
+    "id": "prod-180",
+    "name": "Doll Set Fashion",
+    "slug": "doll-set-fashion",
+    "price": 32,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "Fashion doll set with multiple outfits and accessories. Brushable hair and posable joints. Perfect for imaginative play. Includes doll, clothes, and accessories.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=2695616451",
+      "https://loremflickr.com/800/800/children?random=2695616452",
+      "https://loremflickr.com/800/800/play?random=2695616453",
+      "https://loremflickr.com/800/800/games?random=2695616454"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Doll": "Posable joints",
+      "Hair": "Brushable",
+      "Outfits": "Multiple included",
+      "Accessories": "Included",
+      "Age": "3+ years"
+    },
+    "highlights": [
+      "Posable joints",
+      "Brushable hair",
+      "Multiple outfits",
+      "Accessories included",
+      "Perfect for imaginative play"
+    ]
+  },
+  {
+    "id": "prod-181",
+    "name": "Puzzle Set 500 Pieces",
+    "slug": "puzzle-set-500-pieces",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "500-piece jigsaw puzzle with beautiful artwork. High-quality cardboard pieces. Perfect for family time and cognitive development. Multiple designs available.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=3134638625",
+      "https://loremflickr.com/800/800/children?random=3134638626",
+      "https://loremflickr.com/800/800/play?random=3134638627",
+      "https://loremflickr.com/800/800/games?random=3134638628"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Pieces": "500",
+      "Material": "High-quality cardboard",
+      "Designs": "Multiple available",
+      "Age": "8+ years",
+      "Size": "Standard puzzle size"
+    },
+    "highlights": [
+      "500-piece challenge",
+      "High-quality pieces",
+      "Beautiful artwork",
+      "Perfect for family time",
+      "Multiple designs"
+    ]
+  },
+  {
+    "id": "prod-182",
+    "name": "Art Supplies Kit",
+    "slug": "art-supplies-kit",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Complete art supplies kit with crayons, markers, colored pencils, and paper. Perfect for creative expression. Non-toxic and safe for children. Storage box included.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=243286520",
+      "https://loremflickr.com/800/800/children?random=243286521",
+      "https://loremflickr.com/800/800/play?random=243286522",
+      "https://loremflickr.com/800/800/games?random=243286523"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Contents": "Crayons, markers, pencils, paper",
+      "Non-Toxic": "Yes",
+      "Age": "3+ years",
+      "Storage": "Box included",
+      "Items": "50+ pieces"
+    },
+    "highlights": [
+      "Complete art kit",
+      "Non-toxic materials",
+      "50+ pieces",
+      "Storage box included",
+      "Perfect for creativity"
+    ]
+  },
+  {
+    "id": "prod-183",
+    "name": "Board Game Family",
+    "slug": "board-game-family",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Classic family board game for 2-4 players. Easy to learn, fun for all ages. Perfect for family game nights. Includes game board, pieces, and instructions.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=1108368448",
+      "https://loremflickr.com/800/800/children?random=1108368449",
+      "https://loremflickr.com/800/800/play?random=1108368450",
+      "https://loremflickr.com/800/800/games?random=1108368451"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Players": "2-4",
+      "Age": "6+ years",
+      "Duration": "30-60 minutes",
+      "Contents": "Board, pieces, instructions",
+      "Type": "Strategy"
+    },
+    "highlights": [
+      "2-4 players",
+      "Easy to learn",
+      "Fun for all ages",
+      "Perfect for family nights",
+      "Classic gameplay"
+    ]
+  },
+  {
+    "id": "prod-184",
+    "name": "Stuffed Animal Plush",
+    "slug": "stuffed-animal-plush",
+    "price": 22,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Soft plush stuffed animal perfect for cuddling. Machine washable. Available in multiple animal designs. Perfect companion for bedtime and play.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=838517521",
+      "https://loremflickr.com/800/800/children?random=838517522",
+      "https://loremflickr.com/800/800/play?random=838517523",
+      "https://loremflickr.com/800/800/games?random=838517524"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.9,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Soft plush",
+      "Designs": "Multiple animals",
+      "Care": "Machine washable",
+      "Age": "All ages",
+      "Size": "Standard"
+    },
+    "highlights": [
+      "Soft plush material",
+      "Multiple animal designs",
+      "Machine washable",
+      "Perfect for cuddling",
+      "Bedtime companion"
+    ]
+  },
+  {
+    "id": "prod-185",
+    "name": "Science Kit Experiments",
+    "slug": "science-kit-experiments",
+    "price": 38,
+    "originalPrice": 64.99,
+    "currency": "USD",
+    "description": "Educational science kit with 20+ experiments. Includes materials and instructions. Perfect for learning and fun. Safe and age-appropriate experiments.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=2986037442",
+      "https://loremflickr.com/800/800/children?random=2986037443",
+      "https://loremflickr.com/800/800/play?random=2986037444",
+      "https://loremflickr.com/800/800/games?random=2986037445"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Experiments": "20+",
+      "Materials": "Included",
+      "Instructions": "Step-by-step",
+      "Age": "8+ years",
+      "Safety": "Age-appropriate"
+    },
+    "highlights": [
+      "20+ experiments",
+      "All materials included",
+      "Step-by-step instructions",
+      "Educational and fun",
+      "Safe experiments"
+    ]
+  },
+  {
+    "id": "prod-186",
+    "name": "Musical Instrument Set",
+    "slug": "musical-instrument-set",
+    "price": 32,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "Set of 5 musical instruments including tambourine, maracas, and more. Perfect for introducing music to children. Safe and durable construction.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=4028126673",
+      "https://loremflickr.com/800/800/children?random=4028126674",
+      "https://loremflickr.com/800/800/play?random=4028126675",
+      "https://loremflickr.com/800/800/games?random=4028126676"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "3,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Set": "5 instruments",
+      "Instruments": "Tambourine, maracas, etc.",
+      "Age": "3+ years",
+      "Material": "Durable plastic",
+      "Safety": "Child-safe"
+    },
+    "highlights": [
+      "Set of 5 instruments",
+      "Perfect for music introduction",
+      "Safe construction",
+      "Durable materials",
+      "Fun for all ages"
+    ]
+  },
+  {
+    "id": "prod-187",
+    "name": "Action Figure Set",
+    "slug": "action-figure-set",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Set of 3 posable action figures with accessories. Perfect for imaginative play and storytelling. Durable construction. Multiple character options available.",
+    "images": [
+      "https://loremflickr.com/800/800/toys?random=898713352",
+      "https://loremflickr.com/800/800/children?random=898713353",
+      "https://loremflickr.com/800/800/play?random=898713354",
+      "https://loremflickr.com/800/800/games?random=898713355"
+    ],
+    "category": "Toys & Kids",
+    "categorySlug": "toys",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Set": "3 figures",
+      "Poseable": "Yes",
+      "Accessories": "Included",
+      "Age": "4+ years",
+      "Characters": "Multiple options"
+    },
+    "highlights": [
+      "Set of 3 figures",
+      "Posable joints",
+      "Accessories included",
+      "Perfect for storytelling",
+      "Durable construction"
+    ]
+  }
+]

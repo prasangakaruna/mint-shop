@@ -1,0 +1,496 @@
+[
+  {
+    "id": "prod-30",
+    "name": "Car Phone Mount",
+    "slug": "car-phone-mount",
+    "price": 12.99,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Universal car phone mount with strong magnetic base and adjustable arm. Works with all smartphones. Easy one-hand operation. Vent, dashboard, or windshield mounting options included.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=4322134953",
+      "https://loremflickr.com/800/800/automotive?random=4322134954",
+      "https://loremflickr.com/800/800/vehicle?random=4322134955",
+      "https://loremflickr.com/800/800/auto-parts?random=4322134956"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.5,
+    "reviewCount": 4567,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Compatibility": "All smartphones",
+      "Mounting": "Vent, Dashboard, Windshield",
+      "Material": "ABS Plastic + Metal",
+      "Rotation": "360° adjustable",
+      "Weight": "3.5 oz"
+    },
+    "highlights": [
+      "Universal smartphone compatibility",
+      "Strong magnetic base",
+      "Multiple mounting options",
+      "One-hand operation",
+      "360° rotation"
+    ]
+  },
+  {
+    "id": "prod-52",
+    "name": "Car Floor Mats Set",
+    "slug": "car-floor-mats-set",
+    "price": 39.99,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Premium all-weather car floor mats set for front and back seats. Heavy-duty rubber material, deep grooves for water containment, and custom-fit design. Easy to clean and maintain.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=6727931846",
+      "https://loremflickr.com/800/800/automotive?random=6727931847",
+      "https://loremflickr.com/800/800/vehicle?random=6727931848",
+      "https://loremflickr.com/800/800/auto-parts?random=6727931849"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.7,
+    "reviewCount": 3456,
+    "orders": "9,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Set": "4 mats (front + back)",
+      "Material": "Heavy-duty rubber",
+      "Fit": "Universal fit",
+      "Thickness": "10mm",
+      "Cleaning": "Hose washable"
+    },
+    "highlights": [
+      "All-weather protection",
+      "Heavy-duty rubber material",
+      "Deep water containment",
+      "Easy to clean",
+      "Universal fit design"
+    ]
+  },
+  {
+    "id": "prod-53",
+    "name": "Car Phone Charger Fast",
+    "slug": "car-phone-charger-fast",
+    "price": 9.99,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Fast charging car charger with dual USB ports and smart IC technology. Compatible with all smartphones. LED indicator, overcharge protection, and compact design.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=5882393861",
+      "https://loremflickr.com/800/800/automotive?random=5882393862",
+      "https://loremflickr.com/800/800/vehicle?random=5882393863",
+      "https://loremflickr.com/800/800/auto-parts?random=5882393864"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.5,
+    "reviewCount": 5234,
+    "orders": "14,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Output": "5V/2.4A per port",
+      "Ports": "Dual USB",
+      "Technology": "Smart IC fast charging",
+      "Protection": "Overcharge, overheat",
+      "LED": "Indicator light"
+    },
+    "highlights": [
+      "Fast charging technology",
+      "Dual USB ports",
+      "Smart IC chip",
+      "Safety protection",
+      "Universal compatibility"
+    ]
+  },
+  {
+    "id": "prod-188",
+    "name": "Car Phone Mount",
+    "slug": "car-phone-mount",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Universal car phone mount with strong suction cup. 360-degree rotation. One-hand operation. Compatible with all smartphones. Perfect for GPS navigation.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=4322134953",
+      "https://loremflickr.com/800/800/automotive?random=4322134954",
+      "https://loremflickr.com/800/800/vehicle?random=4322134955",
+      "https://loremflickr.com/800/800/auto-parts?random=4322134956"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Mount": "Suction cup",
+      "Rotation": "360 degrees",
+      "Compatibility": "All smartphones",
+      "Operation": "One-hand",
+      "Use": "GPS navigation"
+    },
+    "highlights": [
+      "Strong suction cup",
+      "360-degree rotation",
+      "Universal compatibility",
+      "One-hand operation",
+      "Perfect for GPS"
+    ]
+  },
+  {
+    "id": "prod-189",
+    "name": "Car Charger USB",
+    "slug": "car-charger-usb",
+    "price": 12.99,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Dual USB car charger with fast charging support. Compatible with all USB devices. LED indicator. Compact design. Perfect for charging phones and tablets.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=7504422948",
+      "https://loremflickr.com/800/800/automotive?random=7504422949",
+      "https://loremflickr.com/800/800/vehicle?random=7504422950",
+      "https://loremflickr.com/800/800/auto-parts?random=7504422951"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.6,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Ports": "Dual USB",
+      "Fast Charge": "Yes",
+      "Compatibility": "All USB devices",
+      "Indicator": "LED",
+      "Design": "Compact"
+    },
+    "highlights": [
+      "Dual USB ports",
+      "Fast charging support",
+      "Universal compatibility",
+      "LED indicator",
+      "Compact design"
+    ]
+  },
+  {
+    "id": "prod-190",
+    "name": "Car Floor Mats Set",
+    "slug": "car-floor-mats-set",
+    "price": 45,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Set of 4 all-weather car floor mats. Custom-fit design. Easy to clean. Protects carpet from dirt and spills. Available for multiple car models.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=6727931846",
+      "https://loremflickr.com/800/800/automotive?random=6727931847",
+      "https://loremflickr.com/800/800/vehicle?random=6727931848",
+      "https://loremflickr.com/800/800/auto-parts?random=6727931849"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Set": "4 mats",
+      "Type": "All-weather",
+      "Fit": "Custom-fit",
+      "Care": "Easy to clean",
+      "Models": "Multiple available"
+    },
+    "highlights": [
+      "Set of 4 mats",
+      "All-weather protection",
+      "Custom-fit design",
+      "Easy to clean",
+      "Protects carpet"
+    ]
+  },
+  {
+    "id": "prod-191",
+    "name": "Tire Pressure Gauge",
+    "slug": "tire-pressure-gauge",
+    "price": 15,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Digital tire pressure gauge with LCD display. Accurate readings. Easy to use. Perfect for maintaining proper tire pressure and fuel efficiency.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=188214882",
+      "https://loremflickr.com/800/800/automotive?random=188214883",
+      "https://loremflickr.com/800/800/vehicle?random=188214884",
+      "https://loremflickr.com/800/800/auto-parts?random=188214885"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Type": "Digital",
+      "Display": "LCD",
+      "Accuracy": "High",
+      "Range": "0-150 PSI",
+      "Battery": "Included"
+    },
+    "highlights": [
+      "Digital LCD display",
+      "Accurate readings",
+      "Easy to use",
+      "Maintains tire pressure",
+      "Improves fuel efficiency"
+    ]
+  },
+  {
+    "id": "prod-192",
+    "name": "Car Air Freshener Set",
+    "slug": "car-air-freshener-set",
+    "price": 12,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Set of 6 car air fresheners in various scents. Long-lasting fragrance. Easy to install. Perfect for keeping your car smelling fresh.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=259563141",
+      "https://loremflickr.com/800/800/automotive?random=259563142",
+      "https://loremflickr.com/800/800/vehicle?random=259563143",
+      "https://loremflickr.com/800/800/auto-parts?random=259563144"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.5,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Set": "6 fresheners",
+      "Scents": "Various",
+      "Duration": "Long-lasting",
+      "Installation": "Easy",
+      "Type": "Vent clip"
+    },
+    "highlights": [
+      "Set of 6",
+      "Various scents",
+      "Long-lasting fragrance",
+      "Easy installation",
+      "Keeps car fresh"
+    ]
+  },
+  {
+    "id": "prod-193",
+    "name": "Jump Starter Portable",
+    "slug": "jump-starter-portable",
+    "price": 65,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "Portable jump starter with built-in battery. Starts cars, trucks, and motorcycles. USB ports for charging devices. LED flashlight included. Compact design.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=7776895936",
+      "https://loremflickr.com/800/800/automotive?random=7776895937",
+      "https://loremflickr.com/800/800/vehicle?random=7776895938",
+      "https://loremflickr.com/800/800/auto-parts?random=7776895939"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Capacity": "High capacity",
+      "Vehicles": "Cars, trucks, motorcycles",
+      "USB Ports": "Yes",
+      "Flashlight": "LED included",
+      "Design": "Compact"
+    },
+    "highlights": [
+      "Portable design",
+      "Starts multiple vehicle types",
+      "USB charging ports",
+      "LED flashlight",
+      "Emergency essential"
+    ]
+  },
+  {
+    "id": "prod-194",
+    "name": "Car Seat Covers Set",
+    "slug": "car-seat-covers-set",
+    "price": 55,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Set of 2 universal car seat covers. Easy to install. Protects seats from wear and stains. Machine washable. Available in multiple colors.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=16832174248",
+      "https://loremflickr.com/800/800/automotive?random=16832174249",
+      "https://loremflickr.com/800/800/vehicle?random=16832174250",
+      "https://loremflickr.com/800/800/auto-parts?random=16832174251"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Set": "2 covers",
+      "Fit": "Universal",
+      "Installation": "Easy",
+      "Care": "Machine washable",
+      "Colors": "Multiple options"
+    },
+    "highlights": [
+      "Set of 2 covers",
+      "Universal fit",
+      "Easy installation",
+      "Protects seats",
+      "Machine washable"
+    ]
+  },
+  {
+    "id": "prod-195",
+    "name": "Windshield Sun Shade",
+    "slug": "windshield-sun-shade",
+    "price": 22,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Foldable windshield sun shade to protect interior from UV rays. Easy to install and remove. Reduces heat and prevents dashboard fading. Universal size.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=1632275944",
+      "https://loremflickr.com/800/800/automotive?random=1632275945",
+      "https://loremflickr.com/800/800/vehicle?random=1632275946",
+      "https://loremflickr.com/800/800/auto-parts?random=1632275947"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Type": "Foldable",
+      "Size": "Universal",
+      "UV Protection": "Yes",
+      "Installation": "Easy",
+      "Material": "Reflective"
+    },
+    "highlights": [
+      "UV protection",
+      "Reduces interior heat",
+      "Prevents dashboard fading",
+      "Easy to use",
+      "Universal size"
+    ]
+  },
+  {
+    "id": "prod-196",
+    "name": "Car Organizer Trunk",
+    "slug": "car-organizer-trunk",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Trunk organizer with multiple compartments. Keeps items organized and prevents sliding. Collapsible design for easy storage. Perfect for groceries and gear.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=1004928709",
+      "https://loremflickr.com/800/800/automotive?random=1004928710",
+      "https://loremflickr.com/800/800/vehicle?random=1004928711",
+      "https://loremflickr.com/800/800/auto-parts?random=1004928712"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.6,
+    "reviewCount": 1234,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Compartments": "Multiple",
+      "Design": "Collapsible",
+      "Use": "Trunk organization",
+      "Material": "Durable fabric",
+      "Size": "Standard"
+    },
+    "highlights": [
+      "Multiple compartments",
+      "Prevents items sliding",
+      "Collapsible design",
+      "Easy storage",
+      "Perfect for organization"
+    ]
+  },
+  {
+    "id": "prod-197",
+    "name": "Car Vacuum Cleaner",
+    "slug": "car-vacuum-cleaner",
+    "price": 38,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Portable car vacuum cleaner with powerful suction. Cordless design with rechargeable battery. Multiple attachments included. Perfect for car interior cleaning.",
+    "images": [
+      "https://loremflickr.com/800/800/car?random=18263801969",
+      "https://loremflickr.com/800/800/automotive?random=18263801970",
+      "https://loremflickr.com/800/800/vehicle?random=18263801971",
+      "https://loremflickr.com/800/800/auto-parts?random=18263801972"
+    ],
+    "category": "Automotive",
+    "categorySlug": "automotive",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "9,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Type": "Cordless",
+      "Battery": "Rechargeable",
+      "Suction": "Powerful",
+      "Attachments": "Multiple included",
+      "Use": "Car interior"
+    },
+    "highlights": [
+      "Cordless design",
+      "Powerful suction",
+      "Rechargeable battery",
+      "Multiple attachments",
+      "Perfect for car cleaning"
+    ]
+  }
+]

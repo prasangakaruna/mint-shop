@@ -1,0 +1,613 @@
+[
+  {
+    "id": "prod-13",
+    "name": "Premium Coffee Gift Set",
+    "slug": "premium-coffee-gift-set",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Luxury coffee gift set featuring three premium single-origin blends from Colombia, Ethiopia, and Guatemala. Each bag contains 12oz of freshly roasted, specialty-grade coffee beans. Perfect gift for coffee enthusiasts.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=4554124582",
+      "https://loremflickr.com/800/800/present?random=4554124583",
+      "https://loremflickr.com/800/800/gift-box?random=4554124584",
+      "https://loremflickr.com/800/800/wrapping?random=4554124585"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.7,
+    "reviewCount": 892,
+    "orders": "2,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Total Weight": "36oz (3 x 12oz bags)",
+      "Roast Level": "Medium to Dark",
+      "Origin": "Colombia, Ethiopia, Guatemala",
+      "Grind": "Whole Bean",
+      "Packaging": "Resealable bags with gift box"
+    },
+    "highlights": [
+      "Three premium single-origin coffee blends",
+      "Freshly roasted specialty-grade beans",
+      "Elegant gift box packaging",
+      "Perfect for coffee lovers",
+      "Resealable bags maintain freshness"
+    ]
+  },
+  {
+    "id": "prod-14",
+    "name": "Gourmet Chocolate Gift Basket",
+    "slug": "gourmet-chocolate-gift-basket",
+    "price": 34.99,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Deluxe chocolate gift basket featuring artisanal Belgian chocolates, truffles, and premium dark chocolate bars. Beautifully arranged in an elegant wicker basket with ribbon. Ideal for birthdays, holidays, or thank you gifts.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=5207147730",
+      "https://loremflickr.com/800/800/present?random=5207147731",
+      "https://loremflickr.com/800/800/gift-box?random=5207147732",
+      "https://loremflickr.com/800/800/wrapping?random=5207147733"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.9,
+    "reviewCount": 1245,
+    "orders": "3,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Gift"
+    ],
+    "specifications": {
+      "Total Weight": "1.5 lbs",
+      "Chocolate Types": "Belgian, Dark, Truffles",
+      "Packaging": "Wicker basket with ribbon",
+      "Shelf Life": "6 months",
+      "Allergens": "Contains milk, soy"
+    },
+    "highlights": [
+      "Premium Belgian artisanal chocolates",
+      "Elegant wicker basket presentation",
+      "Perfect for any occasion",
+      "Hand-selected premium quality",
+      "Beautiful gift-ready packaging"
+    ]
+  },
+  {
+    "id": "prod-15",
+    "name": "Spa & Wellness Gift Set",
+    "slug": "spa-wellness-gift-set",
+    "price": 29.99,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Luxurious spa gift set including aromatherapy candles, bath bombs, essential oils, and a plush bathrobe. Perfect for relaxation and self-care. Makes an excellent gift for birthdays, Mother's Day, or just because.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=2551726291",
+      "https://loremflickr.com/800/800/present?random=2551726292",
+      "https://loremflickr.com/800/800/gift-box?random=2551726293",
+      "https://loremflickr.com/800/800/wrapping?random=2551726294"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.8,
+    "reviewCount": 678,
+    "orders": "1,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Contents": "Candles, Bath Bombs, Essential Oils, Bathrobe",
+      "Scent": "Lavender & Eucalyptus",
+      "Bathrobe Size": "One Size Fits Most",
+      "Packaging": "Gift box with ribbon"
+    },
+    "highlights": [
+      "Complete spa experience in one box",
+      "Premium aromatherapy products",
+      "Luxurious plush bathrobe included",
+      "Perfect for relaxation and self-care",
+      "Beautifully packaged for gifting"
+    ]
+  },
+  {
+    "id": "prod-19",
+    "name": "Luxury Gift Card Set",
+    "slug": "luxury-gift-card-set",
+    "price": 49.99,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Elegant gift card set with $50 value, beautifully packaged in a premium gift box. Perfect for birthdays, holidays, or any special occasion. Recipient can choose from thousands of products. Never expires.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=764510124",
+      "https://loremflickr.com/800/800/present?random=764510125",
+      "https://loremflickr.com/800/800/gift-box?random=764510126",
+      "https://loremflickr.com/800/800/wrapping?random=764510127"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.9,
+    "reviewCount": 2341,
+    "orders": "8,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Gift"
+    ],
+    "specifications": {
+      "Value": "$50",
+      "Validity": "Never expires",
+      "Packaging": "Premium gift box",
+      "Redemption": "Online or in-store",
+      "Personalization": "Optional message card"
+    },
+    "highlights": [
+      "$50 gift card value",
+      "Never expires",
+      "Elegant premium packaging",
+      "Perfect for any occasion",
+      "Thousands of products to choose from"
+    ]
+  },
+  {
+    "id": "prod-60",
+    "name": "Gift Basket Gourmet",
+    "slug": "gift-basket-gourmet",
+    "price": 49.99,
+    "originalPrice": 79.99,
+    "currency": "USD",
+    "description": "Luxury gourmet gift basket with premium chocolates, fine wines, artisanal cheeses, and gourmet snacks. Beautifully arranged in elegant wicker basket with ribbon. Perfect for special occasions.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=2759435293",
+      "https://loremflickr.com/800/800/present?random=2759435294",
+      "https://loremflickr.com/800/800/gift-box?random=2759435295",
+      "https://loremflickr.com/800/800/wrapping?random=2759435296"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift",
+      "Hot"
+    ],
+    "specifications": {
+      "Contents": "Chocolates, Wine, Cheese, Snacks",
+      "Basket": "Elegant wicker basket",
+      "Ribbon": "Decorative ribbon included",
+      "Weight": "Approx. 5 lbs",
+      "Occasion": "All occasions"
+    },
+    "highlights": [
+      "Premium gourmet selection",
+      "Elegant presentation",
+      "Perfect for gifting",
+      "High-quality products",
+      "Beautiful gift basket"
+    ]
+  },
+  {
+    "id": "prod-61",
+    "name": "Flower Bouquet Premium",
+    "slug": "flower-bouquet-premium",
+    "price": 34.99,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Beautiful fresh flower bouquet with mixed seasonal blooms. Arranged by professional florists, includes care instructions, and delivered in elegant vase. Perfect for birthdays, anniversaries, or any occasion.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=3822435965",
+      "https://loremflickr.com/800/800/present?random=3822435966",
+      "https://loremflickr.com/800/800/gift-box?random=3822435967",
+      "https://loremflickr.com/800/800/wrapping?random=3822435968"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "5,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift",
+      "Fresh"
+    ],
+    "specifications": {
+      "Flowers": "Mixed seasonal blooms",
+      "Arrangement": "Professional florist",
+      "Vase": "Elegant glass vase included",
+      "Care": "Instructions included",
+      "Delivery": "Fresh delivery available"
+    },
+    "highlights": [
+      "Fresh seasonal flowers",
+      "Professional arrangement",
+      "Elegant vase included",
+      "Care instructions provided",
+      "Perfect for any occasion"
+    ]
+  },
+  {
+    "id": "prod-228",
+    "name": "Gift Basket Gourmet",
+    "slug": "gift-basket-gourmet",
+    "price": 65,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "Gourmet gift basket with premium snacks, chocolates, and treats. Beautifully packaged. Perfect for holidays, birthdays, or thank you gifts. Ready to give.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=2759435293",
+      "https://loremflickr.com/800/800/present?random=2759435294",
+      "https://loremflickr.com/800/800/gift-box?random=2759435295",
+      "https://loremflickr.com/800/800/wrapping?random=2759435296"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Contents": "Premium snacks, chocolates",
+      "Packaging": "Beautiful basket",
+      "Occasions": "Holidays, birthdays, thank you",
+      "Ready": "Ready to give",
+      "Size": "Standard"
+    },
+    "highlights": [
+      "Premium gourmet items",
+      "Beautiful packaging",
+      "Perfect for any occasion",
+      "Ready to give",
+      "Thoughtful gift"
+    ]
+  },
+  {
+    "id": "prod-229",
+    "name": "Candle Set Scented",
+    "slug": "candle-set-scented",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Set of 3 scented candles in elegant jars. Long-burning soy wax. Multiple fragrance options. Perfect for home decor and relaxation. Gift box included.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=4994757095",
+      "https://loremflickr.com/800/800/present?random=4994757096",
+      "https://loremflickr.com/800/800/gift-box?random=4994757097",
+      "https://loremflickr.com/800/800/wrapping?random=4994757098"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Set": "3 candles",
+      "Wax": "Soy wax",
+      "Burn Time": "Long-burning",
+      "Fragrances": "Multiple options",
+      "Gift Box": "Included"
+    },
+    "highlights": [
+      "Set of 3 candles",
+      "Soy wax",
+      "Long-burning",
+      "Multiple fragrances",
+      "Gift box included"
+    ]
+  },
+  {
+    "id": "prod-230",
+    "name": "Photo Frame Set",
+    "slug": "photo-frame-set",
+    "price": 32,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "Set of 3 photo frames in different sizes. Elegant design perfect for displaying memories. Stand or wall mount options. Perfect gift for any occasion.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=2478947741",
+      "https://loremflickr.com/800/800/present?random=2478947742",
+      "https://loremflickr.com/800/800/gift-box?random=2478947743",
+      "https://loremflickr.com/800/800/wrapping?random=2478947744"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Set": "3 frames",
+      "Sizes": "Different sizes",
+      "Design": "Elegant",
+      "Mount": "Stand or wall",
+      "Use": "Display photos"
+    },
+    "highlights": [
+      "Set of 3 frames",
+      "Different sizes",
+      "Elegant design",
+      "Stand or wall mount",
+      "Perfect for memories"
+    ]
+  },
+  {
+    "id": "prod-231",
+    "name": "Wine Gift Set",
+    "slug": "wine-gift-set",
+    "price": 45,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Wine gift set with 2 wine glasses and accessories. Elegant presentation box. Perfect for wine lovers. Great for housewarming or hostess gifts.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=2427417473",
+      "https://loremflickr.com/800/800/present?random=2427417474",
+      "https://loremflickr.com/800/800/gift-box?random=2427417475",
+      "https://loremflickr.com/800/800/wrapping?random=2427417476"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Set": "2 glasses + accessories",
+      "Box": "Presentation box",
+      "Occasions": "Housewarming, hostess",
+      "Use": "Wine lovers",
+      "Design": "Elegant"
+    },
+    "highlights": [
+      "2 wine glasses",
+      "Accessories included",
+      "Elegant presentation",
+      "Perfect for wine lovers",
+      "Great gift idea"
+    ]
+  },
+  {
+    "id": "prod-232",
+    "name": "Bath Gift Set",
+    "slug": "bath-gift-set",
+    "price": 38,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Luxurious bath gift set with bath bombs, soap, and lotion. Beautifully packaged. Perfect for relaxation and self-care. Great for birthdays or holidays.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=79930155",
+      "https://loremflickr.com/800/800/present?random=79930156",
+      "https://loremflickr.com/800/800/gift-box?random=79930157",
+      "https://loremflickr.com/800/800/wrapping?random=79930158"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Contents": "Bath bombs, soap, lotion",
+      "Packaging": "Beautiful",
+      "Use": "Relaxation, self-care",
+      "Occasions": "Birthdays, holidays",
+      "Size": "Standard"
+    },
+    "highlights": [
+      "Luxurious bath products",
+      "Beautiful packaging",
+      "Perfect for relaxation",
+      "Self-care gift",
+      "Multiple occasions"
+    ]
+  },
+  {
+    "id": "prod-233",
+    "name": "Coffee Gift Set",
+    "slug": "coffee-gift-set",
+    "price": 42,
+    "originalPrice": 64.99,
+    "currency": "USD",
+    "description": "Coffee lover's gift set with premium coffee, mugs, and accessories. Beautifully packaged. Perfect for coffee enthusiasts. Great for any occasion.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=3696819556",
+      "https://loremflickr.com/800/800/present?random=3696819557",
+      "https://loremflickr.com/800/800/gift-box?random=3696819558",
+      "https://loremflickr.com/800/800/wrapping?random=3696819559"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Contents": "Coffee, mugs, accessories",
+      "Packaging": "Beautiful",
+      "Use": "Coffee lovers",
+      "Occasions": "Any occasion",
+      "Quality": "Premium"
+    },
+    "highlights": [
+      "Premium coffee",
+      "Mugs and accessories",
+      "Beautiful packaging",
+      "Perfect for coffee lovers",
+      "Great gift idea"
+    ]
+  },
+  {
+    "id": "prod-234",
+    "name": "Chocolate Gift Box",
+    "slug": "chocolate-gift-box",
+    "price": 24,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Premium chocolate gift box with assorted flavors. Beautiful presentation box. Perfect for holidays, birthdays, or thank you. Ready to give.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=5396862185",
+      "https://loremflickr.com/800/800/present?random=5396862186",
+      "https://loremflickr.com/800/800/gift-box?random=5396862187",
+      "https://loremflickr.com/800/800/wrapping?random=5396862188"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.9,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Chocolates": "Assorted flavors",
+      "Box": "Presentation box",
+      "Occasions": "Holidays, birthdays, thank you",
+      "Ready": "Ready to give",
+      "Quality": "Premium"
+    },
+    "highlights": [
+      "Premium chocolates",
+      "Assorted flavors",
+      "Beautiful presentation",
+      "Ready to give",
+      "Perfect for any occasion"
+    ]
+  },
+  {
+    "id": "prod-235",
+    "name": "Plant Gift Set",
+    "slug": "plant-gift-set",
+    "price": 35,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "Indoor plant gift set with small plant, decorative pot, and care instructions. Perfect for plant lovers. Great for housewarming or birthdays.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=3572569393",
+      "https://loremflickr.com/800/800/present?random=3572569394",
+      "https://loremflickr.com/800/800/gift-box?random=3572569395",
+      "https://loremflickr.com/800/800/wrapping?random=3572569396"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Contents": "Plant, pot, instructions",
+      "Type": "Indoor plant",
+      "Occasions": "Housewarming, birthdays",
+      "Use": "Plant lovers",
+      "Care": "Instructions included"
+    },
+    "highlights": [
+      "Indoor plant",
+      "Decorative pot",
+      "Care instructions",
+      "Perfect for plant lovers",
+      "Great gift idea"
+    ]
+  },
+  {
+    "id": "prod-236",
+    "name": "Spa Gift Set",
+    "slug": "spa-gift-set",
+    "price": 48,
+    "originalPrice": 79.99,
+    "currency": "USD",
+    "description": "Luxurious spa gift set with face masks, scrubs, and bath products. Beautifully packaged. Perfect for relaxation and pampering. Great for any occasion.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=2463607960",
+      "https://loremflickr.com/800/800/present?random=2463607961",
+      "https://loremflickr.com/800/800/gift-box?random=2463607962",
+      "https://loremflickr.com/800/800/wrapping?random=2463607963"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "12,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Contents": "Face masks, scrubs, bath products",
+      "Packaging": "Beautiful",
+      "Use": "Relaxation, pampering",
+      "Occasions": "Any occasion",
+      "Quality": "Luxurious"
+    },
+    "highlights": [
+      "Luxurious spa products",
+      "Face masks and scrubs",
+      "Beautiful packaging",
+      "Perfect for pampering",
+      "Great gift idea"
+    ]
+  },
+  {
+    "id": "prod-237",
+    "name": "Gift Card Digital",
+    "slug": "gift-card-digital",
+    "price": 50,
+    "originalPrice": 50,
+    "currency": "USD",
+    "description": "Digital gift card for any amount. Perfect for last-minute gifts. Recipient can choose their favorite products. Instant delivery via email. No expiration.",
+    "images": [
+      "https://loremflickr.com/800/800/gift?random=1145292850",
+      "https://loremflickr.com/800/800/present?random=1145292851",
+      "https://loremflickr.com/800/800/gift-box?random=1145292852",
+      "https://loremflickr.com/800/800/wrapping?random=1145292853"
+    ],
+    "category": "Gifts",
+    "categorySlug": "gifts",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Type": "Digital",
+      "Amount": "Any amount",
+      "Delivery": "Instant email",
+      "Expiration": "No expiration",
+      "Use": "Any products"
+    },
+    "highlights": [
+      "Digital gift card",
+      "Any amount",
+      "Instant delivery",
+      "No expiration",
+      "Perfect last-minute gift"
+    ]
+  }
+]

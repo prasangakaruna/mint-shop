@@ -1,0 +1,497 @@
+[
+  {
+    "id": "prod-24",
+    "name": "Luxury Skincare Gift Box",
+    "slug": "luxury-skincare-gift-box",
+    "price": 44.99,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Premium skincare gift set featuring cleanser, serum, moisturizer, and eye cream. All products are cruelty-free, vegan, and made with natural ingredients. Beautifully packaged in an elegant gift box.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=6289817090",
+      "https://loremflickr.com/800/800/cosmetics?random=6289817091",
+      "https://loremflickr.com/800/800/skincare?random=6289817092",
+      "https://loremflickr.com/800/800/makeup?random=6289817093"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "orders": "3,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Contents": "Cleanser, Serum, Moisturizer, Eye Cream",
+      "Volume": "Full size products",
+      "Certification": "Cruelty-free, Vegan",
+      "Skin Type": "All skin types",
+      "Packaging": "Elegant gift box"
+    },
+    "highlights": [
+      "Complete skincare routine",
+      "Cruelty-free and vegan",
+      "Natural ingredients",
+      "Suitable for all skin types",
+      "Perfect gift packaging"
+    ]
+  },
+  {
+    "id": "prod-42",
+    "name": "Vitamin C Serum",
+    "slug": "vitamin-c-serum",
+    "price": 18.99,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Brightening vitamin C serum with hyaluronic acid and antioxidants. Reduces dark spots, evens skin tone, and boosts collagen. Suitable for all skin types. 1 fl oz bottle.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=2275399454",
+      "https://loremflickr.com/800/800/cosmetics?random=2275399455",
+      "https://loremflickr.com/800/800/skincare?random=2275399456",
+      "https://loremflickr.com/800/800/makeup?random=2275399457"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.8,
+    "reviewCount": 4567,
+    "orders": "12,300+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Best Seller"
+    ],
+    "specifications": {
+      "Volume": "1 fl oz (30ml)",
+      "Active Ingredient": "20% Vitamin C",
+      "Additional": "Hyaluronic Acid",
+      "Skin Type": "All skin types",
+      "Usage": "Apply morning and evening"
+    },
+    "highlights": [
+      "Brightens and evens skin tone",
+      "Reduces dark spots",
+      "Boosts collagen production",
+      "Suitable for all skin types",
+      "Antioxidant protection"
+    ]
+  },
+  {
+    "id": "prod-43",
+    "name": "Makeup Brush Set",
+    "slug": "makeup-brush-set",
+    "price": 24.99,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Professional 12-piece makeup brush set with soft synthetic bristles. Includes foundation, concealer, eyeshadow, and blending brushes. Comes in elegant carrying case.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=1841736516",
+      "https://loremflickr.com/800/800/cosmetics?random=1841736517",
+      "https://loremflickr.com/800/800/skincare?random=1841736518",
+      "https://loremflickr.com/800/800/makeup?random=1841736519"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "6,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Pieces": "12 brushes",
+      "Bristles": "Synthetic (cruelty-free)",
+      "Handle": "Wooden with matte finish",
+      "Case": "Elegant carrying case",
+      "Cleaning": "Easy to clean"
+    },
+    "highlights": [
+      "12 professional brushes",
+      "Soft synthetic bristles",
+      "Cruelty-free materials",
+      "Elegant carrying case",
+      "Perfect for all makeup looks"
+    ]
+  },
+  {
+    "id": "prod-128",
+    "name": "Vitamin C Serum",
+    "slug": "vitamin-c-serum",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Brightening vitamin C serum with hyaluronic acid. Reduces dark spots and fine lines. Lightweight formula absorbs quickly. Suitable for all skin types. 1 fl oz bottle.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=2275399454",
+      "https://loremflickr.com/800/800/cosmetics?random=2275399455",
+      "https://loremflickr.com/800/800/skincare?random=2275399456",
+      "https://loremflickr.com/800/800/makeup?random=2275399457"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.8,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Volume": "1 fl oz",
+      "Key Ingredient": "Vitamin C + Hyaluronic Acid",
+      "Skin Type": "All skin types",
+      "Application": "Morning and evening",
+      "Cruelty Free": "Yes"
+    },
+    "highlights": [
+      "Brightening vitamin C formula",
+      "Hyaluronic acid for hydration",
+      "Reduces dark spots",
+      "Lightweight fast-absorbing",
+      "Suitable for all skin types"
+    ]
+  },
+  {
+    "id": "prod-129",
+    "name": "Electric Toothbrush Sonic",
+    "slug": "electric-toothbrush-sonic",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Sonic electric toothbrush with 5 cleaning modes and 2-minute timer. Rechargeable with 30-day battery life. Includes 2 brush heads and travel case.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=2407401136",
+      "https://loremflickr.com/800/800/cosmetics?random=2407401137",
+      "https://loremflickr.com/800/800/skincare?random=2407401138",
+      "https://loremflickr.com/800/800/makeup?random=2407401139"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Modes": "5 cleaning modes",
+      "Battery": "30-day life",
+      "Timer": "2-minute with quad-pacer",
+      "Brush Heads": "2 included",
+      "Charging": "USB charging base"
+    },
+    "highlights": [
+      "5 cleaning modes",
+      "30-day battery life",
+      "2-minute timer",
+      "2 brush heads included",
+      "Travel case included"
+    ]
+  },
+  {
+    "id": "prod-130",
+    "name": "Face Mask Sheet Set",
+    "slug": "face-mask-sheet-set",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Set of 10 hydrating sheet masks with hyaluronic acid and collagen. Individually wrapped. Perfect for weekly skincare routine. Suitable for all skin types.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=7903335410",
+      "https://loremflickr.com/800/800/cosmetics?random=7903335411",
+      "https://loremflickr.com/800/800/skincare?random=7903335412",
+      "https://loremflickr.com/800/800/makeup?random=7903335413"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.6,
+    "reviewCount": 5432,
+    "orders": "16,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Set": "10 sheet masks",
+      "Key Ingredients": "Hyaluronic acid, collagen",
+      "Skin Type": "All skin types",
+      "Usage": "1-2 times per week",
+      "Packaging": "Individually wrapped"
+    },
+    "highlights": [
+      "Set of 10 masks",
+      "Hydrating formula",
+      "Hyaluronic acid and collagen",
+      "Individually wrapped",
+      "Perfect for weekly routine"
+    ]
+  },
+  {
+    "id": "prod-131",
+    "name": "Hair Dryer Professional",
+    "slug": "hair-dryer-professional",
+    "price": 42,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Professional hair dryer with ionic technology and multiple heat settings. Lightweight design with concentrator nozzle. Reduces frizz and speeds up drying time.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=2921287606",
+      "https://loremflickr.com/800/800/cosmetics?random=2921287607",
+      "https://loremflickr.com/800/800/skincare?random=2921287608",
+      "https://loremflickr.com/800/800/makeup?random=2921287609"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Technology": "Ionic",
+      "Heat Settings": "3 levels",
+      "Speed Settings": "2 levels",
+      "Power": "1875W",
+      "Accessories": "Concentrator nozzle"
+    },
+    "highlights": [
+      "Ionic technology",
+      "Multiple heat and speed settings",
+      "Lightweight design",
+      "Reduces frizz",
+      "Faster drying time"
+    ]
+  },
+  {
+    "id": "prod-132",
+    "name": "Makeup Brush Set",
+    "slug": "makeup-brush-set",
+    "price": 28,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Professional 12-piece makeup brush set with synthetic bristles. Soft, cruelty-free brushes perfect for all makeup applications. Includes carrying case.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=1841736516",
+      "https://loremflickr.com/800/800/cosmetics?random=1841736517",
+      "https://loremflickr.com/800/800/skincare?random=1841736518",
+      "https://loremflickr.com/800/800/makeup?random=1841736519"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Set": "12 brushes",
+      "Bristles": "Synthetic",
+      "Cruelty Free": "Yes",
+      "Case": "Carrying case included",
+      "Cleaning": "Easy to clean"
+    },
+    "highlights": [
+      "12-piece professional set",
+      "Soft synthetic bristles",
+      "Cruelty-free",
+      "Carrying case included",
+      "Perfect for all makeup"
+    ]
+  },
+  {
+    "id": "prod-133",
+    "name": "Sunscreen SPF 50",
+    "slug": "sunscreen-spf-50",
+    "price": 16.99,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Broad spectrum SPF 50 sunscreen with UVA/UVB protection. Water-resistant for up to 80 minutes. Lightweight, non-greasy formula. Suitable for face and body.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=3724187685",
+      "https://loremflickr.com/800/800/cosmetics?random=3724187686",
+      "https://loremflickr.com/800/800/skincare?random=3724187687",
+      "https://loremflickr.com/800/800/makeup?random=3724187688"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "SPF": "50",
+      "Protection": "Broad spectrum UVA/UVB",
+      "Water Resistant": "80 minutes",
+      "Size": "3 fl oz",
+      "Formula": "Lightweight, non-greasy"
+    },
+    "highlights": [
+      "SPF 50 protection",
+      "Broad spectrum coverage",
+      "Water-resistant 80 minutes",
+      "Lightweight formula",
+      "Face and body use"
+    ]
+  },
+  {
+    "id": "prod-134",
+    "name": "Hair Straightener Ceramic",
+    "slug": "hair-straightener-ceramic",
+    "price": 38,
+    "originalPrice": 64.99,
+    "currency": "USD",
+    "description": "1-inch ceramic flat iron with adjustable temperature control. Heats up in 30 seconds. Floating plates for even heat distribution. Perfect for all hair types.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=2239500845",
+      "https://loremflickr.com/800/800/cosmetics?random=2239500846",
+      "https://loremflickr.com/800/800/skincare?random=2239500847",
+      "https://loremflickr.com/800/800/makeup?random=2239500848"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.6,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Plate Size": "1 inch",
+      "Plates": "Ceramic floating",
+      "Temperature": "Adjustable 300-450°F",
+      "Heat Up": "30 seconds",
+      "Auto Shutoff": "Yes"
+    },
+    "highlights": [
+      "Ceramic floating plates",
+      "Adjustable temperature",
+      "Fast 30-second heat up",
+      "Even heat distribution",
+      "Auto shutoff safety"
+    ]
+  },
+  {
+    "id": "prod-135",
+    "name": "Retinol Night Cream",
+    "slug": "retinol-night-cream",
+    "price": 32,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "Anti-aging retinol night cream with peptides and hyaluronic acid. Reduces fine lines and wrinkles. Rich, hydrating formula. Use at night for best results. 1.7 oz jar.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=4593591598",
+      "https://loremflickr.com/800/800/cosmetics?random=4593591599",
+      "https://loremflickr.com/800/800/skincare?random=4593591600",
+      "https://loremflickr.com/800/800/makeup?random=4593591601"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "7,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Size": "1.7 oz",
+      "Key Ingredients": "Retinol, peptides, hyaluronic acid",
+      "Usage": "Night time",
+      "Skin Type": "All skin types",
+      "Cruelty Free": "Yes"
+    },
+    "highlights": [
+      "Anti-aging retinol formula",
+      "Peptides and hyaluronic acid",
+      "Reduces fine lines",
+      "Rich hydrating texture",
+      "Night time treatment"
+    ]
+  },
+  {
+    "id": "prod-136",
+    "name": "Nail Polish Set",
+    "slug": "nail-polish-set",
+    "price": 22,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Set of 12 nail polish bottles in assorted colors. Long-lasting formula with glossy finish. Quick-drying and chip-resistant. Perfect for home manicures.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=46176148",
+      "https://loremflickr.com/800/800/cosmetics?random=46176149",
+      "https://loremflickr.com/800/800/skincare?random=46176150",
+      "https://loremflickr.com/800/800/makeup?random=46176151"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "orders": "5,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Set": "12 bottles",
+      "Formula": "Long-lasting",
+      "Finish": "Glossy",
+      "Drying": "Quick-drying",
+      "Chip Resistant": "Yes"
+    },
+    "highlights": [
+      "Set of 12 colors",
+      "Long-lasting formula",
+      "Glossy finish",
+      "Quick-drying",
+      "Chip-resistant"
+    ]
+  },
+  {
+    "id": "prod-137",
+    "name": "Facial Cleansing Brush",
+    "slug": "facial-cleansing-brush",
+    "price": 26,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Sonic facial cleansing brush with 2 speed settings and waterproof design. Includes 2 brush heads for different skin types. Rechargeable with USB charging.",
+    "images": [
+      "https://loremflickr.com/800/800/beauty?random=1170137995",
+      "https://loremflickr.com/800/800/cosmetics?random=1170137996",
+      "https://loremflickr.com/800/800/skincare?random=1170137997",
+      "https://loremflickr.com/800/800/makeup?random=1170137998"
+    ],
+    "category": "Beauty & Health",
+    "categorySlug": "beauty",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "9,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Speeds": "2 settings",
+      "Waterproof": "IPX7",
+      "Brush Heads": "2 included",
+      "Charging": "USB rechargeable",
+      "Battery": "30-day life"
+    },
+    "highlights": [
+      "Sonic cleansing technology",
+      "2 speed settings",
+      "Waterproof design",
+      "2 brush heads included",
+      "Deep pore cleansing"
+    ]
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "prod-6",
+    "name": "Minimalist Desk Lamp Pro",
+    "slug": "minimalist-desk-lamp-pro",
+    "price": 32,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Sleek LED desk lamp with adjustable color temperature (3000K–6500K) and brightness levels. USB-C charging port and touch controls. Foldable design for portability.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=8153886190",
+      "https://loremflickr.com/800/800/furniture?random=8153886191",
+      "https://loremflickr.com/800/800/decoration?random=8153886192",
+      "https://loremflickr.com/800/800/interior?random=8153886193"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.6,
+    "reviewCount": 678,
+    "orders": "1,400+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Light Source": "LED (60 SMD beads)",
+      "Color Temperature": "3000K – 6500K",
+      "Brightness Levels": "5 steps",
+      "Power": "USB-C (5V/2A)",
+      "Material": "Aluminum alloy + ABS",
+      "Foldable": "Yes — 180° adjustable"
+    },
+    "highlights": [
+      "5 brightness × 5 color temperature modes",
+      "Built-in USB-C port for device charging",
+      "Foldable design for easy storage",
+      "Flicker-free eye-care technology",
+      "Memory function remembers last setting"
+    ]
+  },
+  {
+    "id": "prod-10",
+    "name": "Ceramic Pour-Over Coffee Set",
+    "slug": "ceramic-pour-over-coffee-set",
+    "price": 38,
+    "originalPrice": 55,
+    "currency": "USD",
+    "description": "Artisan ceramic dripper with borosilicate glass carafe. Includes 100 natural paper filters. Brews 1–4 cups of rich, clean coffee in minutes.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=4356104182",
+      "https://loremflickr.com/800/800/furniture?random=4356104183",
+      "https://loremflickr.com/800/800/decoration?random=4356104184",
+      "https://loremflickr.com/800/800/interior?random=4356104185"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.9,
+    "reviewCount": 567,
+    "orders": "890+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Ceramic dripper + borosilicate glass",
+      "Capacity": "600ml (1–4 cups)",
+      "Filter Type": "Cone (#02 natural paper)",
+      "Includes": "Dripper, carafe, lid, 100 filters",
+      "Dishwasher Safe": "Yes (hand wash recommended)"
+    },
+    "highlights": [
+      "Premium ceramic dripper for even extraction",
+      "Heat-resistant borosilicate glass carafe",
+      "100 natural unbleached paper filters included",
+      "Elegant minimal design",
+      "Perfect for home baristas"
+    ]
+  },
+  {
+    "id": "prod-26",
+    "name": "Modern Coffee Table",
+    "slug": "modern-coffee-table",
+    "price": 129.99,
+    "originalPrice": 199.99,
+    "currency": "USD",
+    "description": "Sleek modern coffee table with tempered glass top and metal legs. Spacious storage shelf underneath. Perfect for living rooms, offices, or modern spaces. Easy assembly required.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=3790472047",
+      "https://loremflickr.com/800/800/furniture?random=3790472048",
+      "https://loremflickr.com/800/800/decoration?random=3790472049",
+      "https://loremflickr.com/800/800/interior?random=3790472050"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.5,
+    "reviewCount": 987,
+    "orders": "2,300+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Dimensions": "48\" L x 24\" W x 18\" H",
+      "Top Material": "Tempered Glass",
+      "Frame": "Metal with powder coating",
+      "Weight Capacity": "150 lbs",
+      "Assembly": "Required (tools included)"
+    },
+    "highlights": [
+      "Modern minimalist design",
+      "Tempered glass top",
+      "Spacious storage shelf",
+      "Sturdy metal construction",
+      "Easy to assemble"
+    ]
+  },
+  {
+    "id": "prod-35",
+    "name": "Indoor Plant Set",
+    "slug": "indoor-plant-set",
+    "price": 27.99,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Set of 3 low-maintenance indoor plants in decorative pots. Includes care instructions. Perfect for home or office decoration. Air-purifying plants that thrive in indirect light.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=6570991440",
+      "https://loremflickr.com/800/800/furniture?random=6570991441",
+      "https://loremflickr.com/800/800/decoration?random=6570991442",
+      "https://loremflickr.com/800/800/interior?random=6570991443"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.6,
+    "reviewCount": 1234,
+    "orders": "3,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Plants": "3 different varieties",
+      "Pot Size": "4\" diameter",
+      "Care Level": "Low maintenance",
+      "Light": "Indirect sunlight",
+      "Watering": "Weekly"
+    },
+    "highlights": [
+      "3 air-purifying plants",
+      "Decorative pots included",
+      "Low maintenance",
+      "Care instructions provided",
+      "Perfect for beginners"
+    ]
+  },
+  {
+    "id": "prod-62",
+    "name": "Kitchen Knife Set",
+    "slug": "kitchen-knife-set",
+    "price": 69.99,
+    "originalPrice": 119.99,
+    "currency": "USD",
+    "description": "Professional 8-piece kitchen knife set with stainless steel blades, ergonomic handles, and wooden block. Includes chef's knife, bread knife, paring knives, and utility knives.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=2730189337",
+      "https://loremflickr.com/800/800/furniture?random=2730189338",
+      "https://loremflickr.com/800/800/decoration?random=2730189339",
+      "https://loremflickr.com/800/800/interior?random=2730189340"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.8,
+    "reviewCount": 3456,
+    "orders": "9,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Pieces": "8 knives + block",
+      "Blade Material": "Stainless steel",
+      "Handle": "Ergonomic design",
+      "Block": "Wooden storage block",
+      "Sharpness": "Razor-sharp edges"
+    },
+    "highlights": [
+      "8-piece complete set",
+      "Professional quality",
+      "Stainless steel blades",
+      "Ergonomic handles",
+      "Wooden storage block"
+    ]
+  },
+  {
+    "id": "prod-63",
+    "name": "Bedding Set Queen",
+    "slug": "bedding-set-queen",
+    "price": 54.99,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Luxury queen-size bedding set with 100% cotton sheets, duvet cover, and pillowcases. Soft, breathable, and wrinkle-resistant. Available in multiple colors and patterns.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=1196377671",
+      "https://loremflickr.com/800/800/furniture?random=1196377672",
+      "https://loremflickr.com/800/800/decoration?random=1196377673",
+      "https://loremflickr.com/800/800/interior?random=1196377674"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "6,400+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Size": "Queen (60\" x 80\")",
+      "Material": "100% Cotton",
+      "Thread Count": "400",
+      "Set Includes": "Sheet, Duvet, 2 Pillowcases",
+      "Colors": "Multiple options"
+    },
+    "highlights": [
+      "100% premium cotton",
+      "400 thread count",
+      "Wrinkle-resistant",
+      "Soft and breathable",
+      "Complete bedding set"
+    ]
+  },
+  {
+    "id": "prod-118",
+    "name": "Indoor Plant Stand Set",
+    "slug": "indoor-plant-stand-set",
+    "price": 45,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Set of 3 tiered plant stands in modern design. Made from sturdy metal with rust-resistant finish. Perfect for displaying indoor plants and creating a green corner.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=1920005191",
+      "https://loremflickr.com/800/800/furniture?random=1920005192",
+      "https://loremflickr.com/800/800/decoration?random=1920005193",
+      "https://loremflickr.com/800/800/interior?random=1920005194"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "orders": "2,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "Metal with rust-resistant finish",
+      "Set": "3 tiered stands",
+      "Max Weight": "15 lbs per tier",
+      "Assembly": "Easy assembly required",
+      "Dimensions": "Various sizes"
+    },
+    "highlights": [
+      "Set of 3 tiered stands",
+      "Rust-resistant metal construction",
+      "Modern minimalist design",
+      "Perfect for indoor plants",
+      "Easy assembly"
+    ]
+  },
+  {
+    "id": "prod-119",
+    "name": "Memory Foam Pillow",
+    "slug": "memory-foam-pillow",
+    "price": 35,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "Ergonomic memory foam pillow with cooling gel layer. Adjustable height with removable layers. Perfect for side, back, and stomach sleepers. Machine washable cover.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=2201229481",
+      "https://loremflickr.com/800/800/furniture?random=2201229482",
+      "https://loremflickr.com/800/800/decoration?random=2201229483",
+      "https://loremflickr.com/800/800/interior?random=2201229484"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.8,
+    "reviewCount": 3456,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Memory foam with gel layer",
+      "Adjustable": "Removable layers",
+      "Cover": "Machine washable",
+      "Size": "Standard / Queen / King",
+      "Hypoallergenic": "Yes"
+    },
+    "highlights": [
+      "Cooling gel layer technology",
+      "Adjustable height",
+      "Ergonomic support",
+      "Machine washable cover",
+      "Suitable for all sleep positions"
+    ]
+  },
+  {
+    "id": "prod-120",
+    "name": "Wall Art Canvas Set",
+    "slug": "wall-art-canvas-set",
+    "price": 42,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Set of 3 canvas wall art prints in modern abstract design. Ready to hang with pre-installed hooks. High-quality printing on premium canvas. Perfect for living room or bedroom.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=6717423760",
+      "https://loremflickr.com/800/800/furniture?random=6717423761",
+      "https://loremflickr.com/800/800/decoration?random=6717423762",
+      "https://loremflickr.com/800/800/interior?random=6717423763"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Set": "3 canvas prints",
+      "Size": "12x16 inches each",
+      "Material": "Premium canvas",
+      "Hanging": "Pre-installed hooks",
+      "Frame": "Gallery wrapped"
+    },
+    "highlights": [
+      "Set of 3 coordinating prints",
+      "High-quality canvas printing",
+      "Ready to hang",
+      "Modern abstract design",
+      "Gallery wrapped edges"
+    ]
+  },
+  {
+    "id": "prod-121",
+    "name": "Smart Thermostat WiFi",
+    "slug": "smart-thermostat-wifi",
+    "price": 89,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "WiFi-enabled smart thermostat with app control and scheduling. Energy-saving features with learning capabilities. Compatible with most HVAC systems. Easy DIY installation.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=10279228253",
+      "https://loremflickr.com/800/800/furniture?random=10279228254",
+      "https://loremflickr.com/800/800/decoration?random=10279228255",
+      "https://loremflickr.com/800/800/interior?random=10279228256"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Connectivity": "WiFi 2.4GHz",
+      "Control": "App + Manual",
+      "Compatibility": "Most HVAC systems",
+      "Display": "Color touchscreen",
+      "Energy Savings": "Up to 23%"
+    },
+    "highlights": [
+      "WiFi app control",
+      "Learning capabilities",
+      "Energy-saving features",
+      "Easy DIY installation",
+      "Compatible with most systems"
+    ]
+  },
+  {
+    "id": "prod-122",
+    "name": "Kitchen Knife Set Premium",
+    "slug": "kitchen-knife-set-premium",
+    "price": 75,
+    "originalPrice": 119.99,
+    "currency": "USD",
+    "description": "Professional 8-piece knife set with block. High-carbon stainless steel blades with ergonomic handles. Includes chef's knife, bread knife, utility knives, and more.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=894338959",
+      "https://loremflickr.com/800/800/furniture?random=894338960",
+      "https://loremflickr.com/800/800/decoration?random=894338961",
+      "https://loremflickr.com/800/800/interior?random=894338962"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.9,
+    "reviewCount": 3210,
+    "orders": "9,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Set": "8 pieces with block",
+      "Material": "High-carbon stainless steel",
+      "Sharpness": "Razor-sharp edge",
+      "Handles": "Ergonomic design",
+      "Block": "Bamboo storage block"
+    },
+    "highlights": [
+      "Professional quality knives",
+      "High-carbon stainless steel",
+      "Ergonomic comfortable handles",
+      "Bamboo storage block included",
+      "Complete kitchen solution"
+    ]
+  },
+  {
+    "id": "prod-123",
+    "name": "Throw Blanket Cozy",
+    "slug": "throw-blanket-cozy",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Ultra-soft throw blanket perfect for couch, bed, or travel. Plush fabric with fringed edges. Available in multiple colors. Machine washable and fade-resistant.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=4969965082",
+      "https://loremflickr.com/800/800/furniture?random=4969965083",
+      "https://loremflickr.com/800/800/decoration?random=4969965084",
+      "https://loremflickr.com/800/800/interior?random=4969965085"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.6,
+    "reviewCount": 4567,
+    "orders": "12,300+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Polyester microfiber",
+      "Size": "50x60 inches",
+      "Weight": "Lightweight",
+      "Care": "Machine washable",
+      "Colors": "Multiple options"
+    },
+    "highlights": [
+      "Ultra-soft plush fabric",
+      "Fringed decorative edges",
+      "Multiple color options",
+      "Machine washable",
+      "Perfect for any room"
+    ]
+  },
+  {
+    "id": "prod-124",
+    "name": "Air Purifier HEPA",
+    "slug": "air-purifier-hepa",
+    "price": 129,
+    "originalPrice": 199.99,
+    "currency": "USD",
+    "description": "HEPA air purifier with 3-stage filtration system. Covers up to 300 sq ft. Quiet operation with night mode. Removes 99.97% of airborne particles including allergens and odors.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=3007911810",
+      "https://loremflickr.com/800/800/furniture?random=3007911811",
+      "https://loremflickr.com/800/800/decoration?random=3007911812",
+      "https://loremflickr.com/800/800/interior?random=3007911813"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "orders": "5,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Filtration": "3-stage HEPA",
+      "Coverage": "Up to 300 sq ft",
+      "CADR": "150+",
+      "Noise Level": "Quiet operation",
+      "Filter Life": "6-12 months"
+    },
+    "highlights": [
+      "HEPA 3-stage filtration",
+      "99.97% particle removal",
+      "Quiet night mode",
+      "Covers up to 300 sq ft",
+      "Removes allergens and odors"
+    ]
+  },
+  {
+    "id": "prod-125",
+    "name": "Garden Tool Set",
+    "slug": "garden-tool-set",
+    "price": 38,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Complete 5-piece garden tool set with ergonomic handles. Includes trowel, pruner, weeder, cultivator, and hand rake. Durable steel construction with rust-resistant coating.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=2496635995",
+      "https://loremflickr.com/800/800/furniture?random=2496635996",
+      "https://loremflickr.com/800/800/decoration?random=2496635997",
+      "https://loremflickr.com/800/800/interior?random=2496635998"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "7,200+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Set": "5 pieces",
+      "Material": "Steel with rust-resistant coating",
+      "Handles": "Ergonomic design",
+      "Storage": "Carrying case included",
+      "Tools": "Trowel, pruner, weeder, cultivator, rake"
+    },
+    "highlights": [
+      "Complete 5-piece set",
+      "Ergonomic comfortable handles",
+      "Rust-resistant coating",
+      "Carrying case included",
+      "Perfect for gardening"
+    ]
+  },
+  {
+    "id": "prod-126",
+    "name": "Bathroom Shower Curtain",
+    "slug": "bathroom-shower-curtain",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Waterproof polyester shower curtain with elegant design. Includes 12 rust-resistant hooks. Machine washable and mildew-resistant. Available in multiple patterns.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=3011963740",
+      "https://loremflickr.com/800/800/furniture?random=3011963741",
+      "https://loremflickr.com/800/800/decoration?random=3011963742",
+      "https://loremflickr.com/800/800/interior?random=3011963743"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.5,
+    "reviewCount": 5432,
+    "orders": "15,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Waterproof polyester",
+      "Size": "72x72 inches",
+      "Hooks": "12 included",
+      "Care": "Machine washable",
+      "Mildew Resistant": "Yes"
+    },
+    "highlights": [
+      "Waterproof polyester fabric",
+      "Mildew-resistant",
+      "12 hooks included",
+      "Machine washable",
+      "Multiple pattern options"
+    ]
+  },
+  {
+    "id": "prod-127",
+    "name": "Coffee Maker Drip",
+    "slug": "coffee-maker-drip",
+    "price": 45,
+    "originalPrice": 79.99,
+    "currency": "USD",
+    "description": "12-cup programmable drip coffee maker with auto-shutoff and brew strength control. Glass carafe with warming plate. Perfect for home or office use.",
+    "images": [
+      "https://loremflickr.com/800/800/home?random=2438035029",
+      "https://loremflickr.com/800/800/furniture?random=2438035030",
+      "https://loremflickr.com/800/800/decoration?random=2438035031",
+      "https://loremflickr.com/800/800/interior?random=2438035032"
+    ],
+    "category": "Home & Garden",
+    "categorySlug": "home-garden",
+    "rating": 4.6,
+    "reviewCount": 3210,
+    "orders": "11,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Capacity": "12 cups",
+      "Programmable": "Yes",
+      "Auto Shutoff": "Yes",
+      "Brew Strength": "Adjustable",
+      "Carafe": "Glass with warming plate"
+    },
+    "highlights": [
+      "12-cup capacity",
+      "Programmable timer",
+      "Auto-shutoff safety",
+      "Brew strength control",
+      "Glass carafe included"
+    ]
+  }
+]

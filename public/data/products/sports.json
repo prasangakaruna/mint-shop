@@ -1,0 +1,496 @@
+[
+  {
+    "id": "prod-23",
+    "name": "Yoga Mat Premium Set",
+    "slug": "yoga-mat-premium-set",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Extra thick non-slip yoga mat with carrying strap and yoga block included. Eco-friendly TPE material, 6mm thickness for maximum comfort. Perfect for yoga, pilates, and fitness workouts.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=1115699408",
+      "https://loremflickr.com/800/800/fitness?random=1115699409",
+      "https://loremflickr.com/800/800/exercise?random=1115699410",
+      "https://loremflickr.com/800/800/gym?random=1115699411"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "orders": "5,100+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Thickness": "6mm extra thick",
+      "Material": "TPE (Eco-friendly)",
+      "Size": "72\" x 24\"",
+      "Weight": "2.2 lbs",
+      "Includes": "Mat, Strap, Yoga Block"
+    },
+    "highlights": [
+      "Extra thick for joint protection",
+      "Non-slip surface technology",
+      "Eco-friendly TPE material",
+      "Includes carrying strap and block",
+      "Easy to clean and maintain"
+    ]
+  },
+  {
+    "id": "prod-40",
+    "name": "Camping Tent 4-Person",
+    "slug": "camping-tent-4-person",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "currency": "USD",
+    "description": "Spacious 4-person camping tent with weather-resistant fabric, easy setup, and ventilation windows. Includes rainfly, stakes, and carrying bag. Perfect for family camping trips.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=7848554166",
+      "https://loremflickr.com/800/800/fitness?random=7848554167",
+      "https://loremflickr.com/800/800/exercise?random=7848554168",
+      "https://loremflickr.com/800/800/gym?random=7848554169"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.6,
+    "reviewCount": 2134,
+    "orders": "5,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Capacity": "4 persons",
+      "Dimensions": "9' x 7' x 5'",
+      "Weight": "12 lbs",
+      "Material": "Polyester with PU coating",
+      "Setup Time": "10 minutes"
+    },
+    "highlights": [
+      "Spacious 4-person capacity",
+      "Weather-resistant design",
+      "Easy quick setup",
+      "Ventilation windows",
+      "Complete with accessories"
+    ]
+  },
+  {
+    "id": "prod-41",
+    "name": "Dumbbell Set Adjustable",
+    "slug": "dumbbell-set-adjustable",
+    "price": 49.99,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Adjustable dumbbell set with weight range from 5lbs to 25lbs per dumbbell. Ergonomic grip, secure locking mechanism, and compact storage. Perfect for home gym workouts.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=3059067446",
+      "https://loremflickr.com/800/800/fitness?random=3059067447",
+      "https://loremflickr.com/800/800/exercise?random=3059067448",
+      "https://loremflickr.com/800/800/gym?random=3059067449"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "4,300+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Weight Range": "5-25 lbs per dumbbell",
+      "Total Weight": "50 lbs (pair)",
+      "Grip": "Ergonomic non-slip",
+      "Locking": "Secure twist-lock",
+      "Storage": "Compact design"
+    },
+    "highlights": [
+      "Adjustable weight system",
+      "Ergonomic comfortable grip",
+      "Secure locking mechanism",
+      "Space-saving design",
+      "Perfect for home gym"
+    ]
+  },
+  {
+    "id": "prod-138",
+    "name": "Yoga Mat Premium",
+    "slug": "yoga-mat-premium",
+    "price": 32,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "Extra-thick premium yoga mat with non-slip surface. Eco-friendly TPE material. Perfect for yoga, pilates, and fitness. Includes carrying strap.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=4190559131",
+      "https://loremflickr.com/800/800/fitness?random=4190559132",
+      "https://loremflickr.com/800/800/exercise?random=4190559133",
+      "https://loremflickr.com/800/800/gym?random=4190559134"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.8,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Thickness": "6mm extra-thick",
+      "Material": "Eco-friendly TPE",
+      "Non-Slip": "Yes",
+      "Size": "72x24 inches",
+      "Carrying Strap": "Included"
+    },
+    "highlights": [
+      "Extra-thick 6mm cushioning",
+      "Non-slip surface",
+      "Eco-friendly TPE material",
+      "Carrying strap included",
+      "Perfect for all exercises"
+    ]
+  },
+  {
+    "id": "prod-139",
+    "name": "Resistance Bands Set",
+    "slug": "resistance-bands-set",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Set of 5 resistance bands with different resistance levels. Includes door anchor, handles, and ankle straps. Perfect for home workouts and strength training.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=5799718893",
+      "https://loremflickr.com/800/800/fitness?random=5799718894",
+      "https://loremflickr.com/800/800/exercise?random=5799718895",
+      "https://loremflickr.com/800/800/gym?random=5799718896"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Set": "5 bands",
+      "Resistance": "10-50 lbs",
+      "Accessories": "Door anchor, handles, ankle straps",
+      "Material": "Latex-free",
+      "Storage": "Carrying bag included"
+    },
+    "highlights": [
+      "5 resistance levels",
+      "Complete accessory set",
+      "Latex-free material",
+      "Carrying bag included",
+      "Perfect for home workouts"
+    ]
+  },
+  {
+    "id": "prod-140",
+    "name": "Camping Tent 4-Person",
+    "slug": "camping-tent-4-person",
+    "price": 89,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "Waterproof 4-person camping tent with easy setup. Full rainfly and mesh windows for ventilation. Lightweight and compact for easy transport.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=7848554166",
+      "https://loremflickr.com/800/800/fitness?random=7848554167",
+      "https://loremflickr.com/800/800/exercise?random=7848554168",
+      "https://loremflickr.com/800/800/gym?random=7848554169"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Capacity": "4-person",
+      "Waterproof": "2000mm rating",
+      "Setup": "Easy 5-minute setup",
+      "Weight": "8.5 lbs",
+      "Dimensions": "96x96x60 inches"
+    },
+    "highlights": [
+      "4-person capacity",
+      "Waterproof construction",
+      "Easy 5-minute setup",
+      "Mesh windows for ventilation",
+      "Lightweight and portable"
+    ]
+  },
+  {
+    "id": "prod-141",
+    "name": "Dumbbell Set Adjustable",
+    "slug": "dumbbell-set-adjustable",
+    "price": 125,
+    "originalPrice": 199.99,
+    "currency": "USD",
+    "description": "Adjustable dumbbell set with quick-change weight system. Range from 5-50 lbs per dumbbell. Space-saving design perfect for home gyms.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=3059067446",
+      "https://loremflickr.com/800/800/fitness?random=3059067447",
+      "https://loremflickr.com/800/800/exercise?random=3059067448",
+      "https://loremflickr.com/800/800/gym?random=3059067449"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.9,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Weight Range": "5-50 lbs per dumbbell",
+      "Quick Change": "Yes",
+      "Space Saving": "Yes",
+      "Material": "Cast iron plates",
+      "Storage": "Stand included"
+    },
+    "highlights": [
+      "Adjustable 5-50 lbs range",
+      "Quick-change weight system",
+      "Space-saving design",
+      "Stand included",
+      "Perfect for home gym"
+    ]
+  },
+  {
+    "id": "prod-142",
+    "name": "Running Waist Pack",
+    "slug": "running-waist-pack",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Lightweight running waist pack with phone pocket and water bottle holder. Reflective strips for safety. Adjustable waistband for comfortable fit.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=7908315170",
+      "https://loremflickr.com/800/800/fitness?random=7908315171",
+      "https://loremflickr.com/800/800/exercise?random=7908315172",
+      "https://loremflickr.com/800/800/gym?random=7908315173"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.6,
+    "reviewCount": 5432,
+    "orders": "16,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Lightweight nylon",
+      "Phone Pocket": "Yes",
+      "Water Bottle": "Holder included",
+      "Reflective": "Safety strips",
+      "Adjustable": "Waistband"
+    },
+    "highlights": [
+      "Lightweight design",
+      "Phone and water bottle storage",
+      "Reflective safety strips",
+      "Adjustable comfortable fit",
+      "Perfect for running"
+    ]
+  },
+  {
+    "id": "prod-143",
+    "name": "Bicycle Helmet Safety",
+    "slug": "bicycle-helmet-safety",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "CPSC certified bicycle helmet with adjustable fit system. Ventilated design for comfort. Multiple size options. Perfect for cycling safety.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=11668691946",
+      "https://loremflickr.com/800/800/fitness?random=11668691947",
+      "https://loremflickr.com/800/800/exercise?random=11668691948",
+      "https://loremflickr.com/800/800/gym?random=11668691949"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Certification": "CPSC certified",
+      "Ventilation": "Multiple vents",
+      "Fit System": "Adjustable dial",
+      "Sizes": "S, M, L, XL",
+      "Weight": "Lightweight"
+    },
+    "highlights": [
+      "CPSC safety certified",
+      "Adjustable fit system",
+      "Ventilated comfortable design",
+      "Multiple size options",
+      "Essential cycling safety"
+    ]
+  },
+  {
+    "id": "prod-144",
+    "name": "Jump Rope Speed",
+    "slug": "jump-rope-speed",
+    "price": 12.99,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Professional speed jump rope with ball bearings and adjustable length. Lightweight cable design. Perfect for cardio workouts and training.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=3606040483",
+      "https://loremflickr.com/800/800/fitness?random=3606040484",
+      "https://loremflickr.com/800/800/exercise?random=3606040485",
+      "https://loremflickr.com/800/800/gym?random=3606040486"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "orders": "7,600+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Type": "Speed rope",
+      "Bearings": "Ball bearings",
+      "Adjustable": "Length adjustable",
+      "Material": "Lightweight cable",
+      "Grips": "Comfortable handles"
+    },
+    "highlights": [
+      "Speed rope design",
+      "Ball bearing system",
+      "Adjustable length",
+      "Lightweight cable",
+      "Perfect for cardio"
+    ]
+  },
+  {
+    "id": "prod-145",
+    "name": "Hiking Backpack 30L",
+    "slug": "hiking-backpack-30l",
+    "price": 65,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "30L hiking backpack with hydration system compatibility. Multiple pockets and compression straps. Padded shoulder straps and back panel for comfort.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=12448234967",
+      "https://loremflickr.com/800/800/fitness?random=12448234968",
+      "https://loremflickr.com/800/800/exercise?random=12448234969",
+      "https://loremflickr.com/800/800/gym?random=12448234970"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "9,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Capacity": "30 liters",
+      "Hydration": "Compatible",
+      "Pockets": "Multiple compartments",
+      "Straps": "Padded adjustable",
+      "Weight": "2.2 lbs"
+    },
+    "highlights": [
+      "30L capacity",
+      "Hydration system compatible",
+      "Multiple organized pockets",
+      "Comfortable padded straps",
+      "Perfect for day hikes"
+    ]
+  },
+  {
+    "id": "prod-146",
+    "name": "Foam Roller Massage",
+    "slug": "foam-roller-massage",
+    "price": 22,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "High-density foam roller for muscle recovery and massage. Textured surface for deep tissue work. Perfect for post-workout recovery.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=9452561550",
+      "https://loremflickr.com/800/800/fitness?random=9452561551",
+      "https://loremflickr.com/800/800/exercise?random=9452561552",
+      "https://loremflickr.com/800/800/gym?random=9452561553"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.6,
+    "reviewCount": 4567,
+    "orders": "15,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "High-density EVA foam",
+      "Texture": "Textured surface",
+      "Length": "36 inches",
+      "Diameter": "6 inches",
+      "Weight": "Lightweight"
+    },
+    "highlights": [
+      "High-density foam",
+      "Textured surface",
+      "Deep tissue massage",
+      "Post-workout recovery",
+      "Durable construction"
+    ]
+  },
+  {
+    "id": "prod-147",
+    "name": "Water Bottle Insulated",
+    "slug": "water-bottle-insulated",
+    "price": 24,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Stainless steel insulated water bottle keeps drinks cold for 24 hours or hot for 12 hours. Leak-proof lid. Perfect for sports and outdoor activities.",
+    "images": [
+      "https://loremflickr.com/800/800/sports?random=6593775956",
+      "https://loremflickr.com/800/800/fitness?random=6593775957",
+      "https://loremflickr.com/800/800/exercise?random=6593775958",
+      "https://loremflickr.com/800/800/gym?random=6593775959"
+    ],
+    "category": "Sports & Outdoors",
+    "categorySlug": "sports",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "12,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Stainless steel",
+      "Capacity": "32 oz",
+      "Insulation": "Double-wall vacuum",
+      "Cold": "24 hours",
+      "Hot": "12 hours"
+    },
+    "highlights": [
+      "Stainless steel construction",
+      "24-hour cold retention",
+      "12-hour hot retention",
+      "Leak-proof lid",
+      "Perfect for active lifestyle"
+    ]
+  }
+]

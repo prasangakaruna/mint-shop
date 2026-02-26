@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate-products": "npx tsx scripts/generate-product-json.ts",
+    "update-images": "npx tsx scripts/update-json-images.ts",
+    "update-constants-images": "npx tsx scripts/update-constants-images.ts"
   },
   "dependencies": {
     "next": "16.1.6",

@@ -1,0 +1,610 @@
+[
+  {
+    "id": "prod-4",
+    "name": "Signature Club Hoodie",
+    "slug": "signature-club-hoodie",
+    "price": 85,
+    "originalPrice": 110,
+    "currency": "USD",
+    "description": "Premium heavyweight French terry hoodie with embroidered logo. Double-layered hood, kangaroo pocket, and ribbed cuffs for a relaxed yet refined fit.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=4462842362",
+      "https://loremflickr.com/800/800/clothing?random=4462842363",
+      "https://loremflickr.com/800/800/apparel?random=4462842364",
+      "https://loremflickr.com/800/800/outfit?random=4462842365"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.9,
+    "reviewCount": 2108,
+    "orders": "1,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "400gsm French Terry (80% Cotton, 20% Polyester)",
+      "Fit": "Relaxed / Oversized",
+      "Sizes": "XS – 3XL",
+      "Care": "Machine wash cold, tumble dry low",
+      "Features": "Double-layered hood, ribbed cuffs"
+    },
+    "highlights": [
+      "Premium 400gsm heavyweight French terry",
+      "Embroidered Mint Shop signature logo",
+      "Double-layered hood for structure",
+      "Kangaroo pocket with hidden phone slot",
+      "Pre-shrunk fabric — true to size"
+    ]
+  },
+  {
+    "id": "prod-8",
+    "name": "Essentials Mesh Performance Tee",
+    "slug": "essentials-mesh-performance-tee",
+    "price": 45,
+    "originalPrice": 62,
+    "currency": "USD",
+    "description": "Lightweight mesh performance tee with moisture-wicking DryFit technology. Four-way stretch fabric for unrestricted movement. Anti-odor treatment keeps you fresh.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=4304442219",
+      "https://loremflickr.com/800/800/clothing?random=4304442220",
+      "https://loremflickr.com/800/800/apparel?random=4304442221",
+      "https://loremflickr.com/800/800/outfit?random=4304442222"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.8,
+    "reviewCount": 1234,
+    "orders": "1,200+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "92% Polyester, 8% Elastane",
+      "Fit": "Regular / Athletic",
+      "Sizes": "XS – 3XL",
+      "Technology": "DryFit moisture-wicking",
+      "Care": "Machine wash cold"
+    },
+    "highlights": [
+      "DryFit moisture-wicking technology",
+      "Four-way stretch for freedom of movement",
+      "Anti-odor treatment",
+      "Flatlock seams prevent chafing",
+      "Lightweight mesh ventilation zones"
+    ]
+  },
+  {
+    "id": "prod-21",
+    "name": "Classic Leather Jacket",
+    "slug": "classic-leather-jacket",
+    "price": 89.99,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "Premium genuine leather jacket with quilted lining, multiple pockets, and adjustable cuffs. Classic biker style with modern fit. Available in black and brown. Perfect for all seasons.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=2412129375",
+      "https://loremflickr.com/800/800/clothing?random=2412129376",
+      "https://loremflickr.com/800/800/apparel?random=2412129377",
+      "https://loremflickr.com/800/800/outfit?random=2412129378"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.7,
+    "reviewCount": 2156,
+    "orders": "4,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "100% Genuine Leather",
+      "Lining": "Quilted Polyester",
+      "Sizes": "XS, S, M, L, XL, XXL",
+      "Colors": "Black, Brown",
+      "Care": "Leather conditioner recommended"
+    },
+    "highlights": [
+      "Genuine leather construction",
+      "Quilted warm lining",
+      "Multiple functional pockets",
+      "Classic timeless design",
+      "Durable and long-lasting"
+    ]
+  },
+  {
+    "id": "prod-34",
+    "name": "Casual Denim Jeans",
+    "slug": "casual-denim-jeans",
+    "price": 34.99,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Classic fit denim jeans with stretch comfort. Multiple washes available. Durable construction with reinforced seams. Perfect for everyday wear. Available in various sizes and styles.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=501459807",
+      "https://loremflickr.com/800/800/clothing?random=501459808",
+      "https://loremflickr.com/800/800/apparel?random=501459809",
+      "https://loremflickr.com/800/800/outfit?random=501459810"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "orders": "4,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "98% Cotton, 2% Elastane",
+      "Fit": "Classic",
+      "Sizes": "28-40 (Waist)",
+      "Inseam": "30\", 32\", 34\"",
+      "Washes": "Light, Medium, Dark"
+    },
+    "highlights": [
+      "Stretch comfort",
+      "Classic fit",
+      "Multiple wash options",
+      "Durable construction",
+      "Versatile styling"
+    ]
+  },
+  {
+    "id": "prod-36",
+    "name": "Cotton T-Shirt Pack",
+    "slug": "cotton-t-shirt-pack",
+    "price": 19.99,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Pack of 3 premium cotton t-shirts in assorted colors. Soft, breathable fabric with comfortable fit. Perfect for everyday wear. Available in multiple size ranges.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=8741271735",
+      "https://loremflickr.com/800/800/clothing?random=8741271736",
+      "https://loremflickr.com/800/800/apparel?random=8741271737",
+      "https://loremflickr.com/800/800/outfit?random=8741271738"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "6,200+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Pack": "3 t-shirts",
+      "Material": "100% Cotton",
+      "Sizes": "S, M, L, XL, XXL",
+      "Colors": "Assorted (Black, White, Gray)",
+      "Care": "Machine washable"
+    },
+    "highlights": [
+      "Premium cotton fabric",
+      "Pack of 3 shirts",
+      "Comfortable everyday fit",
+      "Assorted colors",
+      "Great value"
+    ]
+  },
+  {
+    "id": "prod-37",
+    "name": "Summer Floral Dress",
+    "slug": "summer-floral-dress",
+    "price": 39.99,
+    "originalPrice": 64.99,
+    "currency": "USD",
+    "description": "Beautiful floral print summer dress with flowy silhouette. Lightweight fabric perfect for warm weather. Available in multiple sizes and floral patterns.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=5970733576",
+      "https://loremflickr.com/800/800/clothing?random=5970733577",
+      "https://loremflickr.com/800/800/apparel?random=5970733578",
+      "https://loremflickr.com/800/800/outfit?random=5970733579"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "4,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Polyester blend",
+      "Length": "Knee-length",
+      "Sizes": "XS, S, M, L, XL",
+      "Pattern": "Floral print",
+      "Care": "Machine wash cold"
+    },
+    "highlights": [
+      "Beautiful floral design",
+      "Flowy comfortable fit",
+      "Lightweight fabric",
+      "Perfect for summer",
+      "Multiple size options"
+    ]
+  },
+  {
+    "id": "prod-98",
+    "name": "Classic Denim Jacket",
+    "slug": "classic-denim-jacket",
+    "price": 65,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Timeless denim jacket crafted from premium cotton denim. Classic fit with button closure, chest pockets, and adjustable cuffs. Perfect for layering in any season.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=84177767",
+      "https://loremflickr.com/800/800/clothing?random=84177768",
+      "https://loremflickr.com/800/800/apparel?random=84177769",
+      "https://loremflickr.com/800/800/outfit?random=84177770"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "orders": "2,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "100% Cotton Denim",
+      "Fit": "Classic / Regular",
+      "Sizes": "XS – 3XL",
+      "Care": "Machine wash cold",
+      "Features": "Button closure, chest pockets"
+    },
+    "highlights": [
+      "Premium cotton denim construction",
+      "Classic timeless design",
+      "Versatile layering piece",
+      "Durable and long-lasting",
+      "Multiple size options available"
+    ]
+  },
+  {
+    "id": "prod-99",
+    "name": "Silk Blouse Elegant",
+    "slug": "silk-blouse-elegant",
+    "price": 45,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Luxurious silk blouse with elegant drape and sophisticated style. Perfect for office or evening wear. Available in multiple colors with button-down front.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=7249300951",
+      "https://loremflickr.com/800/800/clothing?random=7249300952",
+      "https://loremflickr.com/800/800/apparel?random=7249300953",
+      "https://loremflickr.com/800/800/outfit?random=7249300954"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.8,
+    "reviewCount": 987,
+    "orders": "1,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "100% Silk",
+      "Fit": "Relaxed",
+      "Sizes": "XS – XL",
+      "Care": "Dry clean recommended",
+      "Features": "Button-down, long sleeves"
+    },
+    "highlights": [
+      "100% premium silk fabric",
+      "Elegant and sophisticated",
+      "Versatile for work or evening",
+      "Comfortable drape",
+      "Multiple color options"
+    ]
+  },
+  {
+    "id": "prod-100",
+    "name": "Athletic Leggings Pro",
+    "slug": "athletic-leggings-pro",
+    "price": 32,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "High-performance athletic leggings with moisture-wicking fabric and compression fit. Perfect for workouts, yoga, or casual wear. Wide waistband for comfort.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=5918492643",
+      "https://loremflickr.com/800/800/clothing?random=5918492644",
+      "https://loremflickr.com/800/800/apparel?random=5918492645",
+      "https://loremflickr.com/800/800/outfit?random=5918492646"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.6,
+    "reviewCount": 2156,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "88% Polyester, 12% Spandex",
+      "Fit": "Compression",
+      "Sizes": "XS – XXL",
+      "Care": "Machine wash cold",
+      "Features": "Moisture-wicking, wide waistband"
+    },
+    "highlights": [
+      "Moisture-wicking technology",
+      "Compression fit for support",
+      "Wide comfortable waistband",
+      "Four-way stretch fabric",
+      "Perfect for all activities"
+    ]
+  },
+  {
+    "id": "prod-101",
+    "name": "Wool Blend Coat",
+    "slug": "wool-blend-coat",
+    "price": 125,
+    "originalPrice": 179.99,
+    "currency": "USD",
+    "description": "Stylish wool blend coat perfect for fall and winter. Double-breasted design with notched lapel. Lined interior for warmth and comfort. Classic timeless style.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=4554050591",
+      "https://loremflickr.com/800/800/clothing?random=4554050592",
+      "https://loremflickr.com/800/800/apparel?random=4554050593",
+      "https://loremflickr.com/800/800/outfit?random=4554050594"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.9,
+    "reviewCount": 654,
+    "orders": "1,300+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Material": "70% Wool, 30% Polyester",
+      "Fit": "Regular",
+      "Sizes": "XS – 2XL",
+      "Care": "Dry clean only",
+      "Features": "Double-breasted, lined"
+    },
+    "highlights": [
+      "Premium wool blend fabric",
+      "Double-breasted classic design",
+      "Fully lined for warmth",
+      "Timeless elegant style",
+      "Perfect for cold weather"
+    ]
+  },
+  {
+    "id": "prod-102",
+    "name": "Cotton T-Shirt Pack",
+    "slug": "cotton-t-shirt-pack",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Pack of 3 premium cotton t-shirts in basic colors. Soft, breathable fabric with comfortable fit. Perfect for everyday wear. Pre-shrunk for lasting fit.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=8741271735",
+      "https://loremflickr.com/800/800/clothing?random=8741271736",
+      "https://loremflickr.com/800/800/apparel?random=8741271737",
+      "https://loremflickr.com/800/800/outfit?random=8741271738"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.5,
+    "reviewCount": 3421,
+    "orders": "8,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Material": "100% Cotton",
+      "Fit": "Regular",
+      "Sizes": "S – 3XL",
+      "Care": "Machine wash",
+      "Features": "Pack of 3, pre-shrunk"
+    },
+    "highlights": [
+      "Premium 100% cotton",
+      "Pack of 3 great value",
+      "Pre-shrunk fabric",
+      "Soft and breathable",
+      "Essential wardrobe staple"
+    ]
+  },
+  {
+    "id": "prod-103",
+    "name": "Maxi Dress Floral",
+    "slug": "maxi-dress-floral",
+    "price": 55,
+    "originalPrice": 79.99,
+    "currency": "USD",
+    "description": "Beautiful floral maxi dress with flowing silhouette. Perfect for summer occasions, parties, or casual outings. Comfortable fabric with elastic waist.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=2349940254",
+      "https://loremflickr.com/800/800/clothing?random=2349940255",
+      "https://loremflickr.com/800/800/apparel?random=2349940256",
+      "https://loremflickr.com/800/800/outfit?random=2349940257"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "3,400+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "Polyester, Rayon Blend",
+      "Fit": "A-line",
+      "Sizes": "XS – XL",
+      "Care": "Machine wash cold",
+      "Features": "Elastic waist, maxi length"
+    },
+    "highlights": [
+      "Beautiful floral print",
+      "Flowing comfortable fit",
+      "Perfect for summer",
+      "Versatile styling options",
+      "Machine washable"
+    ]
+  },
+  {
+    "id": "prod-104",
+    "name": "Leather Biker Jacket",
+    "slug": "leather-biker-jacket",
+    "price": 199,
+    "originalPrice": 299.99,
+    "currency": "USD",
+    "description": "Authentic leather biker jacket with asymmetrical zipper and snap collar. Multiple pockets and adjustable cuffs. Classic edgy style that never goes out of fashion.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=295778210",
+      "https://loremflickr.com/800/800/clothing?random=295778211",
+      "https://loremflickr.com/800/800/apparel?random=295778212",
+      "https://loremflickr.com/800/800/outfit?random=295778213"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.8,
+    "reviewCount": 432,
+    "orders": "890+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Genuine Leather",
+      "Fit": "Slim",
+      "Sizes": "S – 2XL",
+      "Care": "Leather care products",
+      "Features": "Asymmetrical zip, snap collar"
+    },
+    "highlights": [
+      "Genuine leather construction",
+      "Classic biker style",
+      "Asymmetrical zipper design",
+      "Multiple functional pockets",
+      "Timeless edgy look"
+    ]
+  },
+  {
+    "id": "prod-105",
+    "name": "Knit Sweater Cozy",
+    "slug": "knit-sweater-cozy",
+    "price": 42,
+    "originalPrice": 64.99,
+    "currency": "USD",
+    "description": "Cozy knit sweater perfect for fall and winter. Soft yarn with relaxed fit. Available in multiple colors. Perfect for layering or wearing alone.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=11980872674",
+      "https://loremflickr.com/800/800/clothing?random=11980872675",
+      "https://loremflickr.com/800/800/apparel?random=11980872676",
+      "https://loremflickr.com/800/800/outfit?random=11980872677"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.6,
+    "reviewCount": 1654,
+    "orders": "2,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Acrylic, Wool Blend",
+      "Fit": "Relaxed",
+      "Sizes": "XS – 2XL",
+      "Care": "Machine wash cold",
+      "Features": "Knit construction, crew neck"
+    },
+    "highlights": [
+      "Soft cozy fabric",
+      "Relaxed comfortable fit",
+      "Perfect for layering",
+      "Multiple color options",
+      "Machine washable"
+    ]
+  },
+  {
+    "id": "prod-106",
+    "name": "Formal Dress Shirt",
+    "slug": "formal-dress-shirt",
+    "price": 38,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Classic formal dress shirt with button-down collar and long sleeves. Wrinkle-resistant fabric perfect for office or formal occasions. Available in white and blue.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=2571945450",
+      "https://loremflickr.com/800/800/clothing?random=2571945451",
+      "https://loremflickr.com/800/800/apparel?random=2571945452",
+      "https://loremflickr.com/800/800/outfit?random=2571945453"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.7,
+    "reviewCount": 2341,
+    "orders": "5,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Material": "Cotton, Polyester Blend",
+      "Fit": "Regular",
+      "Sizes": "S – 3XL",
+      "Care": "Machine wash",
+      "Features": "Button-down collar, wrinkle-resistant"
+    },
+    "highlights": [
+      "Wrinkle-resistant fabric",
+      "Classic formal style",
+      "Button-down collar",
+      "Perfect for office wear",
+      "Multiple size options"
+    ]
+  },
+  {
+    "id": "prod-107",
+    "name": "Cargo Pants Utility",
+    "slug": "cargo-pants-utility",
+    "price": 48,
+    "originalPrice": 74.99,
+    "currency": "USD",
+    "description": "Durable cargo pants with multiple pockets for utility and style. Comfortable fit with adjustable waist. Perfect for work, outdoor activities, or casual wear.",
+    "images": [
+      "https://loremflickr.com/800/800/fashion?random=513650326",
+      "https://loremflickr.com/800/800/clothing?random=513650327",
+      "https://loremflickr.com/800/800/apparel?random=513650328",
+      "https://loremflickr.com/800/800/outfit?random=513650329"
+    ],
+    "category": "Apparel & Fashion",
+    "categorySlug": "apparel",
+    "rating": 4.5,
+    "reviewCount": 987,
+    "orders": "1,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "Cotton, Polyester",
+      "Fit": "Regular",
+      "Sizes": "28 – 40 waist",
+      "Care": "Machine wash",
+      "Features": "Multiple pockets, adjustable waist"
+    },
+    "highlights": [
+      "Durable construction",
+      "Multiple utility pockets",
+      "Comfortable fit",
+      "Adjustable waist",
+      "Versatile styling"
+    ]
+  }
+]

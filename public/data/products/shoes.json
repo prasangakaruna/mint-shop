@@ -1,0 +1,572 @@
+[
+  {
+    "id": "prod-5",
+    "name": "Running Sneakers V2",
+    "slug": "running-sneakers-v2",
+    "price": 120,
+    "originalPrice": 165,
+    "currency": "USD",
+    "description": "Engineered mesh upper with responsive foam midsole for superior cushioning. Rubber outsole with multi-directional traction. Perfect for daily training and long runs.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=4846621412",
+      "https://loremflickr.com/800/800/sneakers?random=4846621413",
+      "https://loremflickr.com/800/800/footwear?random=4846621414",
+      "https://loremflickr.com/800/800/boots?random=4846621415"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.8,
+    "reviewCount": 3412,
+    "orders": "4,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Upper": "Engineered mesh",
+      "Midsole": "Responsive foam (EVA + TPU)",
+      "Outsole": "Rubber with flex grooves",
+      "Heel Drop": "8mm",
+      "Weight": "280g (size 10)",
+      "Sizes": "6 – 14 (incl. half sizes)"
+    },
+    "highlights": [
+      "Breathable engineered mesh upper",
+      "Responsive foam cushioning technology",
+      "Multi-directional rubber traction",
+      "Reflective details for low-light visibility",
+      "Sock-like fit with padded collar"
+    ]
+  },
+  {
+    "id": "prod-11",
+    "name": "Polarized Sport Sunglasses",
+    "slug": "polarized-sport-sunglasses",
+    "price": 24.99,
+    "originalPrice": 42,
+    "currency": "USD",
+    "description": "Lightweight TR90 frame with polarized UV400 lenses. Anti-slip nose pads and temple tips for secure fit during sports. Includes hard case and microfiber cloth.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=1056351611",
+      "https://loremflickr.com/800/800/sneakers?random=1056351612",
+      "https://loremflickr.com/800/800/footwear?random=1056351613",
+      "https://loremflickr.com/800/800/boots?random=1056351614"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.5,
+    "reviewCount": 1456,
+    "orders": "3,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Frame": "TR90 (lightweight, flexible)",
+      "Lens": "Polarized TAC, UV400",
+      "Weight": "28g",
+      "Includes": "Hard case, microfiber cloth, strap"
+    },
+    "highlights": [
+      "Polarized UV400 protection",
+      "Ultra-lightweight TR90 frame",
+      "Anti-slip design for sports",
+      "Scratch-resistant lenses",
+      "Complete accessory kit included"
+    ]
+  },
+  {
+    "id": "prod-25",
+    "name": "Running Shoes Pro",
+    "slug": "running-shoes-pro",
+    "price": 59.99,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "Professional running shoes with advanced cushioning technology, breathable mesh upper, and durable rubber outsole. Designed for long-distance running with excellent arch support and shock absorption.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=3718865941",
+      "https://loremflickr.com/800/800/sneakers?random=3718865942",
+      "https://loremflickr.com/800/800/footwear?random=3718865943",
+      "https://loremflickr.com/800/800/boots?random=3718865944"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.6,
+    "reviewCount": 2890,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Sizes": "US 6-12 (Men & Women)",
+      "Weight": "9.5 oz per shoe",
+      "Cushioning": "Advanced EVA foam",
+      "Upper": "Breathable mesh",
+      "Outsole": "Durable rubber"
+    },
+    "highlights": [
+      "Advanced cushioning technology",
+      "Breathable mesh upper",
+      "Excellent arch support",
+      "Shock absorption system",
+      "Durable construction"
+    ]
+  },
+  {
+    "id": "prod-44",
+    "name": "Leather Ankle Boots",
+    "slug": "leather-ankle-boots",
+    "price": 64.99,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "Classic leather ankle boots with cushioned insole and durable rubber sole. Perfect for casual and semi-formal occasions. Available in black and brown. True to size fit.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=12983842882",
+      "https://loremflickr.com/800/800/sneakers?random=12983842883",
+      "https://loremflickr.com/800/800/footwear?random=12983842884",
+      "https://loremflickr.com/800/800/boots?random=12983842885"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "4,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Genuine leather upper",
+      "Sole": "Durable rubber",
+      "Sizes": "US 6-11 (Men & Women)",
+      "Colors": "Black, Brown",
+      "Insole": "Cushioned comfort"
+    },
+    "highlights": [
+      "Genuine leather construction",
+      "Cushioned comfortable insole",
+      "Durable rubber sole",
+      "Classic versatile style",
+      "True to size fit"
+    ]
+  },
+  {
+    "id": "prod-45",
+    "name": "Canvas Sneakers",
+    "slug": "canvas-sneakers",
+    "price": 29.99,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Classic canvas sneakers with rubber toe cap and vulcanized sole. Lightweight and comfortable for everyday wear. Available in multiple colors. Unisex design.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=4101149246",
+      "https://loremflickr.com/800/800/sneakers?random=4101149247",
+      "https://loremflickr.com/800/800/footwear?random=4101149248",
+      "https://loremflickr.com/800/800/boots?random=4101149249"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.5,
+    "reviewCount": 3124,
+    "orders": "8,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Upper": "Canvas",
+      "Toe Cap": "Rubber",
+      "Sole": "Vulcanized rubber",
+      "Sizes": "US 4-12 (Unisex)",
+      "Colors": "White, Black, Navy, Red"
+    },
+    "highlights": [
+      "Classic timeless design",
+      "Lightweight and comfortable",
+      "Durable construction",
+      "Multiple color options",
+      "Unisex style"
+    ]
+  },
+  {
+    "id": "prod-148",
+    "name": "Casual Sneakers White",
+    "slug": "casual-sneakers-white",
+    "price": 55,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Classic white casual sneakers with comfortable cushioning. Versatile design perfect for everyday wear. Durable rubber outsole with good traction.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=204641813",
+      "https://loremflickr.com/800/800/sneakers?random=204641814",
+      "https://loremflickr.com/800/800/footwear?random=204641815",
+      "https://loremflickr.com/800/800/boots?random=204641816"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Style": "Casual",
+      "Color": "White",
+      "Cushioning": "Comfortable",
+      "Outsole": "Rubber",
+      "Sizes": "6-13 (including half sizes)"
+    },
+    "highlights": [
+      "Classic white design",
+      "Comfortable cushioning",
+      "Versatile everyday style",
+      "Durable rubber outsole",
+      "Multiple size options"
+    ]
+  },
+  {
+    "id": "prod-149",
+    "name": "Ankle Boots Leather",
+    "slug": "ankle-boots-leather",
+    "price": 85,
+    "originalPrice": 129.99,
+    "currency": "USD",
+    "description": "Genuine leather ankle boots with side zipper. Comfortable cushioned insole. Classic design perfect for fall and winter. Available in black and brown.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=2450588738",
+      "https://loremflickr.com/800/800/sneakers?random=2450588739",
+      "https://loremflickr.com/800/800/footwear?random=2450588740",
+      "https://loremflickr.com/800/800/boots?random=2450588741"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Material": "Genuine leather",
+      "Style": "Ankle boot",
+      "Closure": "Side zipper",
+      "Insole": "Cushioned",
+      "Colors": "Black, Brown"
+    },
+    "highlights": [
+      "Genuine leather construction",
+      "Side zipper closure",
+      "Comfortable cushioned insole",
+      "Classic timeless design",
+      "Perfect for fall/winter"
+    ]
+  },
+  {
+    "id": "prod-150",
+    "name": "Sandals Comfort",
+    "slug": "sandals-comfort",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Comfortable sandals with adjustable straps and cushioned footbed. Perfect for summer and casual wear. Lightweight and breathable design.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=5901079230",
+      "https://loremflickr.com/800/800/sneakers?random=5901079231",
+      "https://loremflickr.com/800/800/footwear?random=5901079232",
+      "https://loremflickr.com/800/800/boots?random=5901079233"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.6,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Style": "Sandals",
+      "Straps": "Adjustable",
+      "Footbed": "Cushioned",
+      "Weight": "Lightweight",
+      "Sizes": "6-12 (including half sizes)"
+    },
+    "highlights": [
+      "Adjustable straps",
+      "Cushioned comfortable footbed",
+      "Lightweight design",
+      "Breathable",
+      "Perfect for summer"
+    ]
+  },
+  {
+    "id": "prod-151",
+    "name": "High-Top Sneakers",
+    "slug": "high-top-sneakers",
+    "price": 65,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "Classic high-top sneakers with lace-up closure. Padded collar for ankle support. Durable canvas upper with rubber outsole. Available in multiple colors.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=8455647728",
+      "https://loremflickr.com/800/800/sneakers?random=8455647729",
+      "https://loremflickr.com/800/800/footwear?random=8455647730",
+      "https://loremflickr.com/800/800/boots?random=8455647731"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Style": "High-top",
+      "Upper": "Canvas",
+      "Closure": "Lace-up",
+      "Collar": "Padded",
+      "Colors": "Multiple options"
+    },
+    "highlights": [
+      "Classic high-top design",
+      "Padded ankle support",
+      "Durable canvas upper",
+      "Rubber outsole",
+      "Multiple color options"
+    ]
+  },
+  {
+    "id": "prod-152",
+    "name": "Dress Shoes Oxford",
+    "slug": "dress-shoes-oxford",
+    "price": 95,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "Classic Oxford dress shoes in genuine leather. Perfect for formal occasions and business wear. Comfortable leather insole. Available in black and brown.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=6885003388",
+      "https://loremflickr.com/800/800/sneakers?random=6885003389",
+      "https://loremflickr.com/800/800/footwear?random=6885003390",
+      "https://loremflickr.com/800/800/boots?random=6885003391"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.8,
+    "reviewCount": 1234,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Material": "Genuine leather",
+      "Style": "Oxford",
+      "Occasion": "Formal",
+      "Insole": "Leather",
+      "Colors": "Black, Brown"
+    },
+    "highlights": [
+      "Genuine leather",
+      "Classic Oxford style",
+      "Perfect for formal wear",
+      "Comfortable leather insole",
+      "Timeless elegant design"
+    ]
+  },
+  {
+    "id": "prod-153",
+    "name": "Slip-On Loafers",
+    "slug": "slip-on-loafers",
+    "price": 48,
+    "originalPrice": 79.99,
+    "currency": "USD",
+    "description": "Comfortable slip-on loafers with elastic goring. Genuine leather upper. Perfect for casual and business casual wear. Easy on and off design.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=5847403352",
+      "https://loremflickr.com/800/800/sneakers?random=5847403353",
+      "https://loremflickr.com/800/800/footwear?random=5847403354",
+      "https://loremflickr.com/800/800/boots?random=5847403355"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Genuine leather",
+      "Style": "Loafers",
+      "Closure": "Slip-on",
+      "Elastic": "Goring sides",
+      "Occasion": "Casual/Business casual"
+    },
+    "highlights": [
+      "Genuine leather upper",
+      "Easy slip-on design",
+      "Elastic goring for fit",
+      "Versatile styling",
+      "Comfortable all-day wear"
+    ]
+  },
+  {
+    "id": "prod-154",
+    "name": "Athletic Slides",
+    "slug": "athletic-slides",
+    "price": 22,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Comfortable athletic slides perfect for post-workout or casual wear. Cushioned footbed with arch support. Easy slip-on design. Available in multiple colors.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=2497296534",
+      "https://loremflickr.com/800/800/sneakers?random=2497296535",
+      "https://loremflickr.com/800/800/footwear?random=2497296536",
+      "https://loremflickr.com/800/800/boots?random=2497296537"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.5,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Style": "Slides",
+      "Footbed": "Cushioned with arch support",
+      "Design": "Slip-on",
+      "Colors": "Multiple options",
+      "Use": "Athletic/Casual"
+    },
+    "highlights": [
+      "Cushioned footbed",
+      "Arch support",
+      "Easy slip-on",
+      "Perfect for post-workout",
+      "Multiple color options"
+    ]
+  },
+  {
+    "id": "prod-155",
+    "name": "Hiking Boots Waterproof",
+    "slug": "hiking-boots-waterproof",
+    "price": 120,
+    "originalPrice": 179.99,
+    "currency": "USD",
+    "description": "Waterproof hiking boots with breathable membrane. Durable leather and synthetic upper. Aggressive tread pattern for excellent traction. Perfect for trails.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=1243246921",
+      "https://loremflickr.com/800/800/sneakers?random=1243246922",
+      "https://loremflickr.com/800/800/footwear?random=1243246923",
+      "https://loremflickr.com/800/800/boots?random=1243246924"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Waterproof": "Yes",
+      "Upper": "Leather and synthetic",
+      "Tread": "Aggressive pattern",
+      "Ankle": "Mid-height support",
+      "Sizes": "7-13 (including half sizes)"
+    },
+    "highlights": [
+      "Waterproof construction",
+      "Breathable membrane",
+      "Aggressive traction",
+      "Durable materials",
+      "Perfect for hiking"
+    ]
+  },
+  {
+    "id": "prod-156",
+    "name": "Ballet Flats Classic",
+    "slug": "ballet-flats-classic",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Classic ballet flats with pointed toe. Genuine leather upper with comfortable insole. Perfect for office or casual wear. Available in multiple colors.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=3700777211",
+      "https://loremflickr.com/800/800/sneakers?random=3700777212",
+      "https://loremflickr.com/800/800/footwear?random=3700777213",
+      "https://loremflickr.com/800/800/boots?random=3700777214"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "Genuine leather",
+      "Style": "Ballet flats",
+      "Toe": "Pointed",
+      "Insole": "Comfortable",
+      "Colors": "Multiple options"
+    },
+    "highlights": [
+      "Genuine leather",
+      "Classic pointed toe",
+      "Comfortable insole",
+      "Versatile styling",
+      "Perfect for office"
+    ]
+  },
+  {
+    "id": "prod-157",
+    "name": "Shoe Insoles Cushion",
+    "slug": "shoe-insoles-cushion",
+    "price": 15.99,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Gel cushion insoles for extra comfort and support. Fits most shoe sizes. Reduces foot fatigue and provides arch support. Trimmable to fit.",
+    "images": [
+      "https://loremflickr.com/800/800/shoes?random=5428238928",
+      "https://loremflickr.com/800/800/sneakers?random=5428238929",
+      "https://loremflickr.com/800/800/footwear?random=5428238930",
+      "https://loremflickr.com/800/800/boots?random=5428238931"
+    ],
+    "category": "Shoes & Accessories",
+    "categorySlug": "shoes",
+    "rating": 4.6,
+    "reviewCount": 4567,
+    "orders": "16,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Material": "Gel cushion",
+      "Support": "Arch support",
+      "Fit": "Trimmable",
+      "Sizes": "Universal fit",
+      "Pack": "1 pair"
+    },
+    "highlights": [
+      "Gel cushion technology",
+      "Arch support",
+      "Reduces foot fatigue",
+      "Trimmable to fit",
+      "Universal size"
+    ]
+  }
+]

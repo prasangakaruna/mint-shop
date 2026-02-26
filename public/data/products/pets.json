@@ -1,0 +1,496 @@
+[
+  {
+    "id": "prod-32",
+    "name": "Premium Dog Food",
+    "slug": "premium-dog-food",
+    "price": 39.99,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "High-quality dry dog food with real meat as first ingredient. Grain-free formula with added vitamins and minerals. Suitable for all life stages. 30lb bag provides months of nutrition.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=6743107970",
+      "https://loremflickr.com/800/800/dog?random=6743107971",
+      "https://loremflickr.com/800/800/cat?random=6743107972",
+      "https://loremflickr.com/800/800/animal?random=6743107973"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.8,
+    "reviewCount": 4123,
+    "orders": "10,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Weight": "30 lbs",
+      "First Ingredient": "Real Chicken",
+      "Protein": "26% minimum",
+      "Life Stage": "All life stages",
+      "Grain-Free": "Yes"
+    },
+    "highlights": [
+      "Real meat as first ingredient",
+      "Grain-free formula",
+      "Added vitamins and minerals",
+      "Suitable for all dogs",
+      "Premium quality nutrition"
+    ]
+  },
+  {
+    "id": "prod-56",
+    "name": "Cat Food Premium",
+    "slug": "cat-food-premium",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "High-quality dry cat food with real salmon as first ingredient. Grain-free formula with added taurine and omega-3. Suitable for all life stages. 15lb bag.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=980422152",
+      "https://loremflickr.com/800/800/dog?random=980422153",
+      "https://loremflickr.com/800/800/cat?random=980422154",
+      "https://loremflickr.com/800/800/animal?random=980422155"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.8,
+    "reviewCount": 4123,
+    "orders": "10,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Weight": "15 lbs",
+      "First Ingredient": "Real Salmon",
+      "Protein": "32% minimum",
+      "Life Stage": "All life stages",
+      "Grain-Free": "Yes"
+    },
+    "highlights": [
+      "Real salmon as first ingredient",
+      "Grain-free formula",
+      "Added taurine and omega-3",
+      "Suitable for all cats",
+      "Premium nutrition"
+    ]
+  },
+  {
+    "id": "prod-57",
+    "name": "Dog Leash Retractable",
+    "slug": "dog-leash-retractable",
+    "price": 16.99,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Durable retractable dog leash with 16ft extension, one-button brake, and comfortable grip handle. Suitable for small to large dogs. Strong nylon cord and ergonomic design.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=6107219009",
+      "https://loremflickr.com/800/800/dog?random=6107219010",
+      "https://loremflickr.com/800/800/cat?random=6107219011",
+      "https://loremflickr.com/800/800/animal?random=6107219012"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.6,
+    "reviewCount": 3456,
+    "orders": "9,300+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Length": "16ft extended",
+      "Weight Capacity": "Up to 110 lbs",
+      "Material": "Nylon cord",
+      "Handle": "Ergonomic grip",
+      "Brake": "One-button control"
+    },
+    "highlights": [
+      "16ft retractable length",
+      "One-button brake control",
+      "Comfortable grip handle",
+      "Strong durable construction",
+      "Suitable for all dog sizes"
+    ]
+  },
+  {
+    "id": "prod-208",
+    "name": "Dog Leash Retractable",
+    "slug": "dog-leash-retractable",
+    "price": 22,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Retractable dog leash with 16-foot extension. One-button brake and lock. Comfortable handle. Perfect for walks and training. Suitable for small to large dogs.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=6107219009",
+      "https://loremflickr.com/800/800/dog?random=6107219010",
+      "https://loremflickr.com/800/800/cat?random=6107219011",
+      "https://loremflickr.com/800/800/animal?random=6107219012"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Length": "16 feet extended",
+      "Brake": "One-button",
+      "Lock": "Yes",
+      "Handle": "Comfortable",
+      "Dogs": "Small to large"
+    },
+    "highlights": [
+      "16-foot extension",
+      "One-button brake",
+      "Lock feature",
+      "Comfortable handle",
+      "Perfect for walks"
+    ]
+  },
+  {
+    "id": "prod-209",
+    "name": "Cat Scratching Post",
+    "slug": "cat-scratching-post",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Cat scratching post with sisal rope and platform. Perfect for keeping cats from scratching furniture. Includes hanging toy. Stable base design.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=508980373",
+      "https://loremflickr.com/800/800/dog?random=508980374",
+      "https://loremflickr.com/800/800/cat?random=508980375",
+      "https://loremflickr.com/800/800/animal?random=508980376"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Sisal rope",
+      "Platform": "Included",
+      "Toy": "Hanging toy",
+      "Base": "Stable design",
+      "Height": "Standard"
+    },
+    "highlights": [
+      "Sisal rope surface",
+      "Platform included",
+      "Hanging toy",
+      "Stable base",
+      "Protects furniture"
+    ]
+  },
+  {
+    "id": "prod-210",
+    "name": "Dog Bed Orthopedic",
+    "slug": "dog-bed-orthopedic",
+    "price": 55,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Orthopedic dog bed with memory foam support. Perfect for older dogs or dogs with joint issues. Removable washable cover. Available in multiple sizes.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=3324459623",
+      "https://loremflickr.com/800/800/dog?random=3324459624",
+      "https://loremflickr.com/800/800/cat?random=3324459625",
+      "https://loremflickr.com/800/800/animal?random=3324459626"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.9,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Support": "Memory foam",
+      "Cover": "Removable washable",
+      "Use": "Orthopedic support",
+      "Sizes": "Multiple available",
+      "Dogs": "All sizes"
+    },
+    "highlights": [
+      "Memory foam support",
+      "Orthopedic design",
+      "Removable cover",
+      "Perfect for older dogs",
+      "Multiple sizes"
+    ]
+  },
+  {
+    "id": "prod-211",
+    "name": "Pet Food Bowl Set",
+    "slug": "pet-food-bowl-set",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Set of 2 stainless steel pet food bowls. Non-slip base. Easy to clean. Perfect for dogs and cats. Durable and hygienic construction.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=1558231551",
+      "https://loremflickr.com/800/800/dog?random=1558231552",
+      "https://loremflickr.com/800/800/cat?random=1558231553",
+      "https://loremflickr.com/800/800/animal?random=1558231554"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Set": "2 bowls",
+      "Material": "Stainless steel",
+      "Base": "Non-slip",
+      "Care": "Easy to clean",
+      "Pets": "Dogs and cats"
+    },
+    "highlights": [
+      "Set of 2 bowls",
+      "Stainless steel",
+      "Non-slip base",
+      "Easy to clean",
+      "Hygienic construction"
+    ]
+  },
+  {
+    "id": "prod-212",
+    "name": "Dog Toy Rope",
+    "slug": "dog-toy-rope",
+    "price": 12,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Durable rope dog toy perfect for tug-of-war and fetch. Promotes dental health. Machine washable. Suitable for all dog sizes. Multiple designs available.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=8034471061",
+      "https://loremflickr.com/800/800/dog?random=8034471062",
+      "https://loremflickr.com/800/800/cat?random=8034471063",
+      "https://loremflickr.com/800/800/animal?random=8034471064"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.7,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Durable rope",
+      "Use": "Tug-of-war, fetch",
+      "Dental": "Promotes health",
+      "Care": "Machine washable",
+      "Dogs": "All sizes"
+    },
+    "highlights": [
+      "Durable rope construction",
+      "Perfect for tug-of-war",
+      "Promotes dental health",
+      "Machine washable",
+      "Multiple designs"
+    ]
+  },
+  {
+    "id": "prod-213",
+    "name": "Cat Litter Box",
+    "slug": "cat-litter-box",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Large cat litter box with high sides to prevent spills. Easy to clean. Perfect for all cat sizes. Durable plastic construction. Includes scoop.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=3449485896",
+      "https://loremflickr.com/800/800/dog?random=3449485897",
+      "https://loremflickr.com/800/800/cat?random=3449485898",
+      "https://loremflickr.com/800/800/animal?random=3449485899"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Size": "Large",
+      "Sides": "High sides",
+      "Care": "Easy to clean",
+      "Scoop": "Included",
+      "Material": "Durable plastic"
+    },
+    "highlights": [
+      "Large size",
+      "High sides prevent spills",
+      "Easy to clean",
+      "Scoop included",
+      "Perfect for all cats"
+    ]
+  },
+  {
+    "id": "prod-214",
+    "name": "Pet Grooming Brush",
+    "slug": "pet-grooming-brush",
+    "price": 15,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Dual-sided pet grooming brush with bristle and pin sides. Removes loose hair and prevents matting. Comfortable handle. Perfect for dogs and cats.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=1406195636",
+      "https://loremflickr.com/800/800/dog?random=1406195637",
+      "https://loremflickr.com/800/800/cat?random=1406195638",
+      "https://loremflickr.com/800/800/animal?random=1406195639"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Sides": "Dual-sided",
+      "Types": "Bristle and pin",
+      "Use": "Removes hair, prevents matting",
+      "Handle": "Comfortable",
+      "Pets": "Dogs and cats"
+    },
+    "highlights": [
+      "Dual-sided design",
+      "Removes loose hair",
+      "Prevents matting",
+      "Comfortable handle",
+      "Perfect for grooming"
+    ]
+  },
+  {
+    "id": "prod-215",
+    "name": "Dog Training Treats",
+    "slug": "dog-training-treats",
+    "price": 12.99,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Soft training treats for dogs. Small size perfect for training. Made with natural ingredients. High value for positive reinforcement. 8 oz bag.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=9156471106",
+      "https://loremflickr.com/800/800/dog?random=9156471107",
+      "https://loremflickr.com/800/800/cat?random=9156471108",
+      "https://loremflickr.com/800/800/animal?random=9156471109"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Type": "Soft treats",
+      "Size": "Small",
+      "Ingredients": "Natural",
+      "Use": "Training",
+      "Weight": "8 oz"
+    },
+    "highlights": [
+      "Soft texture",
+      "Small training size",
+      "Natural ingredients",
+      "High value reward",
+      "Perfect for training"
+    ]
+  },
+  {
+    "id": "prod-216",
+    "name": "Pet Carrier Backpack",
+    "slug": "pet-carrier-backpack",
+    "price": 45,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Pet carrier backpack for small dogs and cats. Ventilated design with mesh windows. Comfortable padded straps. Perfect for travel and outdoor adventures.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=1877022052",
+      "https://loremflickr.com/800/800/dog?random=1877022053",
+      "https://loremflickr.com/800/800/cat?random=1877022054",
+      "https://loremflickr.com/800/800/animal?random=1877022055"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.6,
+    "reviewCount": 1234,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Type": "Backpack",
+      "Pets": "Small dogs and cats",
+      "Ventilation": "Mesh windows",
+      "Straps": "Padded",
+      "Use": "Travel, outdoor"
+    },
+    "highlights": [
+      "Backpack design",
+      "Ventilated mesh windows",
+      "Padded comfortable straps",
+      "Perfect for travel",
+      "Outdoor adventures"
+    ]
+  },
+  {
+    "id": "prod-217",
+    "name": "Automatic Pet Feeder",
+    "slug": "automatic-pet-feeder",
+    "price": 65,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "Automatic pet feeder with programmable timer. Dispenses food at set times. Perfect for busy pet owners. Battery and AC powered. Large capacity.",
+    "images": [
+      "https://loremflickr.com/800/800/pet?random=3507336940",
+      "https://loremflickr.com/800/800/dog?random=3507336941",
+      "https://loremflickr.com/800/800/cat?random=3507336942",
+      "https://loremflickr.com/800/800/animal?random=3507336943"
+    ],
+    "category": "Pet Supplies",
+    "categorySlug": "pets",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Timer": "Programmable",
+      "Power": "Battery and AC",
+      "Capacity": "Large",
+      "Use": "Automated feeding",
+      "Pets": "Dogs and cats"
+    },
+    "highlights": [
+      "Programmable timer",
+      "Automated feeding",
+      "Battery and AC power",
+      "Large capacity",
+      "Perfect for busy owners"
+    ]
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "id": "prod-28",
+    "name": "Sterling Silver Necklace",
+    "slug": "sterling-silver-necklace",
+    "price": 34.99,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Beautiful sterling silver necklace with pendant. Hypoallergenic and tarnish-resistant. Comes in elegant gift box. Perfect for everyday wear or special occasions. Available in multiple chain lengths.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=1774321968",
+      "https://loremflickr.com/800/800/necklace?random=1774321969",
+      "https://loremflickr.com/800/800/ring?random=1774321970",
+      "https://loremflickr.com/800/800/bracelet?random=1774321971"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.7,
+    "reviewCount": 2134,
+    "orders": "5,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "925 Sterling Silver",
+      "Chain Length": "18\", 20\", 22\"",
+      "Pendant Size": "1\" x 0.75\"",
+      "Finish": "Polished",
+      "Packaging": "Gift box included"
+    },
+    "highlights": [
+      "925 sterling silver",
+      "Hypoallergenic",
+      "Tarnish-resistant coating",
+      "Multiple chain lengths",
+      "Elegant gift packaging"
+    ]
+  },
+  {
+    "id": "prod-48",
+    "name": "Gold Plated Ring Set",
+    "slug": "gold-plated-ring-set",
+    "price": 24.99,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Set of 3 elegant gold-plated rings with various designs. Hypoallergenic, tarnish-resistant, and adjustable sizing. Perfect for stacking or wearing individually. Beautiful gift box included.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=2788393254",
+      "https://loremflickr.com/800/800/necklace?random=2788393255",
+      "https://loremflickr.com/800/800/ring?random=2788393256",
+      "https://loremflickr.com/800/800/bracelet?random=2788393257"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "4,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Set": "3 rings",
+      "Material": "Gold-plated brass",
+      "Sizing": "Adjustable",
+      "Finish": "Polished gold",
+      "Packaging": "Gift box"
+    },
+    "highlights": [
+      "Set of 3 elegant rings",
+      "Gold-plated finish",
+      "Adjustable sizing",
+      "Hypoallergenic",
+      "Perfect for stacking"
+    ]
+  },
+  {
+    "id": "prod-49",
+    "name": "Smartwatch Fitness Tracker",
+    "slug": "smartwatch-fitness-tracker",
+    "price": 69.99,
+    "originalPrice": 119.99,
+    "currency": "USD",
+    "description": "Feature-rich smartwatch with fitness tracking, heart rate monitor, sleep tracking, and smartphone notifications. Water-resistant, 7-day battery life, and multiple watch faces.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=13469091057",
+      "https://loremflickr.com/800/800/necklace?random=13469091058",
+      "https://loremflickr.com/800/800/ring?random=13469091059",
+      "https://loremflickr.com/800/800/bracelet?random=13469091060"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.8,
+    "reviewCount": 5234,
+    "orders": "13,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot",
+      "Best Seller"
+    ],
+    "specifications": {
+      "Display": "1.4\" color touchscreen",
+      "Battery": "7 days",
+      "Water Resistance": "5ATM",
+      "Sensors": "Heart rate, steps, sleep",
+      "Compatibility": "iOS & Android"
+    },
+    "highlights": [
+      "Comprehensive fitness tracking",
+      "Heart rate monitoring",
+      "Sleep analysis",
+      "7-day battery life",
+      "Water-resistant design"
+    ]
+  },
+  {
+    "id": "prod-168",
+    "name": "Silver Necklace Pendant",
+    "slug": "silver-necklace-pendant",
+    "price": 45,
+    "originalPrice": 79.99,
+    "currency": "USD",
+    "description": "Sterling silver necklace with elegant pendant. Adjustable chain length. Hypoallergenic and tarnish-resistant. Perfect for everyday wear or special occasions.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=2127842814",
+      "https://loremflickr.com/800/800/necklace?random=2127842815",
+      "https://loremflickr.com/800/800/ring?random=2127842816",
+      "https://loremflickr.com/800/800/bracelet?random=2127842817"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Sterling silver",
+      "Chain": "Adjustable length",
+      "Pendant": "Elegant design",
+      "Hypoallergenic": "Yes",
+      "Tarnish Resistant": "Yes"
+    },
+    "highlights": [
+      "Sterling silver",
+      "Adjustable chain",
+      "Elegant pendant",
+      "Hypoallergenic",
+      "Tarnish-resistant"
+    ]
+  },
+  {
+    "id": "prod-169",
+    "name": "Gold Plated Earrings",
+    "slug": "gold-plated-earrings",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Gold-plated stud earrings with cubic zirconia stones. Hypoallergenic posts. Classic design perfect for everyday wear. Available in multiple styles.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=2353727934",
+      "https://loremflickr.com/800/800/necklace?random=2353727935",
+      "https://loremflickr.com/800/800/ring?random=2353727936",
+      "https://loremflickr.com/800/800/bracelet?random=2353727937"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Gold-plated",
+      "Stones": "Cubic zirconia",
+      "Posts": "Hypoallergenic",
+      "Style": "Stud",
+      "Design": "Classic"
+    },
+    "highlights": [
+      "Gold-plated finish",
+      "Cubic zirconia stones",
+      "Hypoallergenic posts",
+      "Classic design",
+      "Perfect for everyday"
+    ]
+  },
+  {
+    "id": "prod-170",
+    "name": "Smartwatch Fitness",
+    "slug": "smartwatch-fitness",
+    "price": 89,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "Fitness smartwatch with heart rate monitor, GPS, and 50+ sport modes. 7-day battery life. Water-resistant. Connects to smartphone for notifications.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=9331989340",
+      "https://loremflickr.com/800/800/necklace?random=9331989341",
+      "https://loremflickr.com/800/800/ring?random=9331989342",
+      "https://loremflickr.com/800/800/bracelet?random=9331989343"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Display": "Color touchscreen",
+      "Battery": "7-day life",
+      "GPS": "Built-in",
+      "Water Resistant": "5 ATM",
+      "Sports Modes": "50+"
+    },
+    "highlights": [
+      "Heart rate monitoring",
+      "Built-in GPS",
+      "50+ sport modes",
+      "7-day battery",
+      "Smartphone connectivity"
+    ]
+  },
+  {
+    "id": "prod-171",
+    "name": "Diamond Ring Solitaire",
+    "slug": "diamond-ring-solitaire",
+    "price": 299,
+    "originalPrice": 499.99,
+    "currency": "USD",
+    "description": "Classic solitaire diamond ring in sterling silver setting. Cubic zirconia center stone. Available in multiple sizes. Perfect for engagement or special occasions.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=4153139403",
+      "https://loremflickr.com/800/800/necklace?random=4153139404",
+      "https://loremflickr.com/800/800/ring?random=4153139405",
+      "https://loremflickr.com/800/800/bracelet?random=4153139406"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.9,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Sterling silver",
+      "Stone": "Cubic zirconia",
+      "Style": "Solitaire",
+      "Sizes": "4-10",
+      "Setting": "Prong setting"
+    },
+    "highlights": [
+      "Classic solitaire design",
+      "Cubic zirconia stone",
+      "Sterling silver setting",
+      "Multiple sizes",
+      "Perfect for special occasions"
+    ]
+  },
+  {
+    "id": "prod-172",
+    "name": "Bracelet Charm",
+    "slug": "bracelet-charm",
+    "price": 32,
+    "originalPrice": 54.99,
+    "currency": "USD",
+    "description": "Adjustable charm bracelet with multiple charms. Sterling silver with hypoallergenic properties. Perfect for layering or wearing alone. Gift box included.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=3769633995",
+      "https://loremflickr.com/800/800/necklace?random=3769633996",
+      "https://loremflickr.com/800/800/ring?random=3769633997",
+      "https://loremflickr.com/800/800/bracelet?random=3769633998"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Material": "Sterling silver",
+      "Chains": "Adjustable",
+      "Charms": "Multiple included",
+      "Hypoallergenic": "Yes",
+      "Gift Box": "Included"
+    },
+    "highlights": [
+      "Adjustable fit",
+      "Multiple charms",
+      "Sterling silver",
+      "Hypoallergenic",
+      "Gift box included"
+    ]
+  },
+  {
+    "id": "prod-173",
+    "name": "Analog Watch Classic",
+    "slug": "analog-watch-classic",
+    "price": 65,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "Classic analog watch with leather strap. Quartz movement for accurate timekeeping. Water-resistant. Timeless design perfect for everyday wear.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=3356350566",
+      "https://loremflickr.com/800/800/necklace?random=3356350567",
+      "https://loremflickr.com/800/800/ring?random=3356350568",
+      "https://loremflickr.com/800/800/bracelet?random=3356350569"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Movement": "Quartz",
+      "Strap": "Leather",
+      "Water Resistant": "3 ATM",
+      "Display": "Analog",
+      "Style": "Classic"
+    },
+    "highlights": [
+      "Quartz movement",
+      "Leather strap",
+      "Water-resistant",
+      "Classic timeless design",
+      "Perfect for everyday"
+    ]
+  },
+  {
+    "id": "prod-174",
+    "name": "Anklet Chain",
+    "slug": "anklet-chain",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Delicate chain anklet with adjustable length. Sterling silver with small charm. Perfect for summer and beach wear. Hypoallergenic and tarnish-resistant.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=4581724268",
+      "https://loremflickr.com/800/800/necklace?random=4581724269",
+      "https://loremflickr.com/800/800/ring?random=4581724270",
+      "https://loremflickr.com/800/800/bracelet?random=4581724271"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.5,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "Sterling silver",
+      "Length": "Adjustable",
+      "Charm": "Small charm included",
+      "Hypoallergenic": "Yes",
+      "Tarnish Resistant": "Yes"
+    },
+    "highlights": [
+      "Delicate chain design",
+      "Adjustable length",
+      "Small charm",
+      "Hypoallergenic",
+      "Perfect for summer"
+    ]
+  },
+  {
+    "id": "prod-175",
+    "name": "Cufflinks Set",
+    "slug": "cufflinks-set",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Set of 2 classic cufflinks in silver-tone finish. Perfect for formal occasions and business wear. Easy to use toggle closure. Gift box included.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=2371329767",
+      "https://loremflickr.com/800/800/necklace?random=2371329768",
+      "https://loremflickr.com/800/800/ring?random=2371329769",
+      "https://loremflickr.com/800/800/bracelet?random=2371329770"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Set": "2 cufflinks",
+      "Finish": "Silver-tone",
+      "Closure": "Toggle",
+      "Occasion": "Formal",
+      "Gift Box": "Included"
+    },
+    "highlights": [
+      "Set of 2",
+      "Silver-tone finish",
+      "Easy toggle closure",
+      "Perfect for formal wear",
+      "Gift box included"
+    ]
+  },
+  {
+    "id": "prod-176",
+    "name": "Brooch Vintage",
+    "slug": "brooch-vintage",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Vintage-style brooch with crystal accents. Pin closure. Perfect for adding elegance to jackets, blazers, or scarves. Available in multiple designs.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=2622971439",
+      "https://loremflickr.com/800/800/necklace?random=2622971440",
+      "https://loremflickr.com/800/800/ring?random=2622971441",
+      "https://loremflickr.com/800/800/bracelet?random=2622971442"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "3,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Style": "Vintage",
+      "Accents": "Crystal",
+      "Closure": "Pin",
+      "Designs": "Multiple options",
+      "Use": "Jackets, blazers, scarves"
+    },
+    "highlights": [
+      "Vintage style",
+      "Crystal accents",
+      "Pin closure",
+      "Elegant design",
+      "Versatile styling"
+    ]
+  },
+  {
+    "id": "prod-177",
+    "name": "Ring Set Stackable",
+    "slug": "ring-set-stackable",
+    "price": 38,
+    "originalPrice": 64.99,
+    "currency": "USD",
+    "description": "Set of 3 stackable rings in different widths. Sterling silver with various textures. Perfect for mixing and matching. Available in multiple sizes.",
+    "images": [
+      "https://loremflickr.com/800/800/jewelry?random=3093521469",
+      "https://loremflickr.com/800/800/necklace?random=3093521470",
+      "https://loremflickr.com/800/800/ring?random=3093521471",
+      "https://loremflickr.com/800/800/bracelet?random=3093521472"
+    ],
+    "category": "Jewelry & Watches",
+    "categorySlug": "jewelry",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Set": "3 rings",
+      "Material": "Sterling silver",
+      "Design": "Stackable",
+      "Textures": "Various",
+      "Sizes": "Multiple options"
+    },
+    "highlights": [
+      "Set of 3 rings",
+      "Stackable design",
+      "Various textures",
+      "Sterling silver",
+      "Mix and match style"
+    ]
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "prod-16",
+    "name": "Organic Fresh Produce Box",
+    "slug": "organic-fresh-produce-box",
+    "price": 19.99,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Weekly organic produce box featuring seasonal fruits and vegetables sourced from local farms. Includes a variety of fresh, pesticide-free produce perfect for healthy meals. Subscription available for weekly delivery.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=7909867513",
+      "https://loremflickr.com/800/800/groceries?random=7909867514",
+      "https://loremflickr.com/800/800/supermarket?random=7909867515",
+      "https://loremflickr.com/800/800/fresh-food?random=7909867516"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.6,
+    "reviewCount": 1456,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Weight": "8-10 lbs",
+      "Contents": "Seasonal fruits & vegetables",
+      "Certification": "USDA Organic",
+      "Origin": "Local farms",
+      "Delivery": "Weekly subscription available"
+    },
+    "highlights": [
+      "100% USDA Organic certified",
+      "Fresh seasonal produce",
+      "Sourced from local farms",
+      "Supports sustainable agriculture",
+      "Weekly subscription option"
+    ]
+  },
+  {
+    "id": "prod-17",
+    "name": "Premium Snack Variety Pack",
+    "slug": "premium-snack-variety-pack",
+    "price": 16.99,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Curated selection of premium snacks including organic chips, gourmet popcorn, artisanal crackers, and healthy protein bars. Perfect for office snacks, parties, or on-the-go nutrition. 24 individual servings.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=561472791",
+      "https://loremflickr.com/800/800/groceries?random=561472792",
+      "https://loremflickr.com/800/800/supermarket?random=561472793",
+      "https://loremflickr.com/800/800/fresh-food?random=561472794"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.5,
+    "reviewCount": 923,
+    "orders": "2,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Total Servings": "24 individual packs",
+      "Variety": "Chips, Popcorn, Crackers, Protein Bars",
+      "Certification": "Organic options included",
+      "Shelf Life": "6-12 months"
+    },
+    "highlights": [
+      "24 premium snack varieties",
+      "Mix of sweet and savory options",
+      "Organic and natural options",
+      "Perfect for sharing",
+      "Great value variety pack"
+    ]
+  },
+  {
+    "id": "prod-18",
+    "name": "Artisan Bread & Pastry Collection",
+    "slug": "artisan-bread-pastry-collection",
+    "price": 22.99,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Fresh-baked artisan bread collection featuring sourdough, whole grain, and specialty loaves. Includes assorted pastries and croissants. Baked daily using traditional methods and premium ingredients. Freeze for later use.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=512014253",
+      "https://loremflickr.com/800/800/groceries?random=512014254",
+      "https://loremflickr.com/800/800/supermarket?random=512014255",
+      "https://loremflickr.com/800/800/fresh-food?random=512014256"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 1123,
+    "orders": "3,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Contents": "3 loaves + 6 pastries",
+      "Bread Types": "Sourdough, Whole Grain, Specialty",
+      "Baking": "Fresh-baked daily",
+      "Storage": "Freezer-friendly",
+      "Ingredients": "Premium, all-natural"
+    },
+    "highlights": [
+      "Fresh-baked daily",
+      "Traditional artisan methods",
+      "Premium quality ingredients",
+      "Variety of breads and pastries",
+      "Freezer-friendly for convenience"
+    ]
+  },
+  {
+    "id": "prod-20",
+    "name": "Organic Beverage Variety Pack",
+    "slug": "organic-beverage-variety-pack",
+    "price": 18.99,
+    "originalPrice": 27.99,
+    "currency": "USD",
+    "description": "Curated selection of organic beverages including cold-pressed juices, kombucha, sparkling water, and herbal teas. All natural, no artificial ingredients. Perfect for health-conscious consumers. 12 bottles total.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=10448201260",
+      "https://loremflickr.com/800/800/groceries?random=10448201261",
+      "https://loremflickr.com/800/800/supermarket?random=10448201262",
+      "https://loremflickr.com/800/800/fresh-food?random=10448201263"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.4,
+    "reviewCount": 756,
+    "orders": "1,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Total Bottles": "12 (assorted flavors)",
+      "Types": "Juices, Kombucha, Sparkling Water, Tea",
+      "Certification": "USDA Organic",
+      "Size": "16oz per bottle",
+      "Storage": "Refrigerate after opening"
+    },
+    "highlights": [
+      "100% organic beverages",
+      "No artificial ingredients",
+      "Variety of healthy options",
+      "Cold-pressed juices included",
+      "Perfect for healthy lifestyle"
+    ]
+  },
+  {
+    "id": "prod-58",
+    "name": "Fresh Organic Vegetables Box",
+    "slug": "fresh-organic-vegetables-box",
+    "price": 32.99,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Weekly fresh organic vegetables box with seasonal produce. Includes 8-10 varieties of locally sourced vegetables. Certified organic, delivered fresh. Perfect for healthy meal planning.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=743152423",
+      "https://loremflickr.com/800/800/groceries?random=743152424",
+      "https://loremflickr.com/800/800/supermarket?random=743152425",
+      "https://loremflickr.com/800/800/fresh-food?random=743152426"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "4,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic",
+      "Fresh"
+    ],
+    "specifications": {
+      "Contents": "8-10 vegetable varieties",
+      "Weight": "Approx. 5-7 lbs",
+      "Certification": "USDA Organic",
+      "Source": "Local farms",
+      "Delivery": "Weekly fresh delivery"
+    },
+    "highlights": [
+      "Certified organic produce",
+      "Seasonal fresh vegetables",
+      "Locally sourced",
+      "8-10 varieties per box",
+      "Perfect for meal planning"
+    ]
+  },
+  {
+    "id": "prod-59",
+    "name": "Artisan Bread Selection",
+    "slug": "artisan-bread-selection",
+    "price": 12.99,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Selection of 3 artisan bread loaves including sourdough, whole grain, and French baguette. Freshly baked, preservative-free, and perfect for any meal. Delivered fresh.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=405451122",
+      "https://loremflickr.com/800/800/groceries?random=405451123",
+      "https://loremflickr.com/800/800/supermarket?random=405451124",
+      "https://loremflickr.com/800/800/fresh-food?random=405451125"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.6,
+    "reviewCount": 1234,
+    "orders": "3,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Selection": "3 bread varieties",
+      "Types": "Sourdough, Whole Grain, Baguette",
+      "Weight": "Approx. 1.5 lbs each",
+      "Preservatives": "None",
+      "Storage": "Best consumed within 3 days"
+    },
+    "highlights": [
+      "Artisan quality bread",
+      "3 delicious varieties",
+      "Preservative-free",
+      "Freshly baked",
+      "Perfect for any meal"
+    ]
+  },
+  {
+    "id": "prod-64",
+    "name": "Fresh Milk Whole 1 Gallon",
+    "slug": "fresh-milk-whole-1-gallon",
+    "price": 4.99,
+    "originalPrice": 6.99,
+    "currency": "USD",
+    "description": "Fresh whole milk from local dairy farms. Rich, creamy, and full of nutrients. Pasteurized and homogenized. Perfect for drinking, cooking, and baking. 1 gallon container.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=56966744",
+      "https://loremflickr.com/800/800/groceries?random=56966745",
+      "https://loremflickr.com/800/800/supermarket?random=56966746",
+      "https://loremflickr.com/800/800/fresh-food?random=56966747"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.8,
+    "reviewCount": 3456,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Size": "1 gallon (128 fl oz)",
+      "Type": "Whole milk",
+      "Fat Content": "3.25%",
+      "Pasteurized": "Yes",
+      "Storage": "Refrigerate"
+    },
+    "highlights": [
+      "Fresh from local farms",
+      "Rich and creamy",
+      "Full of nutrients",
+      "Pasteurized for safety",
+      "Perfect for all uses"
+    ]
+  },
+  {
+    "id": "prod-65",
+    "name": "Organic Eggs Free Range",
+    "slug": "organic-eggs-free-range",
+    "price": 5.99,
+    "originalPrice": 8.99,
+    "currency": "USD",
+    "description": "Free-range organic eggs from happy, healthy hens. Rich in protein and omega-3. Certified organic, no antibiotics or hormones. Pack of 12 large eggs.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=10719031933",
+      "https://loremflickr.com/800/800/groceries?random=10719031934",
+      "https://loremflickr.com/800/800/supermarket?random=10719031935",
+      "https://loremflickr.com/800/800/fresh-food?random=10719031936"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.9,
+    "reviewCount": 5234,
+    "orders": "18,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic",
+      "Fresh"
+    ],
+    "specifications": {
+      "Pack": "12 large eggs",
+      "Certification": "USDA Organic",
+      "Type": "Free-range",
+      "Antibiotics": "None",
+      "Hormones": "None"
+    },
+    "highlights": [
+      "Free-range organic eggs",
+      "Rich in protein and omega-3",
+      "No antibiotics or hormones",
+      "Certified organic",
+      "From happy, healthy hens"
+    ]
+  },
+  {
+    "id": "prod-66",
+    "name": "Fresh Chicken Breast",
+    "slug": "fresh-chicken-breast",
+    "price": 8.99,
+    "originalPrice": 12.99,
+    "currency": "USD",
+    "description": "Fresh boneless, skinless chicken breast. Premium quality, never frozen. Perfect for grilling, baking, or pan-frying. Approximately 1.5 lbs per package.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=1723965830",
+      "https://loremflickr.com/800/800/groceries?random=1723965831",
+      "https://loremflickr.com/800/800/supermarket?random=1723965832",
+      "https://loremflickr.com/800/800/fresh-food?random=1723965833"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Weight": "Approx. 1.5 lbs",
+      "Cut": "Boneless, skinless",
+      "Quality": "Premium grade",
+      "Storage": "Refrigerate or freeze",
+      "Preparation": "Ready to cook"
+    },
+    "highlights": [
+      "Fresh, never frozen",
+      "Boneless and skinless",
+      "Premium quality",
+      "Versatile cooking options",
+      "High in protein"
+    ]
+  },
+  {
+    "id": "prod-67",
+    "name": "Fresh Salmon Fillet",
+    "slug": "fresh-salmon-fillet",
+    "price": 14.99,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Fresh Atlantic salmon fillet, wild-caught. Rich in omega-3 fatty acids. Perfect for grilling, baking, or pan-searing. Approximately 1 lb per fillet.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=2435298300",
+      "https://loremflickr.com/800/800/groceries?random=2435298301",
+      "https://loremflickr.com/800/800/supermarket?random=2435298302",
+      "https://loremflickr.com/800/800/fresh-food?random=2435298303"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "orders": "6,300+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Weight": "Approx. 1 lb per fillet",
+      "Type": "Atlantic salmon",
+      "Source": "Wild-caught",
+      "Storage": "Refrigerate",
+      "Preparation": "Ready to cook"
+    },
+    "highlights": [
+      "Wild-caught salmon",
+      "Rich in omega-3",
+      "Fresh premium quality",
+      "Perfect for any cooking method",
+      "High-quality protein"
+    ]
+  },
+  {
+    "id": "prod-68",
+    "name": "Mixed Nuts Premium",
+    "slug": "mixed-nuts-premium",
+    "price": 12.99,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Premium mixed nuts including almonds, cashews, walnuts, and pistachios. Unsalted, no preservatives. Rich in protein and healthy fats. 16 oz resealable bag.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=4528633016",
+      "https://loremflickr.com/800/800/groceries?random=4528633017",
+      "https://loremflickr.com/800/800/supermarket?random=4528633018",
+      "https://loremflickr.com/800/800/fresh-food?random=4528633019"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.6,
+    "reviewCount": 3456,
+    "orders": "11,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Size": "16 oz (1 lb)",
+      "Contents": "Almonds, Cashews, Walnuts, Pistachios",
+      "Salt": "Unsalted",
+      "Preservatives": "None",
+      "Packaging": "Resealable bag"
+    },
+    "highlights": [
+      "Premium quality nuts",
+      "Mixed variety",
+      "Unsalted and natural",
+      "Rich in protein and healthy fats",
+      "Resealable packaging"
+    ]
+  },
+  {
+    "id": "prod-69",
+    "name": "Organic Honey Raw",
+    "slug": "organic-honey-raw",
+    "price": 9.99,
+    "originalPrice": 14.99,
+    "currency": "USD",
+    "description": "Pure raw organic honey from local beekeepers. Unfiltered and unpasteurized. Rich flavor and natural enzymes. Perfect for tea, baking, or as a natural sweetener. 16 oz jar.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=4166171298",
+      "https://loremflickr.com/800/800/groceries?random=4166171299",
+      "https://loremflickr.com/800/800/supermarket?random=4166171300",
+      "https://loremflickr.com/800/800/fresh-food?random=4166171301"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.9,
+    "reviewCount": 4123,
+    "orders": "15,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Size": "16 oz (1 lb)",
+      "Type": "Raw, unfiltered",
+      "Certification": "USDA Organic",
+      "Pasteurized": "No",
+      "Source": "Local beekeepers"
+    },
+    "highlights": [
+      "Pure raw organic honey",
+      "Unfiltered and unpasteurized",
+      "Natural enzymes preserved",
+      "Rich, authentic flavor",
+      "Local beekeeper source"
+    ]
+  },
+  {
+    "id": "prod-70",
+    "name": "Pasta Variety Pack",
+    "slug": "pasta-variety-pack",
+    "price": 7.99,
+    "originalPrice": 12.99,
+    "currency": "USD",
+    "description": "Variety pack of premium pasta including spaghetti, penne, fusilli, and linguine. Made from durum wheat semolina. Perfect for Italian dishes. 4 boxes total.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=1964674798",
+      "https://loremflickr.com/800/800/groceries?random=1964674799",
+      "https://loremflickr.com/800/800/supermarket?random=1964674800",
+      "https://loremflickr.com/800/800/fresh-food?random=1964674801"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "orders": "7,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Pack": "4 boxes",
+      "Types": "Spaghetti, Penne, Fusilli, Linguine",
+      "Weight": "1 lb per box",
+      "Material": "Durum wheat semolina",
+      "Shelf Life": "2 years"
+    },
+    "highlights": [
+      "Variety of pasta shapes",
+      "Premium durum wheat",
+      "Perfect for Italian dishes",
+      "Long shelf life",
+      "Great value pack"
+    ]
+  },
+  {
+    "id": "prod-71",
+    "name": "Olive Oil Extra Virgin",
+    "slug": "olive-oil-extra-virgin",
+    "price": 11.99,
+    "originalPrice": 18.99,
+    "currency": "USD",
+    "description": "Premium extra virgin olive oil from Mediterranean olives. Cold-pressed, first extraction. Rich flavor and aroma. Perfect for salads, cooking, and drizzling. 500ml bottle.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=2973004941",
+      "https://loremflickr.com/800/800/groceries?random=2973004942",
+      "https://loremflickr.com/800/800/supermarket?random=2973004943",
+      "https://loremflickr.com/800/800/fresh-food?random=2973004944"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "9,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Size": "500ml (16.9 fl oz)",
+      "Type": "Extra virgin",
+      "Extraction": "Cold-pressed, first extraction",
+      "Origin": "Mediterranean",
+      "Storage": "Store in cool, dark place"
+    },
+    "highlights": [
+      "Premium extra virgin quality",
+      "Cold-pressed first extraction",
+      "Rich flavor and aroma",
+      "Mediterranean origin",
+      "Versatile cooking oil"
+    ]
+  },
+  {
+    "id": "prod-72",
+    "name": "Fresh Berries Mix",
+    "slug": "fresh-berries-mix",
+    "price": 6.99,
+    "originalPrice": 9.99,
+    "currency": "USD",
+    "description": "Fresh mixed berries including strawberries, blueberries, raspberries, and blackberries. Sweet, juicy, and packed with antioxidants. Perfect for breakfast, snacks, or desserts. 1 lb container.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=813103026",
+      "https://loremflickr.com/800/800/groceries?random=813103027",
+      "https://loremflickr.com/800/800/supermarket?random=813103028",
+      "https://loremflickr.com/800/800/fresh-food?random=813103029"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.8,
+    "reviewCount": 3456,
+    "orders": "13,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh",
+      "Organic"
+    ],
+    "specifications": {
+      "Weight": "1 lb container",
+      "Contents": "Strawberries, Blueberries, Raspberries, Blackberries",
+      "Storage": "Refrigerate",
+      "Shelf Life": "3-5 days",
+      "Certification": "Organic available"
+    },
+    "highlights": [
+      "Fresh mixed berries",
+      "Sweet and juicy",
+      "Packed with antioxidants",
+      "Perfect for multiple uses",
+      "Premium quality"
+    ]
+  },
+  {
+    "id": "prod-73",
+    "name": "Greek Yogurt Plain",
+    "slug": "greek-yogurt-plain",
+    "price": 4.49,
+    "originalPrice": 6.99,
+    "currency": "USD",
+    "description": "Creamy Greek yogurt, plain and unsweetened. High in protein and probiotics. Perfect for breakfast, smoothies, or as a healthy snack. 32 oz container.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=5671609146",
+      "https://loremflickr.com/800/800/groceries?random=5671609147",
+      "https://loremflickr.com/800/800/supermarket?random=5671609148",
+      "https://loremflickr.com/800/800/fresh-food?random=5671609149"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 5234,
+    "orders": "19,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Size": "32 oz (2 lbs)",
+      "Type": "Plain, unsweetened",
+      "Protein": "High protein",
+      "Probiotics": "Live active cultures",
+      "Storage": "Refrigerate"
+    },
+    "highlights": [
+      "Creamy Greek yogurt",
+      "High in protein",
+      "Live probiotics",
+      "Plain and unsweetened",
+      "Versatile and healthy"
+    ]
+  },
+  {
+    "id": "prod-74",
+    "name": "Fresh Spinach Organic",
+    "slug": "fresh-spinach-organic",
+    "price": 3.99,
+    "originalPrice": 5.99,
+    "currency": "USD",
+    "description": "Fresh organic baby spinach leaves. Tender, crisp, and nutrient-dense. Perfect for salads, smoothies, or cooking. Pre-washed and ready to eat. 10 oz bag.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=8379882835",
+      "https://loremflickr.com/800/800/groceries?random=8379882836",
+      "https://loremflickr.com/800/800/supermarket?random=8379882837",
+      "https://loremflickr.com/800/800/fresh-food?random=8379882838"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "8,700+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic",
+      "Fresh"
+    ],
+    "specifications": {
+      "Size": "10 oz bag",
+      "Type": "Baby spinach",
+      "Certification": "USDA Organic",
+      "Preparation": "Pre-washed, ready to eat",
+      "Storage": "Refrigerate"
+    },
+    "highlights": [
+      "Fresh organic baby spinach",
+      "Tender and crisp",
+      "Pre-washed and ready",
+      "Nutrient-dense",
+      "Perfect for multiple uses"
+    ]
+  },
+  {
+    "id": "prod-75",
+    "name": "Fresh Tomatoes Vine-Ripened",
+    "slug": "fresh-tomatoes-vine-ripened",
+    "price": 4.99,
+    "originalPrice": 7.99,
+    "currency": "USD",
+    "description": "Vine-ripened fresh tomatoes. Juicy, flavorful, and perfect for salads, sandwiches, or cooking. Locally sourced when in season. Approximately 2 lbs per package.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=1129277758",
+      "https://loremflickr.com/800/800/groceries?random=1129277759",
+      "https://loremflickr.com/800/800/supermarket?random=1129277760",
+      "https://loremflickr.com/800/800/fresh-food?random=1129277761"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "7,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Weight": "Approx. 2 lbs",
+      "Type": "Vine-ripened",
+      "Source": "Local when in season",
+      "Storage": "Room temperature",
+      "Shelf Life": "3-5 days"
+    },
+    "highlights": [
+      "Vine-ripened for flavor",
+      "Juicy and flavorful",
+      "Locally sourced",
+      "Perfect for many dishes",
+      "Fresh premium quality"
+    ]
+  },
+  {
+    "id": "prod-76",
+    "name": "Fresh Bananas Organic",
+    "slug": "fresh-bananas-organic",
+    "price": 2.99,
+    "originalPrice": 4.99,
+    "currency": "USD",
+    "description": "Fresh organic bananas. Sweet, creamy, and packed with potassium. Perfect for breakfast, snacks, or smoothies. Approximately 2 lbs per bunch.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=595129687",
+      "https://loremflickr.com/800/800/groceries?random=595129688",
+      "https://loremflickr.com/800/800/supermarket?random=595129689",
+      "https://loremflickr.com/800/800/fresh-food?random=595129690"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.8,
+    "reviewCount": 4567,
+    "orders": "16,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic",
+      "Fresh"
+    ],
+    "specifications": {
+      "Weight": "Approx. 2 lbs per bunch",
+      "Certification": "USDA Organic",
+      "Ripeness": "Various stages available",
+      "Storage": "Room temperature",
+      "Nutrition": "High in potassium"
+    },
+    "highlights": [
+      "Fresh organic bananas",
+      "Sweet and creamy",
+      "High in potassium",
+      "Perfect for multiple uses",
+      "Great value"
+    ]
+  },
+  {
+    "id": "prod-77",
+    "name": "Fresh Avocados Hass",
+    "slug": "fresh-avocados-hass",
+    "price": 5.99,
+    "originalPrice": 8.99,
+    "currency": "USD",
+    "description": "Fresh Hass avocados. Creamy, rich, and perfect for guacamole, salads, or toast. Rich in healthy fats and fiber. Pack of 4-5 avocados.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=755266945",
+      "https://loremflickr.com/800/800/groceries?random=755266946",
+      "https://loremflickr.com/800/800/supermarket?random=755266947",
+      "https://loremflickr.com/800/800/fresh-food?random=755266948"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 3456,
+    "orders": "12,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Pack": "4-5 avocados",
+      "Variety": "Hass",
+      "Ripeness": "Various stages",
+      "Storage": "Room temperature to ripen",
+      "Nutrition": "High in healthy fats"
+    },
+    "highlights": [
+      "Fresh Hass avocados",
+      "Creamy and rich",
+      "High in healthy fats",
+      "Perfect for many dishes",
+      "Great value pack"
+    ]
+  },
+  {
+    "id": "prod-78",
+    "name": "Fresh Carrots Organic",
+    "slug": "fresh-carrots-organic",
+    "price": 3.49,
+    "originalPrice": 5.99,
+    "currency": "USD",
+    "description": "Fresh organic carrots. Crisp, sweet, and packed with beta-carotene. Perfect for snacking, cooking, or juicing. Pre-washed and ready to eat. 1 lb bag.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=6702199559",
+      "https://loremflickr.com/800/800/groceries?random=6702199560",
+      "https://loremflickr.com/800/800/supermarket?random=6702199561",
+      "https://loremflickr.com/800/800/fresh-food?random=6702199562"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "9,300+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic",
+      "Fresh"
+    ],
+    "specifications": {
+      "Weight": "1 lb bag",
+      "Certification": "USDA Organic",
+      "Preparation": "Pre-washed",
+      "Storage": "Refrigerate",
+      "Nutrition": "High in beta-carotene"
+    },
+    "highlights": [
+      "Fresh organic carrots",
+      "Crisp and sweet",
+      "Pre-washed and ready",
+      "High in beta-carotene",
+      "Versatile vegetable"
+    ]
+  },
+  {
+    "id": "prod-79",
+    "name": "Fresh Broccoli Organic",
+    "slug": "fresh-broccoli-organic",
+    "price": 3.99,
+    "originalPrice": 5.99,
+    "currency": "USD",
+    "description": "Fresh organic broccoli crowns. Crisp, tender, and nutrient-rich. Perfect for steaming, roasting, or stir-frying. High in vitamins C and K. Approximately 1 lb.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=2421618176",
+      "https://loremflickr.com/800/800/groceries?random=2421618177",
+      "https://loremflickr.com/800/800/supermarket?random=2421618178",
+      "https://loremflickr.com/800/800/fresh-food?random=2421618179"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "7,600+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic",
+      "Fresh"
+    ],
+    "specifications": {
+      "Weight": "Approx. 1 lb",
+      "Certification": "USDA Organic",
+      "Type": "Crowns",
+      "Storage": "Refrigerate",
+      "Nutrition": "High in vitamins C and K"
+    },
+    "highlights": [
+      "Fresh organic broccoli",
+      "Crisp and tender",
+      "High in vitamins",
+      "Perfect for cooking",
+      "Nutrient-rich"
+    ]
+  },
+  {
+    "id": "prod-80",
+    "name": "Fresh Apples Red Delicious",
+    "slug": "fresh-apples-red-delicious",
+    "price": 4.99,
+    "originalPrice": 7.99,
+    "currency": "USD",
+    "description": "Fresh Red Delicious apples. Crisp, sweet, and perfect for snacking or baking. Rich in fiber and antioxidants. Approximately 3 lbs per bag.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=8479926478",
+      "https://loremflickr.com/800/800/groceries?random=8479926479",
+      "https://loremflickr.com/800/800/supermarket?random=8479926480",
+      "https://loremflickr.com/800/800/fresh-food?random=8479926481"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.6,
+    "reviewCount": 3124,
+    "orders": "11,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Weight": "Approx. 3 lbs per bag",
+      "Variety": "Red Delicious",
+      "Storage": "Refrigerate",
+      "Shelf Life": "2-3 weeks",
+      "Nutrition": "High in fiber"
+    },
+    "highlights": [
+      "Fresh Red Delicious apples",
+      "Crisp and sweet",
+      "High in fiber",
+      "Perfect for snacking",
+      "Great value"
+    ]
+  },
+  {
+    "id": "prod-218",
+    "name": "Organic Honey Raw",
+    "slug": "organic-honey-raw",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Pure organic raw honey from local beekeepers. Unfiltered and unpasteurized. Rich flavor and natural enzymes. Perfect for tea, baking, and health benefits. 16 oz jar.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=4166171298",
+      "https://loremflickr.com/800/800/groceries?random=4166171299",
+      "https://loremflickr.com/800/800/supermarket?random=4166171300",
+      "https://loremflickr.com/800/800/fresh-food?random=4166171301"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Type": "Raw organic",
+      "Processing": "Unfiltered, unpasteurized",
+      "Size": "16 oz",
+      "Source": "Local beekeepers",
+      "Use": "Tea, baking, health"
+    },
+    "highlights": [
+      "Pure organic honey",
+      "Unfiltered and unpasteurized",
+      "Natural enzymes",
+      "Rich flavor",
+      "Health benefits"
+    ]
+  },
+  {
+    "id": "prod-219",
+    "name": "Coffee Beans Premium",
+    "slug": "coffee-beans-premium",
+    "price": 24.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Premium whole coffee beans, medium roast. Rich and smooth flavor. Perfect for espresso and drip coffee. 12 oz bag. Fresh roasted.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=796125602",
+      "https://loremflickr.com/800/800/groceries?random=796125603",
+      "https://loremflickr.com/800/800/supermarket?random=796125604",
+      "https://loremflickr.com/800/800/fresh-food?random=796125605"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Type": "Whole beans",
+      "Roast": "Medium",
+      "Size": "12 oz",
+      "Flavor": "Rich and smooth",
+      "Use": "Espresso, drip"
+    },
+    "highlights": [
+      "Premium whole beans",
+      "Medium roast",
+      "Rich smooth flavor",
+      "Fresh roasted",
+      "Perfect for coffee lovers"
+    ]
+  },
+  {
+    "id": "prod-220",
+    "name": "Olive Oil Extra Virgin",
+    "slug": "olive-oil-extra-virgin",
+    "price": 22,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Extra virgin olive oil, cold-pressed. Rich flavor perfect for salads and cooking. Imported from Mediterranean. 500ml bottle. High quality.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=2973004941",
+      "https://loremflickr.com/800/800/groceries?random=2973004942",
+      "https://loremflickr.com/800/800/supermarket?random=2973004943",
+      "https://loremflickr.com/800/800/fresh-food?random=2973004944"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.9,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Type": "Extra virgin",
+      "Processing": "Cold-pressed",
+      "Size": "500ml",
+      "Origin": "Mediterranean",
+      "Use": "Salads, cooking"
+    },
+    "highlights": [
+      "Extra virgin quality",
+      "Cold-pressed",
+      "Rich flavor",
+      "Mediterranean origin",
+      "Perfect for cooking"
+    ]
+  },
+  {
+    "id": "prod-221",
+    "name": "Granola Bars Variety",
+    "slug": "granola-bars-variety",
+    "price": 12.99,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Variety pack of granola bars in multiple flavors. Made with whole grains and natural ingredients. Perfect for snacks and on-the-go. 12 bars per box.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=6530023986",
+      "https://loremflickr.com/800/800/groceries?random=6530023987",
+      "https://loremflickr.com/800/800/supermarket?random=6530023988",
+      "https://loremflickr.com/800/800/fresh-food?random=6530023989"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Pack": "Variety",
+      "Flavors": "Multiple",
+      "Ingredients": "Whole grains, natural",
+      "Count": "12 bars",
+      "Use": "Snacks, on-the-go"
+    },
+    "highlights": [
+      "Variety pack",
+      "Multiple flavors",
+      "Whole grains",
+      "Natural ingredients",
+      "Perfect for snacks"
+    ]
+  },
+  {
+    "id": "prod-222",
+    "name": "Tea Collection Assorted",
+    "slug": "tea-collection-assorted",
+    "price": 15,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Assorted tea collection with 6 different flavors. Includes green, black, herbal, and fruit teas. 60 tea bags total. Perfect for tea lovers.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=8720285141",
+      "https://loremflickr.com/800/800/groceries?random=8720285142",
+      "https://loremflickr.com/800/800/supermarket?random=8720285143",
+      "https://loremflickr.com/800/800/fresh-food?random=8720285144"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Collection": "Assorted",
+      "Flavors": "6 different",
+      "Types": "Green, black, herbal, fruit",
+      "Count": "60 tea bags",
+      "Use": "Hot and iced tea"
+    },
+    "highlights": [
+      "6 different flavors",
+      "Variety of tea types",
+      "60 tea bags",
+      "Perfect for tea lovers",
+      "Hot and iced"
+    ]
+  },
+  {
+    "id": "prod-223",
+    "name": "Pasta Set Premium",
+    "slug": "pasta-set-premium",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Premium pasta set with 4 different shapes. Made from durum wheat semolina. Perfect for Italian dishes. High quality. 1 lb each shape.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=5006006056",
+      "https://loremflickr.com/800/800/groceries?random=5006006057",
+      "https://loremflickr.com/800/800/supermarket?random=5006006058",
+      "https://loremflickr.com/800/800/fresh-food?random=5006006059"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Set": "4 shapes",
+      "Material": "Durum wheat semolina",
+      "Weight": "1 lb each",
+      "Quality": "Premium",
+      "Use": "Italian dishes"
+    },
+    "highlights": [
+      "4 different shapes",
+      "Durum wheat semolina",
+      "Premium quality",
+      "Perfect for Italian cooking",
+      "High quality"
+    ]
+  },
+  {
+    "id": "prod-224",
+    "name": "Chocolate Bar Dark",
+    "slug": "chocolate-bar-dark",
+    "price": 8.99,
+    "originalPrice": 14.99,
+    "currency": "USD",
+    "description": "Premium dark chocolate bar, 70% cocoa. Rich and smooth flavor. Made with natural ingredients. Perfect for snacking or baking. 3.5 oz bar.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=1704511351",
+      "https://loremflickr.com/800/800/groceries?random=1704511352",
+      "https://loremflickr.com/800/800/supermarket?random=1704511353",
+      "https://loremflickr.com/800/800/fresh-food?random=1704511354"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.9,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Type": "Dark chocolate",
+      "Cocoa": "70%",
+      "Size": "3.5 oz",
+      "Ingredients": "Natural",
+      "Use": "Snacking, baking"
+    },
+    "highlights": [
+      "70% dark chocolate",
+      "Rich smooth flavor",
+      "Natural ingredients",
+      "Perfect for snacking",
+      "Baking quality"
+    ]
+  },
+  {
+    "id": "prod-225",
+    "name": "Cereal Box Family",
+    "slug": "cereal-box-family",
+    "price": 6.99,
+    "originalPrice": 9.99,
+    "currency": "USD",
+    "description": "Family-size cereal box with whole grains. Low sugar. Perfect for breakfast. High in fiber. 18 oz box. Great value for families.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=2607534013",
+      "https://loremflickr.com/800/800/groceries?random=2607534014",
+      "https://loremflickr.com/800/800/supermarket?random=2607534015",
+      "https://loremflickr.com/800/800/fresh-food?random=2607534016"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Fresh"
+    ],
+    "specifications": {
+      "Size": "Family size",
+      "Weight": "18 oz",
+      "Grains": "Whole grains",
+      "Sugar": "Low sugar",
+      "Fiber": "High fiber"
+    },
+    "highlights": [
+      "Family size",
+      "Whole grains",
+      "Low sugar",
+      "High fiber",
+      "Great value"
+    ]
+  },
+  {
+    "id": "prod-226",
+    "name": "Nuts Mix Premium",
+    "slug": "nuts-mix-premium",
+    "price": 16.99,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Premium mixed nuts with almonds, cashews, walnuts, and more. Unsalted. Perfect for snacking. High in protein and healthy fats. 16 oz container.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=4089855307",
+      "https://loremflickr.com/800/800/groceries?random=4089855308",
+      "https://loremflickr.com/800/800/supermarket?random=4089855309",
+      "https://loremflickr.com/800/800/fresh-food?random=4089855310"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "12,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Organic"
+    ],
+    "specifications": {
+      "Mix": "Almonds, cashews, walnuts",
+      "Salt": "Unsalted",
+      "Size": "16 oz",
+      "Nutrition": "High protein, healthy fats",
+      "Use": "Snacking"
+    },
+    "highlights": [
+      "Premium nut mix",
+      "Unsalted",
+      "High protein",
+      "Healthy fats",
+      "Perfect for snacking"
+    ]
+  },
+  {
+    "id": "prod-227",
+    "name": "Cooking Spices Set",
+    "slug": "cooking-spices-set",
+    "price": 24,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Set of 12 essential cooking spices in glass jars. Includes salt, pepper, garlic powder, and more. Perfect for home cooking. High quality spices.",
+    "images": [
+      "https://loremflickr.com/800/800/food?random=5202864099",
+      "https://loremflickr.com/800/800/groceries?random=5202864100",
+      "https://loremflickr.com/800/800/supermarket?random=5202864101",
+      "https://loremflickr.com/800/800/fresh-food?random=5202864102"
+    ],
+    "category": "Supermarket",
+    "categorySlug": "supermarket",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Set": "12 spices",
+      "Jars": "Glass jars",
+      "Spices": "Essential cooking",
+      "Quality": "High quality",
+      "Use": "Home cooking"
+    },
+    "highlights": [
+      "Set of 12 spices",
+      "Glass jars",
+      "Essential spices",
+      "High quality",
+      "Perfect for cooking"
+    ]
+  }
+]

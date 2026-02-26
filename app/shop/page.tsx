@@ -20,11 +20,11 @@ import Link from "next/link";
 import PageShell from "@/components/layout/PageShell";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import {
-  SHOP_PRODUCTS,
   SIDEBAR_CATEGORIES,
   PRICE_RANGES,
   SORT_OPTIONS,
 } from "@/lib/constants";
+import { getProductsByCategory } from "@/lib/products";
 import type { Product } from "@/lib/types";
 
 const ITEMS_PER_PAGE = 9;
@@ -63,11 +63,30 @@ function ShopContent() {
   const [sortBy, setSortBy] = useState("relevance");
   const [page, setPage] = useState(1);
   const [filterDrawerOpen, setFilterDrawerOpen] = useState(false);
+  const [products, setProducts] = useState<Product[]>([]);
+  const [loading, setLoading] = useState(true);
 
   /* Sync state when URL query param changes (e.g. clicking a category link) */
   useEffect(() => {
     setSelectedCategory(categoryFromUrl);
   }, [categoryFromUrl]);
+
+  /* Load products when category changes */
+  useEffect(() => {
+    async function loadProducts() {
+      setLoading(true);
+      try {
+        const loadedProducts = await getProductsByCategory(selectedCategory);
+        setProducts(loadedProducts);
+      } catch (error) {
+        console.error("Error loading products:", error);
+        setProducts([]);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadProducts();
+  }, [selectedCategory]);
 
   /* Update the URL when category filter changes internally */
   const handleCategoryChange = useCallback(
@@ -94,11 +113,7 @@ function ShopContent() {
 
   /* ── Filtering & sorting ──────────────────────────────────────────────── */
   const filtered = useMemo(() => {
-    let items: Product[] = [...SHOP_PRODUCTS];
-
-    if (selectedCategory) {
-      items = items.filter((p) => p.categorySlug === selectedCategory);
-    }
+    let items: Product[] = [...products];
 
     if (selectedPriceRange !== null) {
       const range = PRICE_RANGES[selectedPriceRange];
@@ -125,7 +140,7 @@ function ShopContent() {
     }
 
     return items;
-  }, [selectedCategory, selectedPriceRange, sortBy]);
+  }, [products, selectedPriceRange, sortBy]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / ITEMS_PER_PAGE));
   const paginated = filtered.slice(
@@ -297,7 +312,16 @@ function ShopContent() {
 
           {/* Product grid */}
           <div className="flex-1">
-            {paginated.length === 0 ? (
+            {loading ? (
+              <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-slate-200 py-20">
+                <span className="material-symbols-outlined mb-3 text-5xl text-slate-300 animate-spin" aria-hidden="true">
+                  refresh
+                </span>
+                <p className="text-sm font-semibold text-slate-500">
+                  Loading products...
+                </p>
+              </div>
+            ) : paginated.length === 0 ? (
               <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-slate-200 py-20">
                 <span className="material-symbols-outlined mb-3 text-5xl text-slate-300" aria-hidden="true">
                   search_off

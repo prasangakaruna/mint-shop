@@ -1,0 +1,496 @@
+[
+  {
+    "id": "prod-31",
+    "name": "Wireless Mouse & Keyboard Set",
+    "slug": "wireless-mouse-keyboard-set",
+    "price": 29.99,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Ergonomic wireless mouse and keyboard combo with 2.4GHz USB receiver. Long battery life, quiet keys, and smooth scrolling. Perfect for office work, gaming, or home use.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=12648875369",
+      "https://loremflickr.com/800/800/stationery?random=12648875370",
+      "https://loremflickr.com/800/800/desk?random=12648875371",
+      "https://loremflickr.com/800/800/workspace?random=12648875372"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.6,
+    "reviewCount": 2789,
+    "orders": "7,300+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Connectivity": "2.4GHz Wireless",
+      "Battery Life": "12 months (keyboard), 6 months (mouse)",
+      "Range": "Up to 10 meters",
+      "Compatibility": "Windows, Mac, Linux",
+      "Keyboard Layout": "Full-size with numpad"
+    },
+    "highlights": [
+      "Ergonomic design",
+      "Long battery life",
+      "Quiet operation",
+      "Plug-and-play setup",
+      "Compatible with all systems"
+    ]
+  },
+  {
+    "id": "prod-54",
+    "name": "Desk Organizer Set",
+    "slug": "desk-organizer-set",
+    "price": 19.99,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Modern desk organizer set with multiple compartments for pens, papers, and office supplies. Bamboo construction, elegant design, and space-saving layout. Perfect for home or office.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=2605630273",
+      "https://loremflickr.com/800/800/stationery?random=2605630274",
+      "https://loremflickr.com/800/800/desk?random=2605630275",
+      "https://loremflickr.com/800/800/workspace?random=2605630276"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.6,
+    "reviewCount": 1876,
+    "orders": "4,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "Bamboo",
+      "Compartments": "Multiple sections",
+      "Dimensions": "12\" x 8\" x 4\"",
+      "Weight": "1.5 lbs",
+      "Assembly": "No assembly required"
+    },
+    "highlights": [
+      "Bamboo eco-friendly material",
+      "Multiple organized compartments",
+      "Elegant modern design",
+      "Space-saving layout",
+      "Perfect for any desk"
+    ]
+  },
+  {
+    "id": "prod-55",
+    "name": "Notebook Set Premium",
+    "slug": "notebook-set-premium",
+    "price": 12.99,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Set of 3 premium notebooks with lined pages, hard covers, and ribbon bookmarks. Perfect for journaling, note-taking, or as gifts. Available in multiple color options.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=4822492523",
+      "https://loremflickr.com/800/800/stationery?random=4822492524",
+      "https://loremflickr.com/800/800/desk?random=4822492525",
+      "https://loremflickr.com/800/800/workspace?random=4822492526"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "6,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Set": "3 notebooks",
+      "Pages": "192 pages each",
+      "Paper": "Premium lined paper",
+      "Cover": "Hard cover",
+      "Bookmark": "Ribbon bookmark"
+    },
+    "highlights": [
+      "Set of 3 premium notebooks",
+      "Hard cover protection",
+      "Ribbon bookmarks",
+      "Premium quality paper",
+      "Perfect for journaling"
+    ]
+  },
+  {
+    "id": "prod-198",
+    "name": "Desk Organizer Set",
+    "slug": "desk-organizer-set",
+    "price": 28,
+    "originalPrice": 44.99,
+    "currency": "USD",
+    "description": "Desk organizer set with multiple compartments for pens, paper clips, and office supplies. Keeps desk tidy and organized. Modern design. Perfect for home or office.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=2605630273",
+      "https://loremflickr.com/800/800/stationery?random=2605630274",
+      "https://loremflickr.com/800/800/desk?random=2605630275",
+      "https://loremflickr.com/800/800/workspace?random=2605630276"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Compartments": "Multiple",
+      "Use": "Pens, clips, supplies",
+      "Design": "Modern",
+      "Material": "Durable plastic",
+      "Size": "Compact"
+    },
+    "highlights": [
+      "Multiple compartments",
+      "Keeps desk organized",
+      "Modern design",
+      "Perfect for office",
+      "Compact size"
+    ]
+  },
+  {
+    "id": "prod-199",
+    "name": "Stapler Heavy Duty",
+    "slug": "stapler-heavy-duty",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Heavy-duty stapler that staples up to 50 sheets. Metal construction for durability. Comfortable grip. Includes 1000 staples. Perfect for office use.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=3403798865",
+      "https://loremflickr.com/800/800/stationery?random=3403798866",
+      "https://loremflickr.com/800/800/desk?random=3403798867",
+      "https://loremflickr.com/800/800/workspace?random=3403798868"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.6,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Capacity": "Up to 50 sheets",
+      "Material": "Metal construction",
+      "Staples": "1000 included",
+      "Grip": "Comfortable",
+      "Use": "Office"
+    },
+    "highlights": [
+      "Heavy-duty capacity",
+      "Metal construction",
+      "1000 staples included",
+      "Comfortable grip",
+      "Perfect for office"
+    ]
+  },
+  {
+    "id": "prod-200",
+    "name": "File Folder Set",
+    "slug": "file-folder-set",
+    "price": 15,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Set of 25 hanging file folders with tabs. Perfect for organizing documents. Durable construction. Available in multiple colors for color-coding.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=1863967133",
+      "https://loremflickr.com/800/800/stationery?random=1863967134",
+      "https://loremflickr.com/800/800/desk?random=1863967135",
+      "https://loremflickr.com/800/800/workspace?random=1863967136"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.5,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Set": "25 folders",
+      "Type": "Hanging",
+      "Tabs": "Included",
+      "Colors": "Multiple options",
+      "Material": "Durable"
+    },
+    "highlights": [
+      "Set of 25 folders",
+      "Hanging design",
+      "Tabs included",
+      "Color-coding options",
+      "Perfect for organization"
+    ]
+  },
+  {
+    "id": "prod-201",
+    "name": "Whiteboard Magnetic",
+    "slug": "whiteboard-magnetic",
+    "price": 42,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Magnetic whiteboard with aluminum frame. Dry-erase surface. Includes markers and eraser. Perfect for office meetings and home office. Multiple sizes available.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=3430119651",
+      "https://loremflickr.com/800/800/stationery?random=3430119652",
+      "https://loremflickr.com/800/800/desk?random=3430119653",
+      "https://loremflickr.com/800/800/workspace?random=3430119654"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Type": "Magnetic",
+      "Frame": "Aluminum",
+      "Markers": "Included",
+      "Eraser": "Included",
+      "Sizes": "Multiple available"
+    },
+    "highlights": [
+      "Magnetic surface",
+      "Aluminum frame",
+      "Markers and eraser included",
+      "Perfect for meetings",
+      "Multiple sizes"
+    ]
+  },
+  {
+    "id": "prod-202",
+    "name": "Paper Shredder Cross-Cut",
+    "slug": "paper-shredder-cross-cut",
+    "price": 65,
+    "originalPrice": 99.99,
+    "currency": "USD",
+    "description": "Cross-cut paper shredder with 8-sheet capacity. Shreds credit cards. Auto-reverse for jams. Perfect for home office security. Compact design.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=5002412975",
+      "https://loremflickr.com/800/800/stationery?random=5002412976",
+      "https://loremflickr.com/800/800/desk?random=5002412977",
+      "https://loremflickr.com/800/800/workspace?random=5002412978"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Capacity": "8 sheets",
+      "Cut": "Cross-cut",
+      "Credit Cards": "Yes",
+      "Auto-Reverse": "Yes",
+      "Design": "Compact"
+    },
+    "highlights": [
+      "8-sheet capacity",
+      "Cross-cut security",
+      "Shreds credit cards",
+      "Auto-reverse feature",
+      "Perfect for security"
+    ]
+  },
+  {
+    "id": "prod-203",
+    "name": "Desk Lamp LED",
+    "slug": "desk-lamp-led",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "LED desk lamp with adjustable brightness and color temperature. USB charging port. Touch controls. Flexible gooseneck design. Perfect for work or study.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=8388078599",
+      "https://loremflickr.com/800/800/stationery?random=8388078600",
+      "https://loremflickr.com/800/800/desk?random=8388078601",
+      "https://loremflickr.com/800/800/workspace?random=8388078602"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.6,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Type": "LED",
+      "Brightness": "Adjustable",
+      "Color Temperature": "Adjustable",
+      "USB Port": "Charging port",
+      "Design": "Flexible gooseneck"
+    },
+    "highlights": [
+      "LED technology",
+      "Adjustable brightness",
+      "Color temperature control",
+      "USB charging port",
+      "Flexible design"
+    ]
+  },
+  {
+    "id": "prod-204",
+    "name": "Binder Set 3-Ring",
+    "slug": "binder-set-3-ring",
+    "price": 22,
+    "originalPrice": 34.99,
+    "currency": "USD",
+    "description": "Set of 3 three-ring binders with clear front pockets. Durable construction. Perfect for organizing documents and presentations. Available in multiple sizes.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=1042063737",
+      "https://loremflickr.com/800/800/stationery?random=1042063738",
+      "https://loremflickr.com/800/800/desk?random=1042063739",
+      "https://loremflickr.com/800/800/workspace?random=1042063740"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.5,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Set": "3 binders",
+      "Rings": "3-ring",
+      "Pocket": "Clear front",
+      "Sizes": "Multiple available",
+      "Material": "Durable"
+    },
+    "highlights": [
+      "Set of 3 binders",
+      "Clear front pockets",
+      "Durable construction",
+      "Perfect for organization",
+      "Multiple sizes"
+    ]
+  },
+  {
+    "id": "prod-205",
+    "name": "Calculator Desktop",
+    "slug": "calculator-desktop",
+    "price": 15,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "description": "Desktop calculator with large display and 12-digit capacity. Solar and battery powered. Perfect for office, home, or school. Compact design.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=9304431362",
+      "https://loremflickr.com/800/800/stationery?random=9304431363",
+      "https://loremflickr.com/800/800/desk?random=9304431364",
+      "https://loremflickr.com/800/800/workspace?random=9304431365"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.6,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Display": "Large",
+      "Digits": "12-digit",
+      "Power": "Solar and battery",
+      "Use": "Office, home, school",
+      "Design": "Compact"
+    },
+    "highlights": [
+      "Large display",
+      "12-digit capacity",
+      "Solar and battery power",
+      "Perfect for office",
+      "Compact design"
+    ]
+  },
+  {
+    "id": "prod-206",
+    "name": "Printer Paper Ream",
+    "slug": "printer-paper-ream",
+    "price": 8.99,
+    "originalPrice": 14.99,
+    "currency": "USD",
+    "description": "Premium printer paper ream with 500 sheets. 20lb weight. Bright white color. Compatible with all printers. Perfect for documents and photos.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=4761882500",
+      "https://loremflickr.com/800/800/stationery?random=4761882501",
+      "https://loremflickr.com/800/800/desk?random=4761882502",
+      "https://loremflickr.com/800/800/workspace?random=4761882503"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Sheets": "500",
+      "Weight": "20lb",
+      "Color": "Bright white",
+      "Compatibility": "All printers",
+      "Use": "Documents, photos"
+    },
+    "highlights": [
+      "500 sheets per ream",
+      "20lb premium weight",
+      "Bright white",
+      "Universal compatibility",
+      "Perfect for printing"
+    ]
+  },
+  {
+    "id": "prod-207",
+    "name": "Pen Set Gel",
+    "slug": "pen-set-gel",
+    "price": 12,
+    "originalPrice": 19.99,
+    "currency": "USD",
+    "description": "Set of 12 gel pens in assorted colors. Smooth writing with vibrant colors. Perfect for note-taking, journaling, and creative projects. Comfortable grip.",
+    "images": [
+      "https://loremflickr.com/800/800/office?random=4932484834",
+      "https://loremflickr.com/800/800/stationery?random=4932484835",
+      "https://loremflickr.com/800/800/desk?random=4932484836",
+      "https://loremflickr.com/800/800/workspace?random=4932484837"
+    ],
+    "category": "Office Supplies",
+    "categorySlug": "office",
+    "rating": 4.8,
+    "reviewCount": 3210,
+    "orders": "12,400+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Set": "12 pens",
+      "Type": "Gel",
+      "Colors": "Assorted",
+      "Writing": "Smooth",
+      "Grip": "Comfortable"
+    },
+    "highlights": [
+      "Set of 12 pens",
+      "Smooth gel writing",
+      "Vibrant colors",
+      "Comfortable grip",
+      "Perfect for notes"
+    ]
+  }
+]

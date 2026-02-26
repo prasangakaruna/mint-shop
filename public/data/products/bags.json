@@ -1,0 +1,574 @@
+[
+  {
+    "id": "prod-3",
+    "name": "Premium Leather Crossbody Bag",
+    "slug": "premium-leather-crossbody-bag",
+    "price": 68.5,
+    "originalPrice": 95,
+    "currency": "USD",
+    "description": "Handcrafted from genuine top-grain leather with adjustable strap and multiple compartments. Perfect for everyday carry with RFID-blocking pocket.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=8041682721",
+      "https://loremflickr.com/800/800/handbag?random=8041682722",
+      "https://loremflickr.com/800/800/backpack?random=8041682723",
+      "https://loremflickr.com/800/800/luggage?random=8041682724"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.7,
+    "reviewCount": 943,
+    "orders": "2,100+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Material": "Top-grain leather",
+      "Dimensions": "10\" × 7\" × 3\"",
+      "Strap Drop": "20\"–24\" adjustable",
+      "Pockets": "3 interior + 1 RFID-blocking",
+      "Closure": "Magnetic snap + zipper",
+      "Weight": "0.65 lbs"
+    },
+    "highlights": [
+      "Genuine top-grain leather construction",
+      "RFID-blocking security pocket",
+      "Adjustable crossbody strap",
+      "Multiple organized compartments",
+      "Elegant hardware with scratch-resistant finish"
+    ]
+  },
+  {
+    "id": "prod-9",
+    "name": "Ultra-Slim Laptop Backpack",
+    "slug": "ultra-slim-laptop-backpack",
+    "price": 54.99,
+    "originalPrice": 79.99,
+    "currency": "USD",
+    "description": "Water-resistant laptop backpack fits up to 15.6\" laptops with padded compartment. USB charging port, anti-theft hidden zipper, and ergonomic back panel.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=8934251866",
+      "https://loremflickr.com/800/800/handbag?random=8934251867",
+      "https://loremflickr.com/800/800/backpack?random=8934251868",
+      "https://loremflickr.com/800/800/luggage?random=8934251869"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.7,
+    "reviewCount": 892,
+    "orders": "1,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Capacity": "20L",
+      "Laptop Fit": "Up to 15.6\"",
+      "Material": "Water-resistant Oxford fabric",
+      "Weight": "0.75 kg",
+      "Features": "USB port, anti-theft zipper",
+      "Dimensions": "18\" × 12\" × 6\""
+    },
+    "highlights": [
+      "Padded laptop compartment (up to 15.6\")",
+      "Built-in USB charging port",
+      "Anti-theft hidden back zipper",
+      "Ergonomic breathable back panel",
+      "Water-resistant Oxford fabric"
+    ]
+  },
+  {
+    "id": "prod-27",
+    "name": "Designer Handbag",
+    "slug": "designer-handbag",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "currency": "USD",
+    "description": "Elegant designer handbag made from premium faux leather with gold-tone hardware. Multiple compartments, adjustable strap, and interior pockets. Perfect for work, travel, or everyday use.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=1831963527",
+      "https://loremflickr.com/800/800/handbag?random=1831963528",
+      "https://loremflickr.com/800/800/backpack?random=1831963529",
+      "https://loremflickr.com/800/800/luggage?random=1831963530"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.8,
+    "reviewCount": 1654,
+    "orders": "4,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Premium Faux Leather",
+      "Dimensions": "12\" x 9\" x 5\"",
+      "Strap": "Adjustable (removable)",
+      "Compartments": "Main + 2 interior pockets",
+      "Hardware": "Gold-tone"
+    },
+    "highlights": [
+      "Premium faux leather",
+      "Spacious interior",
+      "Multiple compartments",
+      "Adjustable removable strap",
+      "Elegant design"
+    ]
+  },
+  {
+    "id": "prod-46",
+    "name": "Travel Backpack 40L",
+    "slug": "travel-backpack-40l",
+    "price": 54.99,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Spacious 40L travel backpack with multiple compartments, laptop sleeve, and USB charging port. Water-resistant fabric, padded straps, and luggage strap. Perfect for travel and commuting.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=4254886420",
+      "https://loremflickr.com/800/800/handbag?random=4254886421",
+      "https://loremflickr.com/800/800/backpack?random=4254886422",
+      "https://loremflickr.com/800/800/luggage?random=4254886423"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "orders": "5,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Capacity": "40 liters",
+      "Compartments": "Main + laptop + front",
+      "Laptop Sleeve": "Up to 15.6\"",
+      "Material": "Water-resistant polyester",
+      "USB Port": "External charging port"
+    },
+    "highlights": [
+      "Spacious 40L capacity",
+      "Multiple organized compartments",
+      "Laptop protection sleeve",
+      "USB charging port",
+      "Comfortable padded straps"
+    ]
+  },
+  {
+    "id": "prod-47",
+    "name": "Leather Wallet RFID Blocking",
+    "slug": "leather-wallet-rfid-blocking",
+    "price": 19.99,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Slim genuine leather wallet with RFID blocking technology. Multiple card slots, cash compartment, and ID window. Protects against electronic theft. Available in black and brown.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=4213831525",
+      "https://loremflickr.com/800/800/handbag?random=4213831526",
+      "https://loremflickr.com/800/800/backpack?random=4213831527",
+      "https://loremflickr.com/800/800/luggage?random=4213831528"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.6,
+    "reviewCount": 3456,
+    "orders": "9,100+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Genuine leather",
+      "RFID Protection": "Yes",
+      "Card Slots": "8+ slots",
+      "Cash Compartment": "Yes",
+      "ID Window": "Yes"
+    },
+    "highlights": [
+      "RFID blocking technology",
+      "Slim compact design",
+      "Genuine leather",
+      "Multiple card organization",
+      "Protects against theft"
+    ]
+  },
+  {
+    "id": "prod-158",
+    "name": "Backpack Laptop 15.6",
+    "slug": "backpack-laptop-15-6",
+    "price": 45,
+    "originalPrice": 69.99,
+    "currency": "USD",
+    "description": "Durable laptop backpack with padded compartment for 15.6-inch laptop. Multiple pockets and USB charging port. Comfortable padded straps. Perfect for work or school.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=4086331564",
+      "https://loremflickr.com/800/800/handbag?random=4086331565",
+      "https://loremflickr.com/800/800/backpack?random=4086331566",
+      "https://loremflickr.com/800/800/luggage?random=4086331567"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.7,
+    "reviewCount": 4567,
+    "orders": "18,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Laptop Size": "Up to 15.6 inches",
+      "Pockets": "Multiple compartments",
+      "USB Port": "Charging port included",
+      "Straps": "Padded adjustable",
+      "Material": "Water-resistant nylon"
+    },
+    "highlights": [
+      "Padded laptop compartment",
+      "USB charging port",
+      "Multiple organized pockets",
+      "Comfortable padded straps",
+      "Water-resistant material"
+    ]
+  },
+  {
+    "id": "prod-159",
+    "name": "Travel Suitcase 28",
+    "slug": "travel-suitcase-28",
+    "price": 95,
+    "originalPrice": 149.99,
+    "currency": "USD",
+    "description": "28-inch hard-shell spinner suitcase with TSA lock. 360-degree wheels for easy maneuverability. Expandable design. Perfect for extended trips.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=3615793211",
+      "https://loremflickr.com/800/800/handbag?random=3615793212",
+      "https://loremflickr.com/800/800/backpack?random=3615793213",
+      "https://loremflickr.com/800/800/luggage?random=3615793214"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.8,
+    "reviewCount": 2345,
+    "orders": "8,900+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Size": "28 inches",
+      "Shell": "Hard-shell",
+      "Wheels": "360-degree spinner",
+      "Lock": "TSA-approved",
+      "Expandable": "Yes"
+    },
+    "highlights": [
+      "Hard-shell protection",
+      "360-degree spinner wheels",
+      "TSA-approved lock",
+      "Expandable design",
+      "Perfect for travel"
+    ]
+  },
+  {
+    "id": "prod-160",
+    "name": "Crossbody Bag Leather",
+    "slug": "crossbody-bag-leather",
+    "price": 58,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Genuine leather crossbody bag with adjustable strap. Multiple compartments and zipper closure. Perfect for everyday use. Available in multiple colors.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=52667671",
+      "https://loremflickr.com/800/800/handbag?random=52667672",
+      "https://loremflickr.com/800/800/backpack?random=52667673",
+      "https://loremflickr.com/800/800/luggage?random=52667674"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.6,
+    "reviewCount": 3210,
+    "orders": "12,500+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Genuine leather",
+      "Strap": "Adjustable crossbody",
+      "Compartments": "Multiple",
+      "Closure": "Zipper",
+      "Colors": "Multiple options"
+    },
+    "highlights": [
+      "Genuine leather",
+      "Adjustable strap",
+      "Multiple compartments",
+      "Zipper closure",
+      "Perfect for everyday"
+    ]
+  },
+  {
+    "id": "prod-161",
+    "name": "Gym Duffel Bag",
+    "slug": "gym-duffel-bag",
+    "price": 32,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Large gym duffel bag with separate shoe compartment. Water-resistant material. Multiple pockets for organization. Perfect for sports and gym.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=868058663",
+      "https://loremflickr.com/800/800/handbag?random=868058664",
+      "https://loremflickr.com/800/800/backpack?random=868058665",
+      "https://loremflickr.com/800/800/luggage?random=868058666"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "Size": "Large capacity",
+      "Shoe Compartment": "Separate",
+      "Material": "Water-resistant",
+      "Pockets": "Multiple",
+      "Carry": "Shoulder strap"
+    },
+    "highlights": [
+      "Large capacity",
+      "Separate shoe compartment",
+      "Water-resistant",
+      "Multiple pockets",
+      "Perfect for gym"
+    ]
+  },
+  {
+    "id": "prod-162",
+    "name": "Tote Bag Canvas",
+    "slug": "tote-bag-canvas",
+    "price": 18,
+    "originalPrice": 29.99,
+    "currency": "USD",
+    "description": "Sturdy canvas tote bag with reinforced handles. Large capacity perfect for shopping or beach. Machine washable. Available in multiple colors.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=8505936028",
+      "https://loremflickr.com/800/800/handbag?random=8505936029",
+      "https://loremflickr.com/800/800/backpack?random=8505936030",
+      "https://loremflickr.com/800/800/luggage?random=8505936031"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.5,
+    "reviewCount": 5432,
+    "orders": "19,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Hot"
+    ],
+    "specifications": {
+      "Material": "Canvas",
+      "Handles": "Reinforced",
+      "Capacity": "Large",
+      "Care": "Machine washable",
+      "Colors": "Multiple options"
+    },
+    "highlights": [
+      "Sturdy canvas material",
+      "Reinforced handles",
+      "Large capacity",
+      "Machine washable",
+      "Versatile use"
+    ]
+  },
+  {
+    "id": "prod-163",
+    "name": "Messenger Bag Vintage",
+    "slug": "messenger-bag-vintage",
+    "price": 42,
+    "originalPrice": 64.99,
+    "currency": "USD",
+    "description": "Vintage-style messenger bag with adjustable strap. Multiple compartments and flap closure. Perfect for work or casual use. Durable canvas construction.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=7584429893",
+      "https://loremflickr.com/800/800/handbag?random=7584429894",
+      "https://loremflickr.com/800/800/backpack?random=7584429895",
+      "https://loremflickr.com/800/800/luggage?random=7584429896"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "7,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Material": "Canvas",
+      "Style": "Messenger",
+      "Strap": "Adjustable",
+      "Closure": "Flap with buckle",
+      "Compartments": "Multiple"
+    },
+    "highlights": [
+      "Vintage style design",
+      "Adjustable strap",
+      "Multiple compartments",
+      "Flap closure",
+      "Durable construction"
+    ]
+  },
+  {
+    "id": "prod-164",
+    "name": "Weekend Travel Bag",
+    "slug": "weekend-travel-bag",
+    "price": 55,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "Weekend travel bag with wheels and pull handle. Spacious main compartment with multiple pockets. Perfect for short trips. Durable construction.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=11460348003",
+      "https://loremflickr.com/800/800/handbag?random=11460348004",
+      "https://loremflickr.com/800/800/backpack?random=11460348005",
+      "https://loremflickr.com/800/800/luggage?random=11460348006"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.7,
+    "reviewCount": 3210,
+    "orders": "11,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Top Ranked"
+    ],
+    "specifications": {
+      "Wheels": "Yes",
+      "Handle": "Pull handle",
+      "Capacity": "Weekend size",
+      "Pockets": "Multiple",
+      "Material": "Durable nylon"
+    },
+    "highlights": [
+      "Wheels for easy transport",
+      "Pull handle",
+      "Spacious capacity",
+      "Multiple pockets",
+      "Perfect for weekends"
+    ]
+  },
+  {
+    "id": "prod-165",
+    "name": "Wallet RFID Blocking",
+    "slug": "wallet-rfid-blocking",
+    "price": 24,
+    "originalPrice": 39.99,
+    "currency": "USD",
+    "description": "Slim RFID-blocking wallet with multiple card slots and cash compartment. Protects credit cards from electronic theft. Genuine leather construction.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=5318138433",
+      "https://loremflickr.com/800/800/handbag?random=5318138434",
+      "https://loremflickr.com/800/800/backpack?random=5318138435",
+      "https://loremflickr.com/800/800/luggage?random=5318138436"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "orders": "6,500+ sold",
+    "inStock": true,
+    "tags": [
+      "New"
+    ],
+    "specifications": {
+      "RFID Protection": "Yes",
+      "Card Slots": "Multiple",
+      "Cash": "Compartment included",
+      "Material": "Genuine leather",
+      "Size": "Slim design"
+    },
+    "highlights": [
+      "RFID-blocking technology",
+      "Multiple card slots",
+      "Cash compartment",
+      "Genuine leather",
+      "Slim design"
+    ]
+  },
+  {
+    "id": "prod-166",
+    "name": "Purse Clutch Evening",
+    "slug": "purse-clutch-evening",
+    "price": 35,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Elegant evening clutch purse with chain strap. Perfect for formal events and parties. Compact size with interior pockets. Available in multiple colors.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=3965093256",
+      "https://loremflickr.com/800/800/handbag?random=3965093257",
+      "https://loremflickr.com/800/800/backpack?random=3965093258",
+      "https://loremflickr.com/800/800/luggage?random=3965093259"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "orders": "4,200+ sold",
+    "inStock": true,
+    "tags": [
+      "Gift"
+    ],
+    "specifications": {
+      "Style": "Clutch",
+      "Strap": "Chain strap",
+      "Size": "Compact",
+      "Pockets": "Interior",
+      "Occasion": "Evening/Formal"
+    },
+    "highlights": [
+      "Elegant design",
+      "Chain strap",
+      "Compact size",
+      "Interior pockets",
+      "Perfect for evening"
+    ]
+  },
+  {
+    "id": "prod-167",
+    "name": "Garment Bag Travel",
+    "slug": "garment-bag-travel",
+    "price": 38,
+    "originalPrice": 59.99,
+    "currency": "USD",
+    "description": "Travel garment bag for suits and dresses. Hanger hook and zipper closure. Prevents wrinkles during travel. Perfect for business trips.",
+    "images": [
+      "https://loremflickr.com/800/800/bag?random=632500712",
+      "https://loremflickr.com/800/800/handbag?random=632500713",
+      "https://loremflickr.com/800/800/backpack?random=632500714",
+      "https://loremflickr.com/800/800/luggage?random=632500715"
+    ],
+    "category": "Bags & Luggage",
+    "categorySlug": "bags",
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "orders": "3,800+ sold",
+    "inStock": true,
+    "tags": [
+      "Best Seller"
+    ],
+    "specifications": {
+      "Purpose": "Garment protection",
+      "Hook": "Hanger hook",
+      "Closure": "Zipper",
+      "Wrinkle Prevention": "Yes",
+      "Size": "Standard length"
+    },
+    "highlights": [
+      "Wrinkle prevention",
+      "Hanger hook included",
+      "Zipper closure",
+      "Perfect for suits",
+      "Travel-friendly"
+    ]
+  }
+]

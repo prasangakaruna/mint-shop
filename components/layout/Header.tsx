@@ -275,9 +275,9 @@ export default function Header() {
         {/* Quick links row */}
         <div className="flex items-center gap-1 border-b border-slate-100 px-3 py-3">
           {[
-            { icon: "favorite", label: "Wishlist", href: "/wishlist" },
-            { icon: "receipt_long", label: "Orders", href: "/orders" },
-            { icon: "headset_mic", label: "Support", href: "/help" },
+            { icon: "favorite", label: "Wishlist", href: "/shop" },
+            { icon: "receipt_long", label: "Orders", href: "/shop" },
+            { icon: "headset_mic", label: "Support", href: "/shop" },
           ].map((item) => (
             <Link
               key={item.label}
